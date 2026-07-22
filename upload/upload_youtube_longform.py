@@ -145,7 +145,9 @@ def upload_to_youtube(video_info):
         return False
     
     # Build YouTube API client
-    youtube = build(API_SERVICE_NAME, API_VERSION, credentials=credentials)
+    import httplib2
+    http = httplib2.Http(timeout=600)
+    youtube = build(API_SERVICE_NAME, API_VERSION, credentials=credentials, http=http)
     
     # Get title and description
     title = "Learn Danish with Velocity Danish"
