@@ -243,6 +243,7 @@ For each phrase:
 1. English phrase (pure English, zero Danish words) with commas for natural pauses
 2. Danish translation
 3. Pronunciation guide (phonetic English spelling)
+CRITICAL: Every translation MUST be in Danish. NEVER use German, Spanish, or any other language. Only Danish.
 
 Return as JSON array:
 [{{"english": "...", "danish": "...", "pronunciation": "..."}}]
