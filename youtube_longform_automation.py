@@ -36,8 +36,8 @@ for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR, LONGFORM_DI
 VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
-TARGET_DURATION_MINUTES = 5
-TARGET_PHRASES = 120
+TARGET_DURATION_MINUTES = 15  # Target ~15-minute videos (~170 phrases)
+TARGET_PHRASES = 170  # Number of phrases to generate
 
 # English category names
 CATEGORIES_ENGLISH = [
@@ -830,11 +830,12 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
 def generate_title_description(category_english: str, category_danish: str, phrases: list, duration_minutes: float, output_dir: str):
+    duration_label = f"{int(round(duration_minutes))}" if duration_minutes >= 10 else f"{duration_minutes:.0f}"
     titles = [
-        f"Learn Danish in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_danish})",
+        f"Learn Danish in {duration_label} Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_danish})",
         f"60 Danish Phrases for {category_english} | Speak Danish Like a Native! ({category_danish})",
         f"Master Danish {category_english} | 60 Essential Danish Phrases with Pronunciation | Velocity Danish",
-        f"Danish Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"Danish Learning Made Easy | {category_english} Vocabulary | {duration_label} Minute Lesson",
         f"Speak Danish Fluently | {category_english} Phrases | English + Danish + Pronunciation",
     ]
 
