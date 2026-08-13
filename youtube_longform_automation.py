@@ -839,6 +839,9 @@ def generate_title_description(category_english: str, category_danish: str, phra
         f"Speak Danish Fluently | {category_english} Phrases | English + Danish + Pronunciation",
     ]
 
+    # YouTube title limit is 100 chars - truncate any overlong title safely
+    titles = [t if len(t) <= 100 else (t[:97] + "...") for t in titles]
+
     description = f"""\U0001F1E9\U0001F1F0 Learn Danish with Velocity Danish! \U0001F1E9\U0001F1F0
 
 In this video, you'll learn 60 essential Danish phrases about {category_english} ({category_danish}).
