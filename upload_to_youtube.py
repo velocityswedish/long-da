@@ -3,6 +3,7 @@ YouTube Upload Script for Velocity Danish
 """
 
 import os, sys, json, time
+import time
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -36,7 +37,7 @@ def get_latest_video():
 
 
 
-def ensure_playlist(youtube, title="Velocity Danish - Danish Phrases", description="All Danish phrases videos in one playlist. Learn Danish with Velocity Danish!"):
+def ensure_playlist(youtube, title="Learn Danish Phrases for Beginners | Velocity Danish", description="All danish phrases videos in one playlist. 🇩🇰 Learn Danish with Velocity Danish!"):
     """Find an existing playlist by title or create a new one. Returns playlist_id."""
     try:
         req = youtube.playlists().list(part="snippet", mine=True, maxResults=50)
