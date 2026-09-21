@@ -78,7 +78,7 @@ CATEGORIES_DANISH = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "da-DK-ChristelNeural"
 
 # Phrase history file
