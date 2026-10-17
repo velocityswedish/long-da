@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "Excuse me, where is the bus stop?",
+      "danish": "Undskyld mig, hvor er busstoppestedet?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995589"
+    },
+    {
+      "english": "Does this bus go to the city center?",
+      "danish": "Kører denne bus til centrum?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995604"
+    },
+    {
+      "english": "What time does the next train arrive?",
+      "danish": "Hvornår kommer det næste tog?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995608"
+    },
+    {
+      "english": "Can I buy a ticket here?",
+      "danish": "Kan jeg købe en billet her?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995611"
+    },
+    {
+      "english": "How much is a single ticket?",
+      "danish": "Hvad koster en enkeltbillet?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995615"
+    },
+    {
+      "english": "I need a ticket to Copenhagen.",
+      "danish": "Jeg skal bruge en billet til København.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995618"
+    },
+    {
+      "english": "When is the last bus?",
+      "danish": "Hvornår går den sidste bus?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995621"
+    },
+    {
+      "english": "Is this seat taken?",
+      "danish": "Er denne plads optaget?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995627"
+    },
+    {
+      "english": "Could you please move?",
+      "danish": "Kan du venligst flytte dig?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995631"
+    },
+    {
+      "english": "My stop is next.",
+      "danish": "Min holdeplads er den næste.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995633"
+    },
+    {
+      "english": "Please let me off here.",
+      "danish": "Slip mig af her, tak.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995636"
+    },
+    {
+      "english": "Is there Wi-Fi on board?",
+      "danish": "Er der Wi-Fi ombord?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995639"
+    },
+    {
+      "english": "This is very crowded.",
+      "danish": "Det er meget proppet.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995641"
+    },
+    {
+      "english": "I think we are lost.",
+      "danish": "Jeg tror, vi er faret vild.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995644"
+    },
+    {
+      "english": "What's the next station?",
+      "danish": "Hvad er den næste station?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995646"
+    },
+    {
+      "english": "This is the right way.",
+      "danish": "Det er den rigtige vej.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995648"
+    },
+    {
+      "english": "I missed my stop.",
+      "danish": "Jeg overså min holdeplads.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995651"
+    },
+    {
+      "english": "Can I get a day pass?",
+      "danish": "Kan jeg få et dagskort?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995653"
+    },
+    {
+      "english": "Where do I change trains?",
+      "danish": "Hvor skal jeg skifte tog?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995657"
+    },
+    {
+      "english": "Is the train running late?",
+      "danish": "Er toget forsinket?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995660"
+    },
+    {
+      "english": "How long is the journey?",
+      "danish": "Hvor lang tid tager turen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995662"
+    },
+    {
+      "english": "Can I pay by card?",
+      "danish": "Kan jeg betale med kort?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995664"
+    },
+    {
+      "english": "This is my destination.",
+      "danish": "Dette er min destination.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995666"
+    },
+    {
+      "english": "Mind the gap, please.",
+      "danish": "Pas på mellemrummet, tak.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995669"
+    },
+    {
+      "english": "Is this the express?",
+      "danish": "Er dette eksprestoget?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995671"
+    },
+    {
+      "english": "I need to get off.",
+      "danish": "Jeg skal af.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995674"
+    },
+    {
+      "english": "Is there a toilet onboard?",
+      "danish": "Er der et toilet ombord?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995676"
+    },
+    {
+      "english": "Where can I find the timetable?",
+      "danish": "Hvor finder jeg køreplanen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995678"
+    },
+    {
+      "english": "This is a bit confusing.",
+      "danish": "Det er lidt forvirrende.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995681"
+    },
+    {
+      "english": "Thank you for your help.",
+      "danish": "Tak for hjælpen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995683"
+    },
+    {
+      "english": "Could you help me, please?",
+      "danish": "Kan du hjælpe mig, venligst?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995685"
+    },
+    {
+      "english": "Is this the correct platform?",
+      "danish": "Er det her den rigtige perron?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995688"
+    },
+    {
+      "english": "Which line should I take?",
+      "danish": "Hvilken linje skal jeg tage?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995690"
+    },
+    {
+      "english": "Do you know when it departs?",
+      "danish": "Ved du, hvornår den kører?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995694"
+    },
+    {
+      "english": "Is there a transfer point nearby?",
+      "danish": "Er der et skiftepunkt i nærheden?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995696"
+    },
+    {
+      "english": "Can I get off at the next stop?",
+      "danish": "Kan jeg stå af ved næste stop?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995699"
+    },
+    {
+      "english": "Is it far to the station?",
+      "danish": "Er der langt til stationen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995701"
+    },
+    {
+      "english": "What’s the best route to the museum?",
+      "danish": "Hvad er den bedste vej til museet?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995707"
+    },
+    {
+      "english": "Excuse me, is this bus going downtown?",
+      "danish": "Undskyld, kører denne bus til centrum?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995710"
+    },
+    {
+      "english": "Where can I buy a travel card?",
+      "danish": "Hvor kan jeg købe et rejsekort?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995712"
+    },
+    {
+      "english": "How often does the tram run?",
+      "danish": "Hvor ofte kører sporvognen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995715"
+    },
+    {
+      "english": "Is there a direct connection?",
+      "danish": "Er der en direkte forbindelse?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995718"
+    },
+    {
+      "english": "Could you tell me, when to get off?",
+      "danish": "Kan du sige mig, hvornår jeg skal af?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995720"
+    },
+    {
+      "english": "Is this ticket valid for the whole day?",
+      "danish": "Er denne billet gyldig hele dagen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995723"
+    },
+    {
+      "english": "What time does the last train leave?",
+      "danish": "Hvornår kører det sidste tog?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995725"
+    },
+    {
+      "english": "Can I bring luggage on board?",
+      "danish": "Må jeg medbringe bagage?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995728"
+    },
+    {
+      "english": "Is there a bike rack available?",
+      "danish": "Er der et cykelstativ?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995731"
+    },
+    {
+      "english": "Does this stop at the airport?",
+      "danish": "Stopper denne ved lufthavnen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995734"
+    },
+    {
+      "english": "How do I find the right bus?",
+      "danish": "Hvordan finder jeg den rigtige bus?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995737"
+    },
+    {
+      "english": "Is it possible to reserve a seat?",
+      "danish": "Kan man reservere en plads?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995739"
+    },
+    {
+      "english": "Where can I find a map?",
+      "danish": "Hvor finder jeg et kort?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995742"
+    },
+    {
+      "english": "Are there any delays expected?",
+      "danish": "Er der nogen forsinkelser?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995744"
+    },
+    {
+      "english": "Could you point me towards the exit?",
+      "danish": "Kan du vise mig udgangen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995746"
+    },
+    {
+      "english": "Is this seat free?",
+      "danish": "Er denne plads ledig?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995748"
+    },
+    {
+      "english": "When does the service stop?",
+      "danish": "Hvornår stopper kørslen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995750"
+    },
+    {
+      "english": "Do I need exact change?",
+      "danish": "Skal jeg bruge lige penge?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995753"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "danish": "Kan du gentage det, venligst?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995755"
+    },
+    {
+      "english": "What is this line called?",
+      "danish": "Hvad hedder denne linje?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995758"
+    },
+    {
+      "english": "Is there a connection to the metro?",
+      "danish": "Er der forbindelse til metroen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995760"
+    },
+    {
+      "english": "You've got this, just breathe.",
+      "danish": "Du klarer det, bare træk vejret.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995763"
+    },
+    {
+      "english": "Every journey, is a learning one.",
+      "danish": "Hver rejse, er en lærerig en.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995766"
+    },
+    {
+      "english": "Relax, the transport will come.",
+      "danish": "Slap af, transporten kommer.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995769"
+    },
+    {
+      "english": "Trust the process, it's efficient.",
+      "danish": "Stol på processen, den er effektiv.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995771"
+    },
+    {
+      "english": "Take it one step, at a time.",
+      "danish": "Tag det et skridt, ad gangen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995774"
+    },
+    {
+      "english": "Good job navigating the system!",
+      "danish": "Godt gået med at finde rundt!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995776"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "danish": "Du klarer dig flot, fortsæt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995779"
+    },
+    {
+      "english": "This city's transport, is amazing.",
+      "danish": "Byens transport, er fantastisk.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995782"
+    },
+    {
+      "english": "Don't worry, it's quite simple.",
+      "danish": "Bare rolig, det er ret simpelt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995799"
+    },
+    {
+      "english": "You're getting the hang of it.",
+      "danish": "Du er ved at få styr på det.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995801"
+    },
+    {
+      "english": "Every trip, is a new adventure.",
+      "danish": "Hver tur, er et nyt eventyr.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995804"
+    },
+    {
+      "english": "Breathe, you'll get there on time.",
+      "danish": "Træk vejret, du når det.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995806"
+    },
+    {
+      "english": "Nice work, you figured it out.",
+      "danish": "Flot klaret, du fandt ud af det.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995809"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "danish": "Nyd rejsen, slap af.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995813"
+    },
+    {
+      "english": "You're a natural public transport user.",
+      "danish": "Du er en naturlig bruger.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995816"
+    },
+    {
+      "english": "Small steps, lead to big places.",
+      "danish": "Små skridt, fører til store steder.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995819"
+    },
+    {
+      "english": "You're doing so well, congratulations!",
+      "danish": "Du klarer dig så godt, tillykke!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995822"
+    },
+    {
+      "english": "Patience, is key with transport.",
+      "danish": "Tålmodighed, er vigtig.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995826"
+    },
+    {
+      "english": "Focus on the destination, not the delays.",
+      "danish": "Fokuser på målet, ikke forsinkelser.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995831"
+    },
+    {
+      "english": "You've got this travel handled.",
+      "danish": "Du har styr på rejsen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995833"
+    },
+    {
+      "english": "Wonderful effort, truly impressive.",
+      "danish": "Fantastisk indsats, virkelig flot.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995836"
+    },
+    {
+      "english": "Keep that positive travel vibe.",
+      "danish": "Bevar den gode rejse-stemning.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995838"
+    },
+    {
+      "english": "You're a pro at this now.",
+      "danish": "Du er en professionel nu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995840"
+    },
+    {
+      "english": "Success is in the planning.",
+      "danish": "Succes ligger i planen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995842"
+    },
+    {
+      "english": "Almost there, keep the faith.",
+      "danish": "Snart fremme, behold troen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995845"
+    },
+    {
+      "english": "This is going smoothly, excellent.",
+      "danish": "Det går glat, fremragende.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995848"
+    },
+    {
+      "english": "Your navigation skills are top-notch.",
+      "danish": "Dine navigations-evner er i top.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995850"
+    },
+    {
+      "english": "Believe you can, and you will.",
+      "danish": "Tro på dig selv, og du kan.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995853"
+    },
+    {
+      "english": "You're mastering public transport.",
+      "danish": "Du mestrer offentlig transport.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995855"
+    },
+    {
+      "english": "Every ride, makes you wiser.",
+      "danish": "Hver tur, gør dig klogere.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995857"
+    },
+    {
+      "english": "Sometimes, I just zone out.",
+      "danish": "Nogle gange, tænker jeg bare væk.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995860"
+    },
+    {
+      "english": "It's a good moment, to reflect.",
+      "danish": "Det er et godt øjeblik, at reflektere.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995863"
+    },
+    {
+      "english": "I often miss my stop, actually.",
+      "danish": "Jeg misser ofte, min stop, faktisk.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995866"
+    },
+    {
+      "english": "This commute, it teaches patience.",
+      "danish": "Denne pendling, den lærer tålmodighed.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995868"
+    },
+    {
+      "english": "Feeling a bit lost, but it's okay.",
+      "danish": "Jeg føler mig lidt, tabt, men det går.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995871"
+    },
+    {
+      "english": "I appreciate the quiet moments.",
+      "danish": "Jeg sætter pris, på de stille stunder.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995874"
+    },
+    {
+      "english": "It's humbling, to be one of many.",
+      "danish": "Det er ydmygt, at være en af mange.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995876"
+    },
+    {
+      "english": "I get so much done, on the train.",
+      "danish": "Jeg får så meget fra hånden, i toget.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995879"
+    },
+    {
+      "english": "This journey, has its own rhythm.",
+      "danish": "Denne rejse, har sin egen rytme.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995881"
+    },
+    {
+      "english": "I sometimes wonder, where they're going.",
+      "danish": "Jeg undrer mig sommetider, hvor de skal hen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995886"
+    },
+    {
+      "english": "It's a good time, to just observe.",
+      "danish": "Det er en god tid, til bare at observere.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995889"
+    },
+    {
+      "english": "Feeling surprisingly calm, right now.",
+      "danish": "Jeg føler mig overraskende rolig, lige nu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995891"
+    },
+    {
+      "english": "This reminds me, to slow down.",
+      "danish": "Dette minder mig, om at sænke farten.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995894"
+    },
+    {
+      "english": "I love the anonymity, of it all.",
+      "danish": "Jeg elsker anonymiteten, ved det hele.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995896"
+    },
+    {
+      "english": "A moment of peace, before the chaos.",
+      "danish": "Et øjebliks fred, før kaosset.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995900"
+    },
+    {
+      "english": "It's a shared experience, this ride.",
+      "danish": "Det er en fælles oplevelse, denne tur.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995903"
+    },
+    {
+      "english": "I sometimes daydream, on the bus.",
+      "danish": "Jeg dagdrømmer sommetider, i bussen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995905"
+    },
+    {
+      "english": "This helps me reset, my mind.",
+      "danish": "Dette hjælper mig, med at nulstille sindet.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995907"
+    },
+    {
+      "english": "It's a grounding feeling, somehow.",
+      "danish": "Det er en jordnær følelse, på en måde.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995909"
+    },
+    {
+      "english": "I find inspiration, in people watching.",
+      "danish": "Jeg finder inspiration, i at se på folk.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995912"
+    },
+    {
+      "english": "This journey, is a welcome pause.",
+      "danish": "Denne rejse, er en velkommen pause.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995914"
+    },
+    {
+      "english": "I feel surprisingly connected, to the city.",
+      "danish": "Jeg føler mig overraskende forbundet, med byen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995917"
+    },
+    {
+      "english": "It's a small escape, from routine.",
+      "danish": "Det er en lille flugt, fra rutinen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995919"
+    },
+    {
+      "english": "I'm learning to be, more present.",
+      "danish": "Jeg lærer at være, mere til stede.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995922"
+    },
+    {
+      "english": "This quiet time, recharges me.",
+      "danish": "Denne stille tid, genoplader mig.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995924"
+    },
+    {
+      "english": "I appreciate the predictability, of it.",
+      "danish": "Jeg sætter pris, på forudsigeligheden, ved det.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995926"
+    },
+    {
+      "english": "It's a time for introspection, for me.",
+      "danish": "Det er tid, til eftertanke, for mig.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995929"
+    },
+    {
+      "english": "I feel a sense of belonging, here.",
+      "danish": "Jeg føler en følelse af tilhørsforhold, her.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995933"
+    },
+    {
+      "english": "This journey is, surprisingly peaceful.",
+      "danish": "Denne rejse er, overraskende fredelig.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995935"
+    },
+    {
+      "english": "I find beauty, in the mundane.",
+      "danish": "Jeg finder skønhed, i det hverdagsagtige.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995938"
+    },
+    {
+      "english": "Ask for directions, if unsure.",
+      "danish": "Spørg om vej, hvis du er usikker.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-17T07:41:33.995940"
+    }
+  ],
+  "last_updated": "2026-10-17T07:41:33.995942"
+}
