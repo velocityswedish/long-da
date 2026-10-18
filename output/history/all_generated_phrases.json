@@ -719,7 +719,727 @@
       "danish": "Spørg om vej, hvis du er usikker.",
       "category": "Public Transportation",
       "generated_at": "2026-10-17T07:41:33.995940"
+    },
+    {
+      "english": "Welcome home, darling.",
+      "danish": "Velkommen hjem, skat.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308271"
+    },
+    {
+      "english": "How was your day, love?",
+      "danish": "Hvordan var din dag, min elskede?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308285"
+    },
+    {
+      "english": "Dinner's ready, come eat.",
+      "danish": "Middagen er klar, kom og spis.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308289"
+    },
+    {
+      "english": "I missed you so much.",
+      "danish": "Jeg savnede dig så meget.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308292"
+    },
+    {
+      "english": "Can I help with that?",
+      "danish": "Kan jeg hjælpe med det?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308295"
+    },
+    {
+      "english": "Let's relax, just us.",
+      "danish": "Lad os slappe af, kun os.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308298"
+    },
+    {
+      "english": "This feels like home.",
+      "danish": "Det her føles som hjemme.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308300"
+    },
+    {
+      "english": "You look wonderful today.",
+      "danish": "Du ser vidunderlig ud i dag.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308305"
+    },
+    {
+      "english": "Sweet dreams, my dear.",
+      "danish": "Sov sødt, min kære.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308309"
+    },
+    {
+      "english": "What a lovely evening.",
+      "danish": "Sikke en dejlig aften.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308313"
+    },
+    {
+      "english": "Are you comfortable, honey?",
+      "danish": "Sidder du godt, honning?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308316"
+    },
+    {
+      "english": "I'm so glad you're here.",
+      "danish": "Jeg er så glad for, du er her.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308320"
+    },
+    {
+      "english": "Let's make some coffee.",
+      "danish": "Lad os lave noget kaffe.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308322"
+    },
+    {
+      "english": "Everything is perfect, isn't it?",
+      "danish": "Alt er perfekt, ikke sandt?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308326"
+    },
+    {
+      "english": "Your presence is a gift.",
+      "danish": "Din tilstedeværelse er en gave.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308328"
+    },
+    {
+      "english": "This is our sanctuary.",
+      "danish": "Dette er vores fristed.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308330"
+    },
+    {
+      "english": "I adore our quiet nights.",
+      "danish": "Jeg elsker vores stille aftener.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308333"
+    },
+    {
+      "english": "You make this house a home.",
+      "danish": "Du gør dette hus til et hjem.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308335"
+    },
+    {
+      "english": "Can I get you anything?",
+      "danish": "Kan jeg få dig noget?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308338"
+    },
+    {
+      "english": "Let's watch a movie, together.",
+      "danish": "Lad os se en film, sammen.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308341"
+    },
+    {
+      "english": "This is so cozy, my love.",
+      "danish": "Det her er så hyggeligt, min elskede.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308346"
+    },
+    {
+      "english": "I feel safe with you.",
+      "danish": "Jeg føler mig tryg hos dig.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308349"
+    },
+    {
+      "english": "Just what I needed.",
+      "danish": "Lige hvad jeg havde brug for.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308351"
+    },
+    {
+      "english": "Our little world, right?",
+      "danish": "Vores lille verden, ikke sandt?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308354"
+    },
+    {
+      "english": "Thank you for being you.",
+      "danish": "Tak fordi du er dig.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308356"
+    },
+    {
+      "english": "Let's have some tea.",
+      "danish": "Lad os drikke noget te.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308359"
+    },
+    {
+      "english": "You always know how.",
+      "danish": "Du ved altid hvordan.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308361"
+    },
+    {
+      "english": "Home is where you are.",
+      "danish": "Hjem er hvor du er.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308363"
+    },
+    {
+      "english": "So nice to see you.",
+      "danish": "Så rart at se dig.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308368"
+    },
+    {
+      "english": "I love our little traditions.",
+      "danish": "Jeg elsker vores små traditioner.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308371"
+    },
+    {
+      "english": "What are we doing tonight, dear?",
+      "danish": "Hvad skal vi lave i aften, skat?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308374"
+    },
+    {
+      "english": "Did you remember to lock the door?",
+      "danish": "Huskede du at låse døren?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308377"
+    },
+    {
+      "english": "Is there anything I can fetch?",
+      "danish": "Er der noget, jeg kan hente?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308380"
+    },
+    {
+      "english": "How should we decorate this room?",
+      "danish": "Hvordan skal vi indrette det her rum?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308383"
+    },
+    {
+      "english": "Can you pass me that book, please?",
+      "danish": "Kan du give mig den bog, tak?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308386"
+    },
+    {
+      "english": "Have you seen my keys anywhere?",
+      "danish": "Har du set mine nøgler nogensteds?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308428"
+    },
+    {
+      "english": "Who is coming over this weekend?",
+      "danish": "Hvem kommer på besøg i weekenden?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308431"
+    },
+    {
+      "english": "What's for dinner, are we cooking?",
+      "danish": "Hvad får vi til aftensmad, skal vi lave mad?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308434"
+    },
+    {
+      "english": "Do we need more milk, by the way?",
+      "danish": "Skal vi have mere mælk, forresten?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308437"
+    },
+    {
+      "english": "Are the children behaving themselves?",
+      "danish": "Opfører børnene sig ordentligt?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308440"
+    },
+    {
+      "english": "When do we need to leave tomorrow?",
+      "danish": "Hvornår skal vi køre i morgen?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308443"
+    },
+    {
+      "english": "Could you help me with this chore?",
+      "danish": "Kunne du hjælpe mig med den her opgave?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308445"
+    },
+    {
+      "english": "What time should we wake up early?",
+      "danish": "Hvad tid skal vi stå tidligt op?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308448"
+    },
+    {
+      "english": "Is the new sofa comfortable enough?",
+      "danish": "Er den nye sofa behagelig nok?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308451"
+    },
+    {
+      "english": "Whose turn is it to set the table?",
+      "danish": "Hvem er det, der skal dække bordet?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308453"
+    },
+    {
+      "english": "Did you finish your homework already?",
+      "danish": "Har du lavet dine lektier allerede?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308456"
+    },
+    {
+      "english": "What's your favorite spot in the house?",
+      "danish": "Hvad er dit yndlingssted i huset?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308459"
+    },
+    {
+      "english": "Should we invite our neighbors over?",
+      "danish": "Skal vi invitere vores naboer?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308462"
+    },
+    {
+      "english": "Can you help me water the plants?",
+      "danish": "Kan du hjælpe mig med at vande blomsterne?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308464"
+    },
+    {
+      "english": "Where did we put the spare blankets?",
+      "danish": "Hvor har vi lagt de ekstra tæpper?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308467"
+    },
+    {
+      "english": "Are you feeling tired, shall I help?",
+      "danish": "Er du træt, skal jeg hjælpe?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308470"
+    },
+    {
+      "english": "What should we get for the garden?",
+      "danish": "Hvad skal vi have til haven?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308473"
+    },
+    {
+      "english": "Can you believe how fast time flies?",
+      "danish": "Kan du forestille dig, hvor hurtigt tiden går?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308475"
+    },
+    {
+      "english": "Is everything okay with the laundry?",
+      "danish": "Er alt okay med vasketøjet?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308478"
+    },
+    {
+      "english": "What plans do we have for Sunday?",
+      "danish": "Hvilke planer har vi for søndag?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308484"
+    },
+    {
+      "english": "Do you want to watch something funny?",
+      "danish": "Vil du se noget sjovt?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308487"
+    },
+    {
+      "english": "Could you bring me a glass of water?",
+      "danish": "Kunne du hente mig et glas vand?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308491"
+    },
+    {
+      "english": "Who left the light on upstairs?",
+      "danish": "Hvem lod lyset være tændt ovenpå?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308494"
+    },
+    {
+      "english": "Shall we tidy up before guests arrive?",
+      "danish": "Skal vi rydde op, inden gæsterne kommer?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308497"
+    },
+    {
+      "english": "What do you think about this renovation?",
+      "danish": "Hvad synes du om denne renovering?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308500"
+    },
+    {
+      "english": "There's always room, join us!",
+      "danish": "Der er altid plads, kom indenfor!",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308511"
+    },
+    {
+      "english": "It feels like home, doesn't it?",
+      "danish": "Det føles som hjemme, ikke?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308515"
+    },
+    {
+      "english": "We're a bit of a crazy bunch.",
+      "danish": "Vi er lidt af en skør flok.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308520"
+    },
+    {
+      "english": "Family first, always remember that.",
+      "danish": "Familien først, husk det altid.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308523"
+    },
+    {
+      "english": "This house has good vibes.",
+      "danish": "Dette hus har gode vibrationer.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308526"
+    },
+    {
+      "english": "Let's make some noise, kids!",
+      "danish": "Lad os lave lidt larm, børn!",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308530"
+    },
+    {
+      "english": "Hyggelig afternoon, just us.",
+      "danish": "Hyggelig eftermiddag, bare os.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308532"
+    },
+    {
+      "english": "Who wants to help cook?",
+      "danish": "Hvem vil hjælpe med at lave mad?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308535"
+    },
+    {
+      "english": "It's raining cats and dogs outside.",
+      "danish": "Det regner skomagerdrenge derude.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308538"
+    },
+    {
+      "english": "My heart is full, honestly.",
+      "danish": "Mit hjerte er fyldt, ærligt.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308541"
+    },
+    {
+      "english": "We stick together, thick and thin.",
+      "danish": "Vi holder sammen, i tykt og tyndt.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308544"
+    },
+    {
+      "english": "More coffee for everyone, please.",
+      "danish": "Mere kaffe til alle, tak.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308547"
+    },
+    {
+      "english": "The children are little devils sometimes.",
+      "danish": "Børnene er små djævle nogle gange.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308549"
+    },
+    {
+      "english": "Welcome to our humble abode.",
+      "danish": "Velkommen til vores ydmyge bolig.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308552"
+    },
+    {
+      "english": "Let's share some stories tonight.",
+      "danish": "Lad os dele nogle historier i aften.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308555"
+    },
+    {
+      "english": "The best evenings are spent here.",
+      "danish": "De bedste aftener bruges her.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308557"
+    },
+    {
+      "english": "Don't forget to call grandma.",
+      "danish": "Glem ikke at ringe til mormor.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308560"
+    },
+    {
+      "english": "We're building memories, one day at a time.",
+      "danish": "Vi bygger minder, en dag ad gangen.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308563"
+    },
+    {
+      "english": "This smells like Grandma's baking.",
+      "danish": "Det dufter af mormors bagværk.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308566"
+    },
+    {
+      "english": "The apple doesn't fall far from the tree.",
+      "danish": "Æblet falder ikke langt fra stammen.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308569"
+    },
+    {
+      "english": "Is dinner ready soon, darling?",
+      "danish": "Er aftensmaden snart klar, skat?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308572"
+    },
+    {
+      "english": "We make a great team, don't we?",
+      "danish": "Vi er et godt team, ikke?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308576"
+    },
+    {
+      "english": "This is exactly how it should be.",
+      "danish": "Det er præcis som det skal være.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308579"
+    },
+    {
+      "english": "The door is always open here.",
+      "danish": "Døren er altid åben her.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308581"
+    },
+    {
+      "english": "Let's put our feet up.",
+      "danish": "Lad os lægge fødderne op.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308584"
+    },
+    {
+      "english": "These moments are precious, truly.",
+      "danish": "Disse øjeblikke er dyrebare, virkelig.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308587"
+    },
+    {
+      "english": "We're in this together.",
+      "danish": "Vi er i det her sammen.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308591"
+    },
+    {
+      "english": "My favorite people, right here.",
+      "danish": "Mine yndlingsmennesker, lige her.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308594"
+    },
+    {
+      "english": "This is where my heart rests.",
+      "danish": "Her hviler mit hjerte.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308596"
+    },
+    {
+      "english": "I feel truly at peace here.",
+      "danish": "Jeg føler mig virkelig tryg her.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308599"
+    },
+    {
+      "english": "We need more patience, darling.",
+      "danish": "Vi behøver mere tålmodighed, skat.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308602"
+    },
+    {
+      "english": "My thoughts wander, sometimes sadly.",
+      "danish": "Mine tanker vandrer, sommetider trist.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308607"
+    },
+    {
+      "english": "It's okay to be vulnerable, love.",
+      "danish": "Det er okay at være sårbar, min elskede.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308610"
+    },
+    {
+      "english": "Let's just breathe, everything's fine.",
+      "danish": "Lad os bare trække vejret, alt er fint.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308613"
+    },
+    {
+      "english": "I cherish these quiet moments.",
+      "danish": "Jeg værdsætter disse stille stunder.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308616"
+    },
+    {
+      "english": "This connection feels so real.",
+      "danish": "Denne forbindelse føles så ægte.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308619"
+    },
+    {
+      "english": "Are we doing enough for them?",
+      "danish": "Gør vi nok for dem?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308621"
+    },
+    {
+      "english": "I worry, but trust is growing.",
+      "danish": "Jeg bekymrer mig, men tilliden vokser.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308624"
+    },
+    {
+      "english": "This feels like a safe harbor.",
+      "danish": "Dette føles som en sikker havn.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308627"
+    },
+    {
+      "english": "It’s important to be honest.",
+      "danish": "Det er vigtigt at være ærlig.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308631"
+    },
+    {
+      "english": "I'm learning to forgive myself.",
+      "danish": "Jeg lærer at tilgive mig selv.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308634"
+    },
+    {
+      "english": "Our bond is getting stronger.",
+      "danish": "Vores bånd bliver stærkere.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308637"
+    },
+    {
+      "english": "What truly matters, in the end?",
+      "danish": "Hvad betyder egentlig, til sidst?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308640"
+    },
+    {
+      "english": "Let kindness guide our actions.",
+      "danish": "Lad venlighed lede vores handlinger.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308642"
+    },
+    {
+      "english": "I'm reflecting on our journey.",
+      "danish": "Jeg reflekterer over vores rejse.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308645"
+    },
+    {
+      "english": "This quiet house, it soothes me.",
+      "danish": "Dette stille hus, det beroliger mig.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308650"
+    },
+    {
+      "english": "We understand each other, I think.",
+      "danish": "Vi forstår hinanden, tror jeg.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308653"
+    },
+    {
+      "english": "My feelings are complicated sometimes.",
+      "danish": "Mine følelser er komplicerede sommetider.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308655"
+    },
+    {
+      "english": "Can we just talk, openly?",
+      "danish": "Kan vi bare snakke, åbent?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308658"
+    },
+    {
+      "english": "I’m learning, one step at a time.",
+      "danish": "Jeg lærer, et skridt ad gangen.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308662"
+    },
+    {
+      "english": "This home embraces my soul.",
+      "danish": "Dette hjem omfavner min sjæl.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308665"
+    },
+    {
+      "english": "Patience is a virtue, indeed.",
+      "danish": "Tålmodighed er en dyd, sandelig.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308668"
+    },
+    {
+      "english": "We’re building something beautiful here.",
+      "danish": "Vi bygger noget smukt her.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308672"
+    },
+    {
+      "english": "My heart feels truly full now.",
+      "danish": "Mit hjerte føles virkelig fyldt nu.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308675"
+    },
+    {
+      "english": "Let's focus on what unites us.",
+      "danish": "Lad os fokusere på det, der forener os.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308679"
+    },
+    {
+      "english": "This is a place for healing.",
+      "danish": "Dette er et sted til helbredelse.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308682"
+    },
+    {
+      "english": "I appreciate your understanding, my dear.",
+      "danish": "Jeg sætter pris på din forståelse, min kære.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308685"
+    },
+    {
+      "english": "We grow together, like plants.",
+      "danish": "Vi vokser sammen, som planter.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308688"
+    },
+    {
+      "english": "Let's tidy up, before guests arrive.",
+      "danish": "Lad os rydde op, inden gæster kommer.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308691"
+    },
+    {
+      "english": "Who can help me set the table?",
+      "danish": "Hvem kan hjælpe mig med at dække bord?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-18T07:56:53.308694"
     }
   ],
-  "last_updated": "2026-10-17T07:41:33.995942"
+  "last_updated": "2026-10-18T07:56:53.308695"
 }
