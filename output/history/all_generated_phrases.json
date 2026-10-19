@@ -1439,7 +1439,727 @@
       "danish": "Hvem kan hjælpe mig med at dække bord?",
       "category": "Family & Home",
       "generated_at": "2026-10-18T07:56:53.308694"
+    },
+    {
+      "english": "Hello, nice to meet you.",
+      "danish": "Hej, rart at møde dig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006031"
+    },
+    {
+      "english": "Good morning, how are you?",
+      "danish": "God morgen, hvordan har du det?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006045"
+    },
+    {
+      "english": "Good evening, hope you're well.",
+      "danish": "God aften, håber du har det godt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006049"
+    },
+    {
+      "english": "Hi there, what's your name?",
+      "danish": "Hej, hvad hedder du?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006052"
+    },
+    {
+      "english": "My name is Anna, pleased to meet.",
+      "danish": "Jeg hedder Anna, fornøjet.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006055"
+    },
+    {
+      "english": "How's it going, my friend?",
+      "danish": "Hvordan går det, min ven?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006058"
+    },
+    {
+      "english": "It's going well, thanks.",
+      "danish": "Det går fint, tak.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006061"
+    },
+    {
+      "english": "Not too bad, and you?",
+      "danish": "Ikke så dårligt, og dig?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006066"
+    },
+    {
+      "english": "Welcome, come on in.",
+      "danish": "Velkommen, kom indenfor.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006069"
+    },
+    {
+      "english": "It's a pleasure to finally meet.",
+      "danish": "Det er en fornøjelse at møde dig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006072"
+    },
+    {
+      "english": "Likewise, the pleasure is mine.",
+      "danish": "Ligeledes, fornøjelsen er min.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006075"
+    },
+    {
+      "english": "What a surprise to see you!",
+      "danish": "Sikke en overraskelse at se dig!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006077"
+    },
+    {
+      "english": "Long time no see, right?",
+      "danish": "Lang tid ikke set, vel?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006079"
+    },
+    {
+      "english": "Yes, it's been ages.",
+      "danish": "Ja, det er længe siden.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006082"
+    },
+    {
+      "english": "How have you been lately?",
+      "danish": "Hvordan har du haft det på det seneste?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006084"
+    },
+    {
+      "english": "Busy, but managing, you know.",
+      "danish": "Travlt, men det går, du ved.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006086"
+    },
+    {
+      "english": "Great to see you again.",
+      "danish": "Dejligt at se dig igen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006089"
+    },
+    {
+      "english": "Likewise, same here.",
+      "danish": "Ligeledes, det samme her.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006091"
+    },
+    {
+      "english": "Are you new in town?",
+      "danish": "Er du ny i byen?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006093"
+    },
+    {
+      "english": "Yes, I just moved in.",
+      "danish": "Ja, jeg er lige flyttet ind.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006095"
+    },
+    {
+      "english": "Fantastic, welcome aboard!",
+      "danish": "Fantastisk, velkommen ombord!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006101"
+    },
+    {
+      "english": "Can I help you with something?",
+      "danish": "Kan jeg hjælpe dig med noget?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006103"
+    },
+    {
+      "english": "Just looking around, thanks.",
+      "danish": "Jeg kigger bare, tak.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006106"
+    },
+    {
+      "english": "Have a great day ahead.",
+      "danish": "Hav en god dag.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006108"
+    },
+    {
+      "english": "You too, enjoy your day.",
+      "danish": "I lige måde, god fornøjelse.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006110"
+    },
+    {
+      "english": "See you later then.",
+      "danish": "Vi ses senere.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006112"
+    },
+    {
+      "english": "Take care, bye for now.",
+      "danish": "Pas godt på dig selv, hej hej.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006115"
+    },
+    {
+      "english": "It was nice talking.",
+      "danish": "Det var hyggeligt at snakke.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006117"
+    },
+    {
+      "english": "Indeed, likewise.",
+      "danish": "Helt bestemt, ligeledes.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006119"
+    },
+    {
+      "english": "Until next time, hopefully.",
+      "danish": "Til næste gang, forhåbentlig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006122"
+    },
+    {
+      "english": "What brings you here today?",
+      "danish": "Hvad bringer dig hertil i dag?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006125"
+    },
+    {
+      "english": "Are you enjoying the event so far?",
+      "danish": "Nyder du arrangementet indtil videre?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006127"
+    },
+    {
+      "english": "Do you come here often?",
+      "danish": "Kommer du her ofte?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006130"
+    },
+    {
+      "english": "Have you tried the local food yet?",
+      "danish": "Har du prøvet den lokale mad endnu?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006132"
+    },
+    {
+      "english": "What are your first impressions?",
+      "danish": "Hvad er dine første indtryk?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006134"
+    },
+    {
+      "english": "Is this your first time in Denmark?",
+      "danish": "Er det din første gang i Danmark?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006137"
+    },
+    {
+      "english": "Where are you visiting from?",
+      "danish": "Hvor kommer du oprindeligt fra?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006139"
+    },
+    {
+      "english": "What do you do for work?",
+      "danish": "Hvad laver du til daglig?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006141"
+    },
+    {
+      "english": "Do you speak any other languages?",
+      "danish": "Taler du andre sprog?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006143"
+    },
+    {
+      "english": "Can you recommend a good restaurant?",
+      "danish": "Kan du anbefale en god restaurant?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006145"
+    },
+    {
+      "english": "How do you find living here?",
+      "danish": "Hvordan synes du, det er at bo her?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006147"
+    },
+    {
+      "english": "What do you like most about this city?",
+      "danish": "Hvad kan du bedst lide ved denne by?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006149"
+    },
+    {
+      "english": "Are you interested in Danish culture?",
+      "danish": "Er du interesseret i dansk kultur?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006241"
+    },
+    {
+      "english": "What's your favorite Danish tradition?",
+      "danish": "Hvad er din yndlings danske tradition?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006244"
+    },
+    {
+      "english": "Do you have any plans for the weekend?",
+      "danish": "Har du nogle planer for weekenden?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006247"
+    },
+    {
+      "english": "What kind of music do you enjoy?",
+      "danish": "Hvilken slags musik kan du lide?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006250"
+    },
+    {
+      "english": "Are you a football fan?",
+      "danish": "Er du fodboldfan?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006253"
+    },
+    {
+      "english": "Do you prefer the city or the countryside?",
+      "danish": "Foretrækker du byen eller landet?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006255"
+    },
+    {
+      "english": "What's the best way to get around?",
+      "danish": "Hvad er den bedste måde at komme rundt på?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006258"
+    },
+    {
+      "english": "Is there anything I should see here?",
+      "danish": "Er der noget, jeg bør se her?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006260"
+    },
+    {
+      "english": "Could you tell me about that?",
+      "danish": "Kunne du fortælle mig om det?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006262"
+    },
+    {
+      "english": "What's your opinion on this?",
+      "danish": "Hvad er din mening om dette?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006266"
+    },
+    {
+      "english": "Have you learned any Danish phrases?",
+      "danish": "Har du lært nogle danske vendinger?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006270"
+    },
+    {
+      "english": "Do you need help finding something?",
+      "danish": "Har du brug for hjælp til at finde noget?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006272"
+    },
+    {
+      "english": "Can I offer you a drink?",
+      "danish": "Må jeg byde dig noget at drikke?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006274"
+    },
+    {
+      "english": "How do people usually greet each other?",
+      "danish": "Hvordan hilser man normalt på hinanden?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006276"
+    },
+    {
+      "english": "Is it okay to ask personal questions?",
+      "danish": "Er det okay at stille personlige spørgsmål?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006279"
+    },
+    {
+      "english": "What's the best way to start a conversation?",
+      "danish": "Hvad er den bedste måde at starte en samtale?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006281"
+    },
+    {
+      "english": "Do you want to exchange contact details?",
+      "danish": "Skal vi udveksle kontaktoplysninger?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006283"
+    },
+    {
+      "english": "You've got this, try talking.",
+      "danish": "Du kan godt, prøv at snakke.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006286"
+    },
+    {
+      "english": "Don't be shy, just say hello.",
+      "danish": "Vær ikke genert, sig bare hej.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006289"
+    },
+    {
+      "english": "Every conversation, a new chance.",
+      "danish": "Hver samtale, en ny chance.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006291"
+    },
+    {
+      "english": "Keep practicing, you'll get better.",
+      "danish": "Bliv ved med at øve, du bliver bedre.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006294"
+    },
+    {
+      "english": "Small talk, big connections.",
+      "danish": "Småsnak, store forbindelser.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006296"
+    },
+    {
+      "english": "You are doing great, really.",
+      "danish": "Du klarer det flot, virkelig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006298"
+    },
+    {
+      "english": "Mistakes are part of learning.",
+      "danish": "Fejl er en del af at lære.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006301"
+    },
+    {
+      "english": "Be brave, open your mouth.",
+      "danish": "Vær modig, åbn din mund.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006308"
+    },
+    {
+      "english": "Focus on the positive, smile.",
+      "danish": "Fokuser på det positive, smil.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006311"
+    },
+    {
+      "english": "Just be yourself, they'll like it.",
+      "danish": "Vær bare dig selv, de kan lide det.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006314"
+    },
+    {
+      "english": "A friendly nod, goes a long way.",
+      "danish": "Et venligt nik, kommer langt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006317"
+    },
+    {
+      "english": "You're making good progress.",
+      "danish": "Du gør gode fremskridt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006320"
+    },
+    {
+      "english": "Embrace the awkward moments.",
+      "danish": "Omfavn de akavede øjeblikke.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006322"
+    },
+    {
+      "english": "Your effort is impressive.",
+      "danish": "Din indsats er imponerende.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006324"
+    },
+    {
+      "english": "Believe in your ability to connect.",
+      "danish": "Tro på din evne til at forbinde.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006326"
+    },
+    {
+      "english": "Every 'hej' is a victory.",
+      "danish": "Hvert 'hej' er en sejr.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006329"
+    },
+    {
+      "english": "Don't overthink it, just go.",
+      "danish": "Tænk ikke for meget, bare gå.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006331"
+    },
+    {
+      "english": "You're doing much better now.",
+      "danish": "Du klarer det meget bedre nu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006333"
+    },
+    {
+      "english": "Be open to new friendships.",
+      "danish": "Vær åben for nye venskaber.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006336"
+    },
+    {
+      "english": "Your Danish is understandable.",
+      "danish": "Dit dansk er forståeligt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006338"
+    },
+    {
+      "english": "Keep that positive attitude.",
+      "danish": "Behold den positive indstilling.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006340"
+    },
+    {
+      "english": "Each encounter, a learning moment.",
+      "danish": "Hvert møde, et læringsøjeblik.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006342"
+    },
+    {
+      "english": "You are more capable than you think.",
+      "danish": "Du er mere dygtig end du tror.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006344"
+    },
+    {
+      "english": "Confidence grows with practice.",
+      "danish": "Selvtillid vokser med øvelse.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006348"
+    },
+    {
+      "english": "That was a good attempt.",
+      "danish": "Det var et godt forsøg.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006352"
+    },
+    {
+      "english": "You're doing wonderfully.",
+      "danish": "Du gør det vidunderligt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006354"
+    },
+    {
+      "english": "Don't give up, keep trying.",
+      "danish": "Giv ikke op, bliv ved.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006357"
+    },
+    {
+      "english": "Your progress is noticeable.",
+      "danish": "Dine fremskridt er mærkbare.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006359"
+    },
+    {
+      "english": "Think positive, speak Danish.",
+      "danish": "Tænk positivt, tal dansk.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006361"
+    },
+    {
+      "english": "You'll find your voice soon.",
+      "danish": "Du finder din stemme snart.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006364"
+    },
+    {
+      "english": "I find this conversation, quite interesting.",
+      "danish": "Jeg finder denne samtale, ret interessant.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006366"
+    },
+    {
+      "english": "You have a lovely smile, truly.",
+      "danish": "Du har et dejligt smil, virkelig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006369"
+    },
+    {
+      "english": "I appreciate your patience, with me.",
+      "danish": "Jeg sætter pris på din tålmodighed, med mig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006371"
+    },
+    {
+      "english": "This feels like a good start, doesn't it?",
+      "danish": "Dette føles som en god start, ikke?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006374"
+    },
+    {
+      "english": "I'm glad we met, honestly.",
+      "danish": "Jeg er glad for, vi mødtes, ærligt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006377"
+    },
+    {
+      "english": "I enjoy talking with you, a lot.",
+      "danish": "Jeg nyder at tale med dig, meget.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006379"
+    },
+    {
+      "english": "This is surprisingly nice, isn't it?",
+      "danish": "Det her er overraskende dejligt, er det ikke?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006381"
+    },
+    {
+      "english": "I feel a good connection, with you.",
+      "danish": "Jeg mærker en god forbindelse, med dig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006384"
+    },
+    {
+      "english": "You seem thoughtful, and kind.",
+      "danish": "Du virker eftertænksom, og venlig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006386"
+    },
+    {
+      "english": "I’m open to getting to know you.",
+      "danish": "Jeg er åben for at lære dig at kende.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006390"
+    },
+    {
+      "english": "This moment feels special, to me.",
+      "danish": "Dette øjeblik føles specielt, for mig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006392"
+    },
+    {
+      "english": "Your perspective is refreshing, truly.",
+      "danish": "Dit perspektiv er forfriskende, virkelig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006394"
+    },
+    {
+      "english": "I feel comfortable talking, with you.",
+      "danish": "Jeg føler mig tryg ved at tale, med dig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006397"
+    },
+    {
+      "english": "It’s nice to share thoughts, like this.",
+      "danish": "Det er rart at dele tanker, sådan her.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006401"
+    },
+    {
+      "english": "I can sense your genuine warmth.",
+      "danish": "Jeg kan mærke din ægte varme.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006403"
+    },
+    {
+      "english": "You make me feel understood, you know?",
+      "danish": "Du får mig til at føle mig forstået, ved du?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006405"
+    },
+    {
+      "english": "This meeting was, surprisingly welcome.",
+      "danish": "Dette møde var, overraskende velkomment.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006407"
+    },
+    {
+      "english": "I'm enjoying this shared moment.",
+      "danish": "Jeg nyder dette fælles øjeblik.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006410"
+    },
+    {
+      "english": "Your energy is quite appealing.",
+      "danish": "Din energi er ret tiltalende.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006412"
+    },
+    {
+      "english": "This conversation feels very natural.",
+      "danish": "Denne samtale føles meget naturlig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006415"
+    },
+    {
+      "english": "I'm glad for this honest exchange.",
+      "danish": "Jeg er glad for denne ærlige udveksling.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006419"
+    },
+    {
+      "english": "You have a very open nature.",
+      "danish": "Du har en meget åben natur.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006421"
+    },
+    {
+      "english": "It’s rare to find this ease.",
+      "danish": "Det er sjældent at finde denne lethed.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006424"
+    },
+    {
+      "english": "I feel a real spark here.",
+      "danish": "Jeg mærker en ægte gnist her.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006426"
+    },
+    {
+      "english": "This connection is quite profound.",
+      "danish": "Denne forbindelse er ret dyb.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006430"
+    },
+    {
+      "english": "You seem very genuine, my dear.",
+      "danish": "Du virker meget oprigtig, min kære.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006435"
+    },
+    {
+      "english": "I feel inspired by you.",
+      "danish": "Jeg føler mig inspireret af dig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006441"
+    },
+    {
+      "english": "This is a pleasant surprise.",
+      "danish": "Dette er en behagelig overraskelse.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006444"
+    },
+    {
+      "english": "I value your understanding.",
+      "danish": "Jeg værdsætter din forståelse.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006446"
+    },
+    {
+      "english": "Let's grab a coffee, sometime soon?",
+      "danish": "Skal vi tage en kop kaffe, en dag snart?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006448"
+    },
+    {
+      "english": "How do you know Søren?",
+      "danish": "Hvordan kender du Søren?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-19T08:42:50.006452"
     }
   ],
-  "last_updated": "2026-10-18T07:56:53.308695"
+  "last_updated": "2026-10-19T08:42:50.006453"
 }
