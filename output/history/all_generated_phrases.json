@@ -3599,7 +3599,727 @@
       "danish": "Denne samtale, den løfter mit humør.",
       "category": "Joy",
       "generated_at": "2026-10-21T08:27:31.966911"
+    },
+    {
+      "english": "Be brave, try it.",
+      "danish": "Vær modig, prøv det.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539272"
+    },
+    {
+      "english": "Take a deep breath, face it.",
+      "danish": "Tag en dyb indånding, mød det.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539284"
+    },
+    {
+      "english": "You can do this, believe.",
+      "danish": "Du kan klare det her, tro på det.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539288"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "danish": "Giv ikke op, fortsæt.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539291"
+    },
+    {
+      "english": "It takes courage, I know.",
+      "danish": "Det kræver mod, det ved jeg.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539294"
+    },
+    {
+      "english": "Stand up for yourself.",
+      "danish": "Stå fast på dig selv.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539297"
+    },
+    {
+      "english": "Show some backbone.",
+      "danish": "Vis lidt rygrad.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539300"
+    },
+    {
+      "english": "Be bold, take risks.",
+      "danish": "Vær dristig, tag chancer.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539305"
+    },
+    {
+      "english": "It's okay to be scared.",
+      "danish": "Det er okay at være bange.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539311"
+    },
+    {
+      "english": "Have the guts to speak.",
+      "danish": "Hav modet til at sige det.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539314"
+    },
+    {
+      "english": "Let courage guide you.",
+      "danish": "Lad modet lede dig.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539317"
+    },
+    {
+      "english": "It's a brave choice.",
+      "danish": "Det er et modigt valg.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539320"
+    },
+    {
+      "english": "Don't back down now.",
+      "danish": "Træd ikke tilbage nu.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539322"
+    },
+    {
+      "english": "Gather your courage.",
+      "danish": "Saml dit mod.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539325"
+    },
+    {
+      "english": "Be resolute, stay firm.",
+      "danish": "Vær beslutsom, bliv ved.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539327"
+    },
+    {
+      "english": "It requires some nerve.",
+      "danish": "Det kræver lidt nerver.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539330"
+    },
+    {
+      "english": "Show some initiative.",
+      "danish": "Vis lidt initiativ.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539332"
+    },
+    {
+      "english": "Step outside your comfort zone.",
+      "danish": "Træd ud af din komfortzone.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539335"
+    },
+    {
+      "english": "Be ready for anything.",
+      "danish": "Vær klar til hvad som helst.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539337"
+    },
+    {
+      "english": "This is your moment, be brave.",
+      "danish": "Dette er dit øjeblik, vær modig.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539340"
+    },
+    {
+      "english": "Don't be afraid to fail.",
+      "danish": "Vær ikke bange for at fejle.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539343"
+    },
+    {
+      "english": "You have the strength.",
+      "danish": "Du har styrken i dig.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539345"
+    },
+    {
+      "english": "It takes guts to admit.",
+      "danish": "Det kræver mod at indrømme.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539347"
+    },
+    {
+      "english": "Go for it, don't hesitate.",
+      "danish": "Gå efter det, tøv ikke.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539352"
+    },
+    {
+      "english": "Be courageous, be strong.",
+      "danish": "Vær modig, vær stærk.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539355"
+    },
+    {
+      "english": "What do you think?, is it brave?",
+      "danish": "Hvad tænker du?, er det modigt?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539360"
+    },
+    {
+      "english": "How do you find, the courage?",
+      "danish": "Hvordan finder du, modet?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539364"
+    },
+    {
+      "english": "Do you ever feel, unsure?",
+      "danish": "Føler du dig, nogensinde usikker?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539367"
+    },
+    {
+      "english": "Could you advise me?, please?",
+      "danish": "Kunne du råde mig?, tak?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539370"
+    },
+    {
+      "english": "What's your biggest fear?, tell me.",
+      "danish": "Hvad er din største frygt?, fortæl mig.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539373"
+    },
+    {
+      "english": "Should I ask?, or stay quiet?",
+      "danish": "Skal jeg spørge?, eller tie?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539376"
+    },
+    {
+      "english": "Is it worth it?, the risk?",
+      "danish": "Er det det værd?, risikoen?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539379"
+    },
+    {
+      "english": "What if I fail?, what then?",
+      "danish": "Hvad hvis jeg fejler?, hvad så?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539382"
+    },
+    {
+      "english": "Can you help me?, be brave?",
+      "danish": "Kan du hjælpe mig?, være modig?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539385"
+    },
+    {
+      "english": "Are you ready?, for this?",
+      "danish": "Er du klar?, til dette?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539388"
+    },
+    {
+      "english": "What do you suggest?, I do?",
+      "danish": "Hvad foreslår du?, jeg gør?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539390"
+    },
+    {
+      "english": "How do you cope?, with fear?",
+      "danish": "Hvordan håndterer du?, frygt?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539393"
+    },
+    {
+      "english": "Do you think I can?, try?",
+      "danish": "Tror du, jeg kan?, prøve?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539396"
+    },
+    {
+      "english": "Should I speak up?, now?",
+      "danish": "Bør jeg sige min mening?, nu?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539399"
+    },
+    {
+      "english": "Is it difficult?, for you?",
+      "danish": "Er det svært?, for dig?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539401"
+    },
+    {
+      "english": "What would you do?, in my place?",
+      "danish": "Hvad ville du gøre?, i mit sted?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539406"
+    },
+    {
+      "english": "Do you have courage?, sometimes?",
+      "danish": "Har du mod?, nogle gange?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539409"
+    },
+    {
+      "english": "Can we talk?, about this?",
+      "danish": "Kan vi tale?, om dette?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539412"
+    },
+    {
+      "english": "What's the next step?, you think?",
+      "danish": "Hvad er næste skridt?, tror du?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539415"
+    },
+    {
+      "english": "Are you willing?, to try?",
+      "danish": "Er du villig?, til at prøve?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539418"
+    },
+    {
+      "english": "What makes you brave?, really?",
+      "danish": "Hvad gør dig modig?, virkelig?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539421"
+    },
+    {
+      "english": "Should I take a chance?, or not?",
+      "danish": "Skal jeg tage chancen?, eller ej?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539423"
+    },
+    {
+      "english": "How did you manage?, that?",
+      "danish": "Hvordan klarede du?, det?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539426"
+    },
+    {
+      "english": "Do you regret it?, now?",
+      "danish": "Fortryder du det?, nu?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539429"
+    },
+    {
+      "english": "What if it goes wrong?, then what?",
+      "danish": "Hvad hvis det går galt?, så hvad?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539431"
+    },
+    {
+      "english": "Can we discuss?, options?",
+      "danish": "Kan vi drøfte?, muligheder?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539440"
+    },
+    {
+      "english": "What's your feeling?, about it?",
+      "danish": "Hvad føler du?, omkring det?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539443"
+    },
+    {
+      "english": "Are you sure?, about this decision?",
+      "danish": "Er du sikker?, på denne beslutning?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539446"
+    },
+    {
+      "english": "Could we try?, something new?",
+      "danish": "Kunne vi prøve?, noget nyt?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539449"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "danish": "Tro på dig selv, altid.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539452"
+    },
+    {
+      "english": "You've got this, I know.",
+      "danish": "Du kan klare det, jeg ved det.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539455"
+    },
+    {
+      "english": "That's a bold move.",
+      "danish": "Det er et modigt træk.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539458"
+    },
+    {
+      "english": "You handled that well.",
+      "danish": "Du klarede det flot.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539460"
+    },
+    {
+      "english": "I admire your spirit.",
+      "danish": "Jeg beundrer din ånd.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539463"
+    },
+    {
+      "english": "That took real strength.",
+      "danish": "Det krævede ægte styrke.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539466"
+    },
+    {
+      "english": "Dare to try something new.",
+      "danish": "Tør at prøve noget nyt.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539468"
+    },
+    {
+      "english": "Your bravery is inspiring.",
+      "danish": "Dit mod er inspirerende.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539471"
+    },
+    {
+      "english": "Face challenges head-on.",
+      "danish": "Mød udfordringer direkte.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539474"
+    },
+    {
+      "english": "Let your courage shine.",
+      "danish": "Lad dit mod skinne.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539476"
+    },
+    {
+      "english": "That required conviction.",
+      "danish": "Det krævede overbevisning.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539479"
+    },
+    {
+      "english": "You're doing great, really.",
+      "danish": "Du klarer dig godt, virkelig.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539482"
+    },
+    {
+      "english": "Don't let fear win.",
+      "danish": "Lad ikke frygten vinde.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539485"
+    },
+    {
+      "english": "Take that leap of faith.",
+      "danish": "Tag det spring i tro.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539487"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "danish": "Du er stærkere end du tror.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539490"
+    },
+    {
+      "english": "Stand tall, be proud.",
+      "danish": "Stå rank, vær stolt.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539493"
+    },
+    {
+      "english": "What a brave attempt!",
+      "danish": "Sikke et modigt forsøg!",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539495"
+    },
+    {
+      "english": "Trust your inner voice.",
+      "danish": "Stol på din indre stemme.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539497"
+    },
+    {
+      "english": "You're capable of amazing things.",
+      "danish": "Du er i stand til fantastiske ting.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539502"
+    },
+    {
+      "english": "That was a courageous choice.",
+      "danish": "Det var et modigt valg.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539506"
+    },
+    {
+      "english": "Your effort is commendable.",
+      "danish": "Din indsats er prisværdig.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539509"
+    },
+    {
+      "english": "Embrace the uncertainty.",
+      "danish": "Omfavn usikkerheden.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539512"
+    },
+    {
+      "english": "Never underestimate yourself.",
+      "danish": "Underskat aldrig dig selv.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539516"
+    },
+    {
+      "english": "Let's see what you've got.",
+      "danish": "Lad os se hvad du kan.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539519"
+    },
+    {
+      "english": "Your determination is key.",
+      "danish": "Din beslutsomhed er nøglen.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539522"
+    },
+    {
+      "english": "Go for it, what's the worst?",
+      "danish": "Kast dig ud i det, hvad er det værste?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539525"
+    },
+    {
+      "english": "Don't hold back, be bold.",
+      "danish": "Hold dig ikke tilbage, vær modig.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539528"
+    },
+    {
+      "english": "Show your true colours, now.",
+      "danish": "Vis dine sande farver, nu.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539531"
+    },
+    {
+      "english": "Dare to dream, and do.",
+      "danish": "Tør at drømme, og handle.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539533"
+    },
+    {
+      "english": "Push your limits, a little.",
+      "danish": "Skub dine grænser, lidt.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539536"
+    },
+    {
+      "english": "Step up, to the challenge.",
+      "danish": "Træd til, over for udfordringen.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539539"
+    },
+    {
+      "english": "You have it in you, I know.",
+      "danish": "Du har det i dig, det ved jeg.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539541"
+    },
+    {
+      "english": "Give it your best shot.",
+      "danish": "Giv den dit bedste skud.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539544"
+    },
+    {
+      "english": "A little bravery, goes far.",
+      "danish": "Lidt mod, kommer man langt med.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539547"
+    },
+    {
+      "english": "Grab the bull, by the horns.",
+      "danish": "Grib tyren, ved hornene.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539551"
+    },
+    {
+      "english": "Stand your ground, firmly.",
+      "danish": "Stå fast, med fasthed.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539554"
+    },
+    {
+      "english": "It's now or never, really.",
+      "danish": "Det er nu eller aldrig, jo.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539557"
+    },
+    {
+      "english": "Your moment, to shine.",
+      "danish": "Din tid, til at skinne.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539560"
+    },
+    {
+      "english": "Take the plunge, dive in.",
+      "danish": "Tag springet, dyk ned.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539562"
+    },
+    {
+      "english": "Be the first, to act.",
+      "danish": "Vær den første, til at handle.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539565"
+    },
+    {
+      "english": "Let courage, be your guide.",
+      "danish": "Lad modet, være din guide.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539568"
+    },
+    {
+      "english": "The brave, seize the day.",
+      "danish": "De modige, griber dagen.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539570"
+    },
+    {
+      "english": "No turning back, now.",
+      "danish": "Ingen vej tilbage, nu.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539573"
+    },
+    {
+      "english": "A little bit of nerve, helps.",
+      "danish": "Lidt nerver, hjælper.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539575"
+    },
+    {
+      "english": "Show some spirit, please.",
+      "danish": "Vis lidt ånd, tak.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539578"
+    },
+    {
+      "english": "Face it, head on.",
+      "danish": "Mød det, frontalt.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539581"
+    },
+    {
+      "english": "Don't hesitate, just go.",
+      "danish": "Tøv ikke, bare gå.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539584"
+    },
+    {
+      "english": "Be daring, in your actions.",
+      "danish": "Vær dristig, i dine handlinger.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539600"
+    },
+    {
+      "english": "A bold spirit, is key.",
+      "danish": "En modig ånd, er nøglen.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539605"
+    },
+    {
+      "english": "What have you, to lose?",
+      "danish": "Hvad har du, at tabe?",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539610"
+    },
+    {
+      "english": "Go forth, bravely now.",
+      "danish": "Gå fremad, modigt nu.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539613"
+    },
+    {
+      "english": "Let courage, lead the way.",
+      "danish": "Lad modet, vise vejen.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539615"
+    },
+    {
+      "english": "Try something new, today.",
+      "danish": "Prøv noget nyt, i dag.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539618"
+    },
+    {
+      "english": "Speak up, if you disagree.",
+      "danish": "Sig din mening, hvis du er uenig.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539621"
+    },
+    {
+      "english": "Ask for help, it's okay.",
+      "danish": "Bed om hjælp, det er okay.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539624"
+    },
+    {
+      "english": "Be honest, even when hard.",
+      "danish": "Vær ærlig, selv når det er svært.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539627"
+    },
+    {
+      "english": "Share your ideas, don't hide.",
+      "danish": "Del dine idéer, gem dem ikke.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539630"
+    },
+    {
+      "english": "Admit mistakes, learn from them.",
+      "danish": "Indrøm fejl, lær af dem.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539633"
+    },
+    {
+      "english": "Say no, if needed.",
+      "danish": "Sig nej, hvis nødvendigt.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539635"
+    },
+    {
+      "english": "Reach out, to a stranger.",
+      "danish": "Ræk ud, til en fremmed.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539638"
+    },
+    {
+      "english": "Try that difficult task.",
+      "danish": "Prøv den svære opgave.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539640"
+    },
+    {
+      "english": "Face a fear, head-on.",
+      "danish": "Mød en frygt, direkte.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539643"
+    },
+    {
+      "english": "Defend what's right.",
+      "danish": "Forsvar det, der er rigtigt.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539646"
+    },
+    {
+      "english": "Start a conversation, easily.",
+      "danish": "Start en samtale, let.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539649"
+    },
+    {
+      "english": "Apologize, sincerely.",
+      "danish": "Sig undskyld, oprigtigt.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539652"
+    },
+    {
+      "english": "Take initiative, sometimes.",
+      "danish": "Tag initiativ, engang imellem.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T08:29:37.539654"
     }
   ],
-  "last_updated": "2026-10-21T08:27:31.966913"
+  "last_updated": "2026-10-22T08:29:37.539656"
 }
