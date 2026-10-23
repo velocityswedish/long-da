@@ -4319,7 +4319,727 @@
       "danish": "Tag initiativ, engang imellem.",
       "category": "Courage",
       "generated_at": "2026-10-22T08:29:37.539654"
+    },
+    {
+      "english": "What's on the menu, please?",
+      "danish": "Hvad står der på menuen, tak?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228285"
+    },
+    {
+      "english": "Do you have a table for two?",
+      "danish": "Har I et bord til to?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228298"
+    },
+    {
+      "english": "We'd like to order now.",
+      "danish": "Vi vil gerne bestille nu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228301"
+    },
+    {
+      "english": "Can I have the bill, please?",
+      "danish": "Må jeg bede om regningen, tak?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228304"
+    },
+    {
+      "english": "This tastes really good.",
+      "danish": "Det her smager rigtig godt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228306"
+    },
+    {
+      "english": "Is this dish spicy?",
+      "danish": "Er denne ret stærk?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228308"
+    },
+    {
+      "english": "What do you recommend?",
+      "danish": "Hvad kan I anbefale?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228310"
+    },
+    {
+      "english": "Could we have some water?",
+      "danish": "Kunne vi få noget vand?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228315"
+    },
+    {
+      "english": "I'll have the fish.",
+      "danish": "Jeg tager fisken.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228317"
+    },
+    {
+      "english": "No, thank you.",
+      "danish": "Nej, tak.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228320"
+    },
+    {
+      "english": "Yes, please.",
+      "danish": "Ja, tak.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228323"
+    },
+    {
+      "english": "Excuse me, waiter!",
+      "danish": "Undskyld mig, tjener!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228326"
+    },
+    {
+      "english": "The portions are generous.",
+      "danish": "Portionerne er store.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228327"
+    },
+    {
+      "english": "Is it possible to get a doggy bag?",
+      "danish": "Kan man få en pose med?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228330"
+    },
+    {
+      "english": "I'm a vegetarian.",
+      "danish": "Jeg er vegetar.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228332"
+    },
+    {
+      "english": "Where is the restroom?",
+      "danish": "Hvor er toilettet?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228334"
+    },
+    {
+      "english": "This is delicious!",
+      "danish": "Det er lækkert!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228335"
+    },
+    {
+      "english": "Can we split the bill?",
+      "danish": "Kan vi dele regningen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228337"
+    },
+    {
+      "english": "Do you have any local specialties?",
+      "danish": "Har I nogle lokale specialiteter?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228339"
+    },
+    {
+      "english": "I'm allergic to nuts.",
+      "danish": "Jeg er allergisk over for nødder.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228341"
+    },
+    {
+      "english": "Just a small coffee, please.",
+      "danish": "Bare en lille kaffe, tak.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228345"
+    },
+    {
+      "english": "What's included in this?",
+      "danish": "Hvad er der inkluderet?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228347"
+    },
+    {
+      "english": "I'll take that one.",
+      "danish": "Jeg tager den der.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228349"
+    },
+    {
+      "english": "This is not what I ordered.",
+      "danish": "Det er ikke det, jeg bestilte.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228351"
+    },
+    {
+      "english": "Can we have the dessert menu?",
+      "danish": "Må vi se dessertkortet?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228353"
+    },
+    {
+      "english": "Everything was perfect.",
+      "danish": "Alt var perfekt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228354"
+    },
+    {
+      "english": "It's too salty.",
+      "danish": "Det er for salt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228356"
+    },
+    {
+      "english": "Could I have some bread?",
+      "danish": "Kunne jeg få noget brød?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228358"
+    },
+    {
+      "english": "Enjoy your meal!",
+      "danish": "Velbekomme!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228362"
+    },
+    {
+      "english": "I'll have a beer, please.",
+      "danish": "Jeg vil have en øl, tak.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228364"
+    },
+    {
+      "english": "Do you have any specials today?",
+      "danish": "Har I, nogle tilbud i dag?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228367"
+    },
+    {
+      "english": "What's the soup of the day?",
+      "danish": "Hvad er, dagens suppe?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228369"
+    },
+    {
+      "english": "Could you explain this dish?",
+      "danish": "Kan du forklare, denne ret?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228371"
+    },
+    {
+      "english": "Is this meal, very filling?",
+      "danish": "Er dette måltid, meget mættende?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228373"
+    },
+    {
+      "english": "What would you suggest, for a main course?",
+      "danish": "Hvad vil du foreslå, til en hovedret?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228376"
+    },
+    {
+      "english": "Are there, vegetarian options?",
+      "danish": "Er der, vegetariske muligheder?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228379"
+    },
+    {
+      "english": "How is this dish, prepared?",
+      "danish": "Hvordan er denne ret, tilberedt?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228381"
+    },
+    {
+      "english": "Could I get, some extra sauce?",
+      "danish": "Kunne jeg få, lidt ekstra sovs?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228383"
+    },
+    {
+      "english": "Is it possible, to share a starter?",
+      "danish": "Er det muligt, at dele en forret?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228385"
+    },
+    {
+      "english": "What's good, with this drink?",
+      "danish": "Hvad passer godt, til denne drink?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228388"
+    },
+    {
+      "english": "Can we order, another round?",
+      "danish": "Kan vi bestille, endnu en omgang?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228390"
+    },
+    {
+      "english": "How long, will that take?",
+      "danish": "Hvor lang tid, vil det tage?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228394"
+    },
+    {
+      "english": "Is the fish, fresh today?",
+      "danish": "Er fisken, frisk i dag?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228398"
+    },
+    {
+      "english": "Do you have, gluten-free options?",
+      "danish": "Har I, glutenfri muligheder?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228400"
+    },
+    {
+      "english": "What's your most popular dish?",
+      "danish": "Hvad er jeres, mest populære ret?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228402"
+    },
+    {
+      "english": "Could we have, the wine list?",
+      "danish": "Kunne vi få, vinlisten?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228405"
+    },
+    {
+      "english": "Are the ingredients, local?",
+      "danish": "Er ingredienserne, lokale?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228407"
+    },
+    {
+      "english": "Could I swap, the side dish?",
+      "danish": "Kunne jeg bytte, tilbehøret?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228409"
+    },
+    {
+      "english": "What kind, of coffee is this?",
+      "danish": "Hvilken slags, kaffe er det?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228413"
+    },
+    {
+      "english": "Is there, a fixed menu?",
+      "danish": "Er der, en fast menu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228416"
+    },
+    {
+      "english": "Can you make it, less sweet?",
+      "danish": "Kan du lave den, mindre sød?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228418"
+    },
+    {
+      "english": "What's this made, of?",
+      "danish": "Hvad er det lavet, af?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228420"
+    },
+    {
+      "english": "Is this dish, very rich?",
+      "danish": "Er denne ret, meget fed?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228422"
+    },
+    {
+      "english": "Could we get, separate checks?",
+      "danish": "Kunne vi få, separate regninger?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228424"
+    },
+    {
+      "english": "What's the dressing, like?",
+      "danish": "Hvordan er dressingen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228427"
+    },
+    {
+      "english": "Is it possible, to have it grilled?",
+      "danish": "Er det muligt, at få det grillet?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228429"
+    },
+    {
+      "english": "Can I have, a doggy bag, to go?",
+      "danish": "Kan jeg få, en pose med, til at tage med?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228431"
+    },
+    {
+      "english": "What do you suggest, to drink?",
+      "danish": "Hvad vil du foreslå, til at drikke?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228433"
+    },
+    {
+      "english": "This is a great choice, you've made.",
+      "danish": "Det er et godt valg, du har truffet.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228436"
+    },
+    {
+      "english": "You're doing great, with your Danish skills.",
+      "danish": "Du klarer dig flot, med dine danske evner.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228439"
+    },
+    {
+      "english": "Don't be afraid, to try something new.",
+      "danish": "Vær ikke bange, for at prøve noget nyt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228442"
+    },
+    {
+      "english": "Every bite, is a learning opportunity.",
+      "danish": "Hver bid, er en læringsmulighed.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228444"
+    },
+    {
+      "english": "You've got this, ordering like a pro.",
+      "danish": "Du kan godt, bestille som en professionel.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228447"
+    },
+    {
+      "english": "Trust your gut, it knows what you like.",
+      "danish": "Stol på din mavefornemmelse, den ved hvad du kan lide.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228449"
+    },
+    {
+      "english": "This is progress, keep it up!",
+      "danish": "Dette er fremskridt, bliv ved med det!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228452"
+    },
+    {
+      "english": "You're brave, trying Danish cuisine.",
+      "danish": "Du er modig, at prøve dansk mad.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228454"
+    },
+    {
+      "english": "Your confidence, is growing with each order.",
+      "danish": "Din selvtillid, vokser med hver bestilling.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228456"
+    },
+    {
+      "english": "This experience, is totally worth it.",
+      "danish": "Denne oplevelse, er det hele værd.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228458"
+    },
+    {
+      "english": "You're mastering this, one plate at a time.",
+      "danish": "Du mestrer dette, én tallerken ad gangen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228462"
+    },
+    {
+      "english": "Delicious discovery, awaits you.",
+      "danish": "Lækker opdagelse, venter på dig.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228464"
+    },
+    {
+      "english": "Embrace the adventure, of Danish food.",
+      "danish": "Omfavn eventyret, med dansk mad.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228466"
+    },
+    {
+      "english": "Your taste buds, will thank you.",
+      "danish": "Dine smagsløg, vil takke dig.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228468"
+    },
+    {
+      "english": "Never stop exploring, new flavors.",
+      "danish": "Stop aldrig med at udforske, nye smage.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228471"
+    },
+    {
+      "english": "This moment, is purely delicious.",
+      "danish": "Dette øjeblik, er rent lækkert.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228473"
+    },
+    {
+      "english": "You're doing fantastic, keep that smile!",
+      "danish": "Du gør det fantastisk, behold smilet!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228477"
+    },
+    {
+      "english": "Each meal, is a small victory.",
+      "danish": "Hvert måltid, er en lille sejr.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228479"
+    },
+    {
+      "english": "Your efforts, are truly commendable.",
+      "danish": "Dine anstrengelser, er virkelig prisværdige.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228481"
+    },
+    {
+      "english": "Food is love, share the joy.",
+      "danish": "Mad er kærlighed, del glæden.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228483"
+    },
+    {
+      "english": "Be proud, of your culinary journey.",
+      "danish": "Vær stolt, af din kulinariske rejse.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228485"
+    },
+    {
+      "english": "You're unlocking, new Danish tastes.",
+      "danish": "Du låser op, for nye danske smage.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228487"
+    },
+    {
+      "english": "This taste, is a delightful surprise.",
+      "danish": "Denne smag, er en dejlig overraskelse.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228489"
+    },
+    {
+      "english": "Keep practicing, you're doing wonderfully.",
+      "danish": "Bliv ved med at øve, du klarer det vidunderligt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228492"
+    },
+    {
+      "english": "Enjoy the process, of ordering food.",
+      "danish": "Nyd processen, med at bestille mad.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228494"
+    },
+    {
+      "english": "Your Danish accent, is charming.",
+      "danish": "Din danske accent, er charmerende.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228496"
+    },
+    {
+      "english": "Every mistake, is a lesson learned.",
+      "danish": "Hver fejl, er en lærepenge.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228500"
+    },
+    {
+      "english": "You're becoming, a Danish food expert.",
+      "danish": "Du er ved at blive, dansk mad-ekspert.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228502"
+    },
+    {
+      "english": "This delicious meal, is your reward.",
+      "danish": "Dette lækre måltid, er din belønning.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228504"
+    },
+    {
+      "english": "I'm really looking forward, to this meal.",
+      "danish": "Jeg glæder mig virkelig, til det her måltid.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228506"
+    },
+    {
+      "english": "This looks much better, than I imagined.",
+      "danish": "Det her ser meget bedre ud, end jeg havde forestillet mig.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228509"
+    },
+    {
+      "english": "I need a moment, to decide.",
+      "danish": "Jeg har brug for et øjeblik, til at bestemme mig.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228511"
+    },
+    {
+      "english": "It's okay, if there's a small wait.",
+      "danish": "Det er okay, hvis der er lidt ventetid.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228515"
+    },
+    {
+      "english": "Take your time, no rush at all.",
+      "danish": "Tag din tid, ingen hast overhovedet.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228517"
+    },
+    {
+      "english": "I'm feeling quite adventurous, today.",
+      "danish": "Jeg føler mig ret eventyrlysten, i dag.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228520"
+    },
+    {
+      "english": "This atmosphere is very relaxing.",
+      "danish": "Denne atmosfære er meget afslappende.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228522"
+    },
+    {
+      "english": "I'm happy, just to be here.",
+      "danish": "Jeg er glad, bare for at være her.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228524"
+    },
+    {
+      "english": "This is a wonderful dining experience.",
+      "danish": "Dette er en vidunderlig spiseoplevelse.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228526"
+    },
+    {
+      "english": "It smells absolutely divine, doesn't it?",
+      "danish": "Det dufter helt guddommeligt, gør det ikke?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228528"
+    },
+    {
+      "english": "I'm really glad, we came here.",
+      "danish": "Jeg er virkelig glad, for at vi kom her.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228530"
+    },
+    {
+      "english": "This reminds me, of home cooking.",
+      "danish": "Det her minder mig om, hjemmelavet mad.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228532"
+    },
+    {
+      "english": "I'm trying to savor, every moment.",
+      "danish": "Jeg prøver at nyde, hvert øjeblik.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228535"
+    },
+    {
+      "english": "That’s a very thoughtful recommendation.",
+      "danish": "Det er en meget betænksom anbefaling.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228537"
+    },
+    {
+      "english": "I feel very understood, right now.",
+      "danish": "Jeg føler mig meget forstået, lige nu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228539"
+    },
+    {
+      "english": "This is exactly, what I needed.",
+      "danish": "Dette er præcis, hvad jeg havde brug for.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228542"
+    },
+    {
+      "english": "It’s a relief, to order easily.",
+      "danish": "Det er en lettelse, at bestille nemt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228545"
+    },
+    {
+      "english": "I appreciate the calm service.",
+      "danish": "Jeg sætter pris på den rolige service.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228546"
+    },
+    {
+      "english": "This dish sparks joy, truly.",
+      "danish": "Denne ret spreder glæde, virkelig.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228550"
+    },
+    {
+      "english": "I'm so glad, you understood.",
+      "danish": "Jeg er så glad, for at du forstod.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228552"
+    },
+    {
+      "english": "This feels like a special occasion.",
+      "danish": "Det her føles som en særlig lejlighed.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228554"
+    },
+    {
+      "english": "I'm feeling very satisfied, thank you.",
+      "danish": "Jeg føler mig meget tilfreds, tak.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228556"
+    },
+    {
+      "english": "It's nice to feel welcomed here.",
+      "danish": "Det er rart at føle sig velkommen her.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228558"
+    },
+    {
+      "english": "I'm reflecting, on the flavors.",
+      "danish": "Jeg reflekterer, over smagene.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228561"
+    },
+    {
+      "english": "This is a comforting thought.",
+      "danish": "Det er en betryggende tanke.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228563"
+    },
+    {
+      "english": "I'm genuinely impressed, with this.",
+      "danish": "Jeg er oprigtigt imponeret, over det her.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228566"
+    },
+    {
+      "english": "It's a pleasure, dining with you.",
+      "danish": "Det er en fornøjelse, at spise med dig.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228568"
+    },
+    {
+      "english": "I cherish these simple moments.",
+      "danish": "Jeg værdsætter disse simple øjeblikke.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228570"
+    },
+    {
+      "english": "This food brings me peace.",
+      "danish": "Denne mad giver mig fred.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228572"
+    },
+    {
+      "english": "What's the daily special?",
+      "danish": "Hvad er dagens ret?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228576"
+    },
+    {
+      "english": "Can I see, the menu, please?",
+      "danish": "Må jeg se, menukortet, tak?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228578"
+    },
+    {
+      "english": "I have, a food allergy.",
+      "danish": "Jeg har, en allergi, overfor mad.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228581"
+    },
+    {
+      "english": "Can I have, water, without ice?",
+      "danish": "Må jeg få, vand, uden is?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T09:51:09.228583"
     }
   ],
-  "last_updated": "2026-10-22T08:29:37.539656"
+  "last_updated": "2026-10-23T09:51:09.228584"
 }
