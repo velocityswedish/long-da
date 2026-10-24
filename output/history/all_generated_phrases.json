@@ -5039,7 +5039,727 @@
       "danish": "Må jeg få, vand, uden is?",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-10-23T09:51:09.228583"
+    },
+    {
+      "english": "Hello, can you hear me?",
+      "danish": "Hej, kan du høre mig?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509381"
+    },
+    {
+      "english": "Yes, I can hear you, loud and clear.",
+      "danish": "Ja, jeg kan høre dig, tydeligt.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509394"
+    },
+    {
+      "english": "Sorry, I didn't catch that.",
+      "danish": "Undskyld, jeg forstod det ikke.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509398"
+    },
+    {
+      "english": "I'm a bit busy right now.",
+      "danish": "Jeg har lidt travlt lige nu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509401"
+    },
+    {
+      "english": "Can I call you back later?",
+      "danish": "Kan jeg ringe tilbage senere?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509403"
+    },
+    {
+      "english": "What was that number again?",
+      "danish": "Hvad var det nummer igen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509406"
+    },
+    {
+      "english": "I'll send you a text message.",
+      "danish": "Jeg sender dig en SMS.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509409"
+    },
+    {
+      "english": "Did you get my message?",
+      "danish": "Fik du min besked?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509414"
+    },
+    {
+      "english": "Yes, I got it, thanks.",
+      "danish": "Ja, jeg fik den, tak.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509418"
+    },
+    {
+      "english": "No, I haven't received it yet.",
+      "danish": "Nej, jeg har ikke fået den endnu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509421"
+    },
+    {
+      "english": "The line is a bit unclear.",
+      "danish": "Forbindelsen er lidt dårlig.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509423"
+    },
+    {
+      "english": "Hold on for a moment, please.",
+      "danish": "Vent et øjeblik, tak.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509426"
+    },
+    {
+      "english": "Is this a wrong number?",
+      "danish": "Er det et forkert nummer?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509428"
+    },
+    {
+      "english": "I'm on my way now.",
+      "danish": "Jeg er på vej nu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509431"
+    },
+    {
+      "english": "Where are you exactly?",
+      "danish": "Hvor er du præcist?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509433"
+    },
+    {
+      "english": "I'm running a little late.",
+      "danish": "Jeg kommer en lille smule for sent.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509436"
+    },
+    {
+      "english": "See you soon, bye!",
+      "danish": "Vi ses snart, hej!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509441"
+    },
+    {
+      "english": "I'll be there in five minutes.",
+      "danish": "Jeg er der om fem minutter.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509444"
+    },
+    {
+      "english": "What's your phone number?",
+      "danish": "Hvad er dit telefonnummer?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509447"
+    },
+    {
+      "english": "Can you send me the address?",
+      "danish": "Kan du sende mig adressen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509449"
+    },
+    {
+      "english": "My phone is about to die.",
+      "danish": "Min telefon er ved at løbe tør for strøm.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509452"
+    },
+    {
+      "english": "Do you have signal there?",
+      "danish": "Har du dækning der?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509456"
+    },
+    {
+      "english": "I'm lost, can you help?",
+      "danish": "Jeg er faret vild, kan du hjælpe?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509459"
+    },
+    {
+      "english": "Please save my number.",
+      "danish": "Gem venligst mit nummer.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509463"
+    },
+    {
+      "english": "Are you free to talk now?",
+      "danish": "Er du ledig til at tale nu?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509465"
+    },
+    {
+      "english": "It's urgent, I need to speak.",
+      "danish": "Det haster, jeg skal tale.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509468"
+    },
+    {
+      "english": "Can you hear the background noise?",
+      "danish": "Kan du høre baggrundsstøjen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509471"
+    },
+    {
+      "english": "I'll call you back immediately.",
+      "danish": "Jeg ringer straks tilbage.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509473"
+    },
+    {
+      "english": "Just checking in, how are you?",
+      "danish": "Bare lige for at tjekke ind, hvordan går det?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509476"
+    },
+    {
+      "english": "What are you up to, friend?",
+      "danish": "Hvad laver du, ven?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509479"
+    },
+    {
+      "english": "Are you busy at the moment?",
+      "danish": "Har du travlt lige nu?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509481"
+    },
+    {
+      "english": "Can we chat for a bit?",
+      "danish": "Kan vi snakke lidt?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509484"
+    },
+    {
+      "english": "Is it a good time to call?",
+      "danish": "Er det et godt tidspunkt at ringe?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509488"
+    },
+    {
+      "english": "What do you think about that?",
+      "danish": "Hvad tænker du om det?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509491"
+    },
+    {
+      "english": "Shall we schedule a call?",
+      "danish": "Skal vi aftale et opkald?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509494"
+    },
+    {
+      "english": "I need your help with something.",
+      "danish": "Jeg har brug for din hjælp til noget.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509496"
+    },
+    {
+      "english": "What time works for you?",
+      "danish": "Hvilket tidspunkt passer dig?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509499"
+    },
+    {
+      "english": "Do you want to discuss this now?",
+      "danish": "Vil du snakke om det nu?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509501"
+    },
+    {
+      "english": "Can you elaborate a little?",
+      "danish": "Kan du uddybe lidt?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509504"
+    },
+    {
+      "english": "What's the latest news?",
+      "danish": "Hvad er de seneste nyheder?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509507"
+    },
+    {
+      "english": "Is everything okay with you?",
+      "danish": "Er alt okay med dig?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509509"
+    },
+    {
+      "english": "Shall we meet up soon?",
+      "danish": "Skal vi mødes snart?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509511"
+    },
+    {
+      "english": "How was your day so far?",
+      "danish": "Hvordan har din dag været?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509514"
+    },
+    {
+      "english": "Can you repeat that last part?",
+      "danish": "Kan du gentage den sidste del?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509516"
+    },
+    {
+      "english": "Is there anything I can do?",
+      "danish": "Er der noget, jeg kan gøre?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509518"
+    },
+    {
+      "english": "What are your plans for tonight?",
+      "danish": "Hvad er dine planer for i aften?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509521"
+    },
+    {
+      "english": "Can you recommend a good place?",
+      "danish": "Kan du anbefale et godt sted?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509523"
+    },
+    {
+      "english": "What's the main point here?",
+      "danish": "Hvad er hovedpointen her?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509526"
+    },
+    {
+      "english": "Are you on the same page?",
+      "danish": "Er vi på samme side?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509530"
+    },
+    {
+      "english": "What's your current situation?",
+      "danish": "Hvad er din nuværende situation?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509534"
+    },
+    {
+      "english": "Can you clarify that for me?",
+      "danish": "Kan du præcisere det for mig?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509537"
+    },
+    {
+      "english": "Do you have any questions for me?",
+      "danish": "Har du nogen spørgsmål til mig?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509540"
+    },
+    {
+      "english": "What's the best way forward?",
+      "danish": "Hvad er den bedste vej frem?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509542"
+    },
+    {
+      "english": "Can we agree on this?",
+      "danish": "Kan vi blive enige om det?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509545"
+    },
+    {
+      "english": "What are the next steps?",
+      "danish": "Hvad er de næste skridt?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509547"
+    },
+    {
+      "english": "I'm looking forward to hearing.",
+      "danish": "Jeg glæder mig til at høre.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509549"
+    },
+    {
+      "english": "Anything else I should know?",
+      "danish": "Er der andet, jeg bør vide?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509552"
+    },
+    {
+      "english": "You've got this, believe in yourself.",
+      "danish": "Du klarer det, tro på dig selv.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509555"
+    },
+    {
+      "english": "That's a great idea, well done!",
+      "danish": "Det er en god idé, flot klaret!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509558"
+    },
+    {
+      "english": "Your effort is truly appreciated.",
+      "danish": "Din indsats, den bliver værdsat.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509560"
+    },
+    {
+      "english": "Stay positive, good things will come.",
+      "danish": "Forbliv positiv, godt vil ske.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509563"
+    },
+    {
+      "english": "Amazing progress, keep it up!",
+      "danish": "Fantastisk fremgang, fortsæt sådan!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509566"
+    },
+    {
+      "english": "You inspire me, honestly.",
+      "danish": "Du inspirerer mig, helt ærligt.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509569"
+    },
+    {
+      "english": "Remember your 'why', it matters.",
+      "danish": "Husk dit 'hvorfor', det er vigtigt.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509572"
+    },
+    {
+      "english": "You handle challenges, very well.",
+      "danish": "Du håndterer udfordringer, rigtig godt.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509575"
+    },
+    {
+      "english": "Your positive attitude, is contagious.",
+      "danish": "Din positive indstilling, smitter.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509577"
+    },
+    {
+      "english": "Believe in the process, trust it.",
+      "danish": "Tro på processen, hav tillid.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509580"
+    },
+    {
+      "english": "You're doing great, truly.",
+      "danish": "Du gør det fantastisk, virkelig.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509583"
+    },
+    {
+      "english": "Keep that winning mindset, strong.",
+      "danish": "Behold den vindende tankegang, stærk.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509585"
+    },
+    {
+      "english": "Don't underestimate yourself, ever.",
+      "danish": "Undervurder dig ikke, nogensinde.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509588"
+    },
+    {
+      "english": "Your dedication, is admirable.",
+      "danish": "Din dedikation, er beundringsværdig.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509591"
+    },
+    {
+      "english": "Focus on solutions, not problems.",
+      "danish": "Fokus på løsninger, ikke problemer.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509593"
+    },
+    {
+      "english": "Your resilience, is inspiring.",
+      "danish": "Din modstandsdygtighed, er inspirerende.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509596"
+    },
+    {
+      "english": "You've made significant progress.",
+      "danish": "Du har gjort store fremskridt.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509599"
+    },
+    {
+      "english": "That was a brilliant move.",
+      "danish": "Det var et genialt træk.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509601"
+    },
+    {
+      "english": "Your courage, is commendable.",
+      "danish": "Dit mod, er prisværdigt.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509604"
+    },
+    {
+      "english": "Stay focused, you are close.",
+      "danish": "Bliv fokuseret, du er tæt på.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509607"
+    },
+    {
+      "english": "You always find a way.",
+      "danish": "Du finder altid en vej.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509609"
+    },
+    {
+      "english": "Your positive outlook, helps a lot.",
+      "danish": "Dit positive syn, hjælper meget.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509612"
+    },
+    {
+      "english": "Keep pushing boundaries, expand.",
+      "danish": "Bliv ved med at skubbe grænser, udvid.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509618"
+    },
+    {
+      "english": "I'm just thinking, a lot, lately.",
+      "danish": "Jeg tænker bare, meget, for tiden.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509621"
+    },
+    {
+      "english": "I feel a bit uncertain, honestly.",
+      "danish": "Jeg føler mig lidt usikker, helt ærligt.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509624"
+    },
+    {
+      "english": "It’s important to be patient, always.",
+      "danish": "Det er vigtigt at være tålmodig, altid.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509628"
+    },
+    {
+      "english": "What’s really on your mind right now?",
+      "danish": "Hvad tænker du egentlig på lige nu?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509631"
+    },
+    {
+      "english": "My gut feeling says, it’s the right way.",
+      "danish": "Min mavefornemmelse siger, det er den rigtige vej.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509635"
+    },
+    {
+      "english": "Let's discuss this calmly, later perhaps.",
+      "danish": "Lad os tale om dette roligt, senere måske.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509638"
+    },
+    {
+      "english": "I appreciate your honesty, very much.",
+      "danish": "Jeg sætter stor pris på din ærlighed, virkelig.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509641"
+    },
+    {
+      "english": "This situation requires careful thought.",
+      "danish": "Denne situation kræver grundige overvejelser.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509643"
+    },
+    {
+      "english": "I'm trying to understand, your perspective.",
+      "danish": "Jeg prøver at forstå, dit perspektiv.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509646"
+    },
+    {
+      "english": "What are your true feelings about this?",
+      "danish": "Hvad er dine sande følelser omkring dette?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509648"
+    },
+    {
+      "english": "I'm not sure how I feel, yet.",
+      "danish": "Jeg er ikke sikker på, hvordan jeg har det, endnu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509651"
+    },
+    {
+      "english": "This is a moment for introspection.",
+      "danish": "Dette er et øjeblik til eftertanke.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509654"
+    },
+    {
+      "english": "Letting go can be difficult, I know.",
+      "danish": "At give slip kan være svært, det ved jeg.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509657"
+    },
+    {
+      "english": "I need to think it through, properly.",
+      "danish": "Jeg må tænke det grundigt igennem, ordentligt.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509660"
+    },
+    {
+      "english": "My intuition tells me, something is off.",
+      "danish": "Min intuition siger mig, noget er galt.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509663"
+    },
+    {
+      "english": "We should be honest, about our doubts.",
+      "danish": "Vi bør være ærlige, om vores tvivl.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509665"
+    },
+    {
+      "english": "This feels like a turning point, perhaps.",
+      "danish": "Dette føles som et vendepunkt, måske.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509670"
+    },
+    {
+      "english": "I need reassurance, a little bit.",
+      "danish": "Jeg har brug for beroligelse, en lille smule.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509672"
+    },
+    {
+      "english": "Can we take a moment, just to breathe?",
+      "danish": "Kan vi tage et øjeblik, bare lige at trække vejret?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509675"
+    },
+    {
+      "english": "I'm feeling a bit overwhelmed, honestly.",
+      "danish": "Jeg føler mig lidt overvældet, helt ærligt.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509678"
+    },
+    {
+      "english": "This is a good opportunity, for growth.",
+      "danish": "Dette er en god mulighed, for vækst.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509680"
+    },
+    {
+      "english": "What's your deepest hope, in this?",
+      "danish": "Hvad er dit dybeste håb, i dette?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509683"
+    },
+    {
+      "english": "I trust your judgment, implicitly.",
+      "danish": "Jeg stoler på din dømmekraft, ubetinget.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509686"
+    },
+    {
+      "english": "We need to be gentle, with ourselves.",
+      "danish": "Vi skal være blide, over for os selv.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509688"
+    },
+    {
+      "english": "This situation requires empathy, from both.",
+      "danish": "Denne situation kræver empati, fra begge.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509691"
+    },
+    {
+      "english": "I'm choosing to believe, in a good outcome.",
+      "danish": "Jeg vælger at tro, på et godt resultat.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509694"
+    },
+    {
+      "english": "Let's text, about it later.",
+      "danish": "Lad os skrive, om det senere.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509697"
+    },
+    {
+      "english": "Can you send, me a quick text?",
+      "danish": "Kan du sende, mig en hurtig besked?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509700"
+    },
+    {
+      "english": "I'll call you, around lunchtime.",
+      "danish": "Jeg ringer dig, op omkring frokost.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509703"
+    },
+    {
+      "english": "Speak up, I can't hear you.",
+      "danish": "Tal højere, jeg kan ikke høre dig.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509706"
+    },
+    {
+      "english": "My signal, is really bad here.",
+      "danish": "Mit signal, er virkelig dårligt her.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509708"
+    },
+    {
+      "english": "Hold on, a second please.",
+      "danish": "Vent, et øjeblik tak.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509712"
+    },
+    {
+      "english": "Is this a bad, time to talk?",
+      "danish": "Er det et dårligt, tidspunkt at snakke?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509715"
+    },
+    {
+      "english": "Sorry, I missed your call.",
+      "danish": "Undskyld, jeg missede dit opkald.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509718"
+    },
+    {
+      "english": "What's your, number again?",
+      "danish": "Hvad er dit, nummer igen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509720"
+    },
+    {
+      "english": "I'm sending, the address now.",
+      "danish": "Jeg sender, adressen nu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509725"
+    },
+    {
+      "english": "Confirm, when you get it.",
+      "danish": "Bekræft, når du får den.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509727"
+    },
+    {
+      "english": "Can you repeat, that please?",
+      "danish": "Kan du gentage, det tak?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509730"
+    },
+    {
+      "english": "Let me know, if plans change.",
+      "danish": "Giv lyd, hvis planer ændres.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509732"
+    },
+    {
+      "english": "We're running, a little late.",
+      "danish": "Vi er lidt, forsinkede.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-24T08:01:16.509735"
     }
   ],
-  "last_updated": "2026-10-23T09:51:09.228584"
+  "last_updated": "2026-10-24T08:01:16.509737"
 }
