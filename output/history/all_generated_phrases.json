@@ -5759,7 +5759,727 @@
       "danish": "Vi er lidt, forsinkede.",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-10-24T08:01:16.509735"
+    },
+    {
+      "english": "That makes me happy, really.",
+      "danish": "Det gør mig glad, virkelig.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461941"
+    },
+    {
+      "english": "I feel great today, wow!",
+      "danish": "Jeg har det skønt i dag, wow!",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461957"
+    },
+    {
+      "english": "What a lovely surprise, yes!",
+      "danish": "Sikke en dejlig overraskelse, ja!",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461960"
+    },
+    {
+      "english": "This is pure joy, honestly.",
+      "danish": "Det her er ren glæde, ærligt.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461962"
+    },
+    {
+      "english": "I'm so pleased about this.",
+      "danish": "Jeg er så tilfreds med det her.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461964"
+    },
+    {
+      "english": "Feeling good, feeling happy.",
+      "danish": "Føler mig godt, føler mig glad.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461967"
+    },
+    {
+      "english": "My heart is full of joy.",
+      "danish": "Mit hjerte er fuld af glæde.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461969"
+    },
+    {
+      "english": "Everything is going well, great!",
+      "danish": "Alt går godt, dejligt!",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461973"
+    },
+    {
+      "english": "I'm beaming with happiness, truly.",
+      "danish": "Jeg stråler af lykke, sandelig.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461976"
+    },
+    {
+      "english": "This brightens my whole day.",
+      "danish": "Det her lysner hele min dag.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461978"
+    },
+    {
+      "english": "So much happiness in one moment.",
+      "danish": "Så meget lykke på ét øjeblik.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461981"
+    },
+    {
+      "english": "I could not be happier, no.",
+      "danish": "Jeg kunne ikke være gladere, nej.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461983"
+    },
+    {
+      "english": "This is truly uplifting, amazing.",
+      "danish": "Det her er virkelig opløftende, fedt!",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461985"
+    },
+    {
+      "english": "A moment of pure bliss, yes.",
+      "danish": "Et øjeblik af ren lykke, ja.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461988"
+    },
+    {
+      "english": "I'm on cloud nine right now.",
+      "danish": "Jeg er på den syvende himmel lige nu.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461991"
+    },
+    {
+      "english": "This fills me with delight, wow.",
+      "danish": "Det her fylder mig med glæde, wow.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461993"
+    },
+    {
+      "english": "Happy vibes only, I think.",
+      "danish": "Kun glade vibber, tror jeg.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461995"
+    },
+    {
+      "english": "A little bit of heaven, indeed.",
+      "danish": "En lille smule himmel, bestemt.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.461997"
+    },
+    {
+      "english": "This is the best feeling ever.",
+      "danish": "Det her er den bedste følelse nogensinde.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462001"
+    },
+    {
+      "english": "My spirits are lifted, thankfully.",
+      "danish": "Mit humør er løftet, heldigvis.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462003"
+    },
+    {
+      "english": "What a cheerful occasion, lovely!",
+      "danish": "Sikke en munter lejlighed, dejligt!",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462005"
+    },
+    {
+      "english": "I'm absolutely delighted, yes!",
+      "danish": "Jeg er helt henrykt, ja!",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462007"
+    },
+    {
+      "english": "This brings such great happiness.",
+      "danish": "Det her giver så stor lykke.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462009"
+    },
+    {
+      "english": "Pure contentment, finally, yes.",
+      "danish": "Ren tilfredshed, endelig, ja.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462012"
+    },
+    {
+      "english": "This is a happy moment, truly.",
+      "danish": "Det her er et lykkeligt øjeblik, virkelig.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462014"
+    },
+    {
+      "english": "Joy is in the air, definitely.",
+      "danish": "Glæden er i luften, helt sikkert.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462016"
+    },
+    {
+      "english": "I'm in a wonderful mood, yes.",
+      "danish": "Jeg er i et vidunderligt humør, ja.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462018"
+    },
+    {
+      "english": "This makes life feel so good.",
+      "danish": "Det her får livet til at føles så godt.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462022"
+    },
+    {
+      "english": "How do you find happiness, generally?",
+      "danish": "Hvordan finder du lykke, generelt?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462024"
+    },
+    {
+      "english": "What brings you joy, lately?",
+      "danish": "Hvad giver dig glæde, på det seneste?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462027"
+    },
+    {
+      "english": "Can you recommend a happy book?",
+      "danish": "Kan du anbefale en glad bog?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462029"
+    },
+    {
+      "english": "Where do people seek happiness?",
+      "danish": "Hvor søger folk lykke hen?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462031"
+    },
+    {
+      "english": "Is there a secret to happiness?",
+      "danish": "Er der en hemmelighed bag lykke?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462035"
+    },
+    {
+      "english": "What makes Danes happy, do you know?",
+      "danish": "Hvad gør danskere glade, ved du det?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462037"
+    },
+    {
+      "english": "How can I be more cheerful?",
+      "danish": "Hvordan kan jeg blive mere opløftet?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462040"
+    },
+    {
+      "english": "What's your favorite happy memory?",
+      "danish": "Hvad er dit yndlings glade minde?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462042"
+    },
+    {
+      "english": "Do you believe in instant happiness?",
+      "danish": "Tror du på øjeblikkelig lykke?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462044"
+    },
+    {
+      "english": "Should we always pursue happiness?",
+      "danish": "Skal vi altid jagte lykke?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462046"
+    },
+    {
+      "english": "What advice do you have for joy?",
+      "danish": "Hvilket råd har du til glæde?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462049"
+    },
+    {
+      "english": "Does Danish weather affect happiness?",
+      "danish": "Påvirker dansk vejr lykken?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462051"
+    },
+    {
+      "english": "What small things bring you joy?",
+      "danish": "Hvilke små ting giver dig glæde?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462053"
+    },
+    {
+      "english": "Can you share a happy quote?",
+      "danish": "Kan du dele et lykkeligt citat?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462055"
+    },
+    {
+      "english": "What's your definition of contentment?",
+      "danish": "Hvad er din definition af tilfredshed?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462058"
+    },
+    {
+      "english": "Are you happy with your day?",
+      "danish": "Er du tilfreds med din dag?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462060"
+    },
+    {
+      "english": "What helps you feel hopeful?",
+      "danish": "Hvad hjælper dig med at føle håb?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462062"
+    },
+    {
+      "english": "Do you find joy in simple things?",
+      "danish": "Finder du glæde i simple ting?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462064"
+    },
+    {
+      "english": "What makes life worth living?",
+      "danish": "Hvad gør livet værd at leve?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462066"
+    },
+    {
+      "english": "How do you practice gratitude daily?",
+      "danish": "Hvordan praktiserer du taknemmelighed dagligt?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462068"
+    },
+    {
+      "english": "What's your biggest happiness source?",
+      "danish": "Hvad er din største kilde til lykke?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462070"
+    },
+    {
+      "english": "Do you believe happiness is contagious?",
+      "danish": "Tror du lykke smitter?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462072"
+    },
+    {
+      "english": "How do you stay optimistic?",
+      "danish": "Hvordan forbliver du optimistisk?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462076"
+    },
+    {
+      "english": "What brings peace to your mind?",
+      "danish": "Hvad bringer fred til dit sind?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462078"
+    },
+    {
+      "english": "Can you share a happy Danish tradition?",
+      "danish": "Kan du dele en glad dansk tradition?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462079"
+    },
+    {
+      "english": "What makes you smile, really?",
+      "danish": "Hvad får dig til at smile, virkelig?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462082"
+    },
+    {
+      "english": "How do you find calm in chaos?",
+      "danish": "Hvordan finder du ro i kaos?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462084"
+    },
+    {
+      "english": "What is your personal definition of joy?",
+      "danish": "Hvad er din personlige definition af glæde?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462086"
+    },
+    {
+      "english": "Do you think Danes are happy people?",
+      "danish": "Synes du, danskere er lykkelige folk?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462088"
+    },
+    {
+      "english": "You've got this, absolutely.",
+      "danish": "Du klarer den, absolut.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462090"
+    },
+    {
+      "english": "Every day is a new chance.",
+      "danish": "Hver dag er en ny chance.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462092"
+    },
+    {
+      "english": "Focus on the positive, always.",
+      "danish": "Fokusér på det positive, altid.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462095"
+    },
+    {
+      "english": "Take a deep breath, relax.",
+      "danish": "Tag en dyb indånding, slap af.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462099"
+    },
+    {
+      "english": "This is progress, not perfection.",
+      "danish": "Dette er fremskridt, ikke perfektion.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462101"
+    },
+    {
+      "english": "Good job, keep it up.",
+      "danish": "Godt gået, bliv ved.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462103"
+    },
+    {
+      "english": "Let go of what you can't control.",
+      "danish": "Slip det du ikke kan styre.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462105"
+    },
+    {
+      "english": "You inspire me, truly.",
+      "danish": "Du inspirerer mig, virkelig.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462108"
+    },
+    {
+      "english": "Embrace the challenges, grow.",
+      "danish": "Omfavn udfordringerne, voks.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462110"
+    },
+    {
+      "english": "Your attitude is everything.",
+      "danish": "Din indstilling er alt.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462111"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "danish": "Du er god nok, lige som du er.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462114"
+    },
+    {
+      "english": "Have faith in the process.",
+      "danish": "Hav tillid til processen.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462116"
+    },
+    {
+      "english": "You're doing better than yesterday.",
+      "danish": "Du klarer dig bedre end i går.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462118"
+    },
+    {
+      "english": "This is a learning opportunity.",
+      "danish": "Dette er en læringsmulighed.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462120"
+    },
+    {
+      "english": "You have so much potential.",
+      "danish": "Du har så meget potentiale.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462122"
+    },
+    {
+      "english": "Trust your intuition, it's wise.",
+      "danish": "Stol på din intuition, den er klog.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462124"
+    },
+    {
+      "english": "You are resilient, remember that.",
+      "danish": "Du er modstandsdygtig, husk det.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462126"
+    },
+    {
+      "english": "Let your light shine bright.",
+      "danish": "Lad dit lys skinne klart.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462128"
+    },
+    {
+      "english": "You make a difference, believe it.",
+      "danish": "Du gør en forskel, tro på det.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462130"
+    },
+    {
+      "english": "Life's good, couldn't ask for more.",
+      "danish": "Livet er godt, man kan ikke bede om mere.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462132"
+    },
+    {
+      "english": "Everything's falling into place.",
+      "danish": "Alt falder på plads.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462134"
+    },
+    {
+      "english": "Feeling on top of the world.",
+      "danish": "Jeg føler mig på toppen af verden.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462137"
+    },
+    {
+      "english": "It's a great day for happiness.",
+      "danish": "Det er en skøn dag for lykke.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462139"
+    },
+    {
+      "english": "Pure bliss, really.",
+      "danish": "Ren lykke, virkelig.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462141"
+    },
+    {
+      "english": "This feeling is everything.",
+      "danish": "Denne følelse er alt.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462145"
+    },
+    {
+      "english": "So much to be thankful for.",
+      "danish": "Så meget at være taknemmelig for.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462147"
+    },
+    {
+      "english": "A moment of pure joy.",
+      "danish": "Et øjeblik af ren glæde.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462149"
+    },
+    {
+      "english": "Feeling light as a feather.",
+      "danish": "Jeg føler mig let som en fjer.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462151"
+    },
+    {
+      "english": "Life's sweet, isn't it?",
+      "danish": "Livet er sødt, ikke sandt?",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462153"
+    },
+    {
+      "english": "Just enjoying the moment.",
+      "danish": "Jeg nyder bare øjeblikket.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462156"
+    },
+    {
+      "english": "Couldn't be happier right now.",
+      "danish": "Kunne ikke være gladere lige nu.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462158"
+    },
+    {
+      "english": "A sense of deep contentment.",
+      "danish": "En følelse af dyb tilfredshed.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462160"
+    },
+    {
+      "english": "This is what it's all about.",
+      "danish": "Det er det, det hele handler om.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462162"
+    },
+    {
+      "english": "My spirit is lifted.",
+      "danish": "Min ånd er løftet.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462164"
+    },
+    {
+      "english": "Smiling from ear to ear.",
+      "danish": "Smilende fra øre til øre.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462166"
+    },
+    {
+      "english": "Things are looking up.",
+      "danish": "Tingene ser lyse ud.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462168"
+    },
+    {
+      "english": "I've found my happy place.",
+      "danish": "Jeg har fundet mit lykkelige sted.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462171"
+    },
+    {
+      "english": "A calm and happy mind.",
+      "danish": "Et roligt og glad sind.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462172"
+    },
+    {
+      "english": "Feeling truly blessed today.",
+      "danish": "Føler mig virkelig velsignet i dag.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462174"
+    },
+    {
+      "english": "This makes my day.",
+      "danish": "Det her gør min dag.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462178"
+    },
+    {
+      "english": "My cup runneth over.",
+      "danish": "Min kop flyder over.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462180"
+    },
+    {
+      "english": "Cherishing this beautiful moment.",
+      "danish": "Værdsætter dette smukke øjeblik.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462182"
+    },
+    {
+      "english": "Living the dream, basically.",
+      "danish": "Lever drømmen, grundlæggende.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462184"
+    },
+    {
+      "english": "Happiness is a choice.",
+      "danish": "Lykke er et valg.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462186"
+    },
+    {
+      "english": "A deep sense of peace.",
+      "danish": "En dyb følelse af fred.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462187"
+    },
+    {
+      "english": "Simply radiant with joy.",
+      "danish": "Simpelthen strålende af glæde.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462189"
+    },
+    {
+      "english": "Start small, achieve big things.",
+      "danish": "Start småt, opnå store ting.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462191"
+    },
+    {
+      "english": "Make time for what matters most.",
+      "danish": "Gør plads til det, der betyder mest.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462193"
+    },
+    {
+      "english": "Listen more, talk less, learn always.",
+      "danish": "Lyt mere, tal mindre, lær altid.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462195"
+    },
+    {
+      "english": "Ask for help when you need it.",
+      "danish": "Bed om hjælp, når du har brug for det.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462197"
+    },
+    {
+      "english": "Share your joy, it multiplies.",
+      "danish": "Del din glæde, den mangedobles.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462200"
+    },
+    {
+      "english": "Small acts of kindness, matter much.",
+      "danish": "Små venlige handlinger, betyder meget.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462202"
+    },
+    {
+      "english": "Disconnect, then reconnect with yourself.",
+      "danish": "Kobl fra, og forbind dig igen med dig selv.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462204"
+    },
+    {
+      "english": "Find simple pleasures, everyday.",
+      "danish": "Find simple glæder, hver eneste dag.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462206"
+    },
+    {
+      "english": "Be present, right here, right now.",
+      "danish": "Vær til stede, lige her, lige nu.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462208"
+    },
+    {
+      "english": "A grateful heart, is a happy heart.",
+      "danish": "Et taknemmeligt hjerte, er et glad hjerte.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462210"
+    },
+    {
+      "english": "Laugh often, at yourself too.",
+      "danish": "Grin ofte, også af dig selv.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462214"
+    },
+    {
+      "english": "Forgive easily, it frees you.",
+      "danish": "Tilgiv let, det frigør dig.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462216"
+    },
+    {
+      "english": "Move your body, lift your spirit.",
+      "danish": "Bevæg din krop, løft din ånd.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462220"
+    },
+    {
+      "english": "Create space for quiet reflection.",
+      "danish": "Skab plads til stille eftertanke.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462222"
+    },
+    {
+      "english": "Celebrate small wins, daily.",
+      "danish": "Fejr små sejre, dagligt.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462224"
+    },
+    {
+      "english": "Say 'yes' to new experiences.",
+      "danish": "Sig 'ja' til nye oplevelser.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462226"
+    },
+    {
+      "english": "Breathe deeply, when stressed.",
+      "danish": "Træk vejret dybt, når du er stresset.",
+      "category": "Happiness",
+      "generated_at": "2026-10-25T08:18:08.462228"
     }
   ],
-  "last_updated": "2026-10-24T08:01:16.509737"
+  "last_updated": "2026-10-25T08:18:08.462230"
 }
