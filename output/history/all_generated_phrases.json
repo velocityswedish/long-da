@@ -7199,7 +7199,727 @@
       "danish": "Repeter hvad du har lært, jævnligt.",
       "category": "Motivation",
       "generated_at": "2026-10-26T08:45:27.182863"
+    },
+    {
+      "english": "It's a Danish tradition, you know.",
+      "danish": "Det er en dansk tradition, du ved.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416123"
+    },
+    {
+      "english": "We always do this for holidays.",
+      "danish": "Vi gør altid dette til højtider.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416137"
+    },
+    {
+      "english": "That's very typical Danish behavior.",
+      "danish": "Det er meget typisk dansk opførsel.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416141"
+    },
+    {
+      "english": "How do you celebrate this?",
+      "danish": "Hvordan fejrer I dette?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416144"
+    },
+    {
+      "english": "It's a special occasion.",
+      "danish": "Det er en særlig lejlighed.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416147"
+    },
+    {
+      "english": "This is important to us.",
+      "danish": "Dette er vigtigt for os.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416150"
+    },
+    {
+      "english": "We have a lot of customs.",
+      "danish": "Vi har mange skikke.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416153"
+    },
+    {
+      "english": "It means a lot.",
+      "danish": "Det betyder meget.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416158"
+    },
+    {
+      "english": "Is this a common practice?",
+      "danish": "Er dette en almindelig praksis?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416161"
+    },
+    {
+      "english": "We share this custom.",
+      "danish": "Vi deler denne skik.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416164"
+    },
+    {
+      "english": "It's a nice way to connect.",
+      "danish": "Det er en god måde at forbinde på.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416167"
+    },
+    {
+      "english": "Family gatherings are key.",
+      "danish": "Familie samlinger er vigtige.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416169"
+    },
+    {
+      "english": "We follow the old ways.",
+      "danish": "Vi følger de gamle måder.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416175"
+    },
+    {
+      "english": "It's about togetherness.",
+      "danish": "Det handler om fællesskab.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416178"
+    },
+    {
+      "english": "This is how we do it.",
+      "danish": "Sådan gør vi.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416181"
+    },
+    {
+      "english": "We cherish these moments.",
+      "danish": "Vi værdsætter disse øjeblikke.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416183"
+    },
+    {
+      "english": "It's a part of our culture.",
+      "danish": "Det er en del af vores kultur.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416188"
+    },
+    {
+      "english": "Let's embrace the tradition.",
+      "danish": "Lad os omfavne traditionen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416190"
+    },
+    {
+      "english": "This is a unique Danish custom.",
+      "danish": "Dette er en unik dansk skik.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416193"
+    },
+    {
+      "english": "We keep the traditions alive.",
+      "danish": "Vi holder traditionerne i live.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416195"
+    },
+    {
+      "english": "It's a time for reflection.",
+      "danish": "Det er en tid til eftertanke.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416198"
+    },
+    {
+      "english": "We celebrate with friends.",
+      "danish": "Vi fejrer med venner.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416200"
+    },
+    {
+      "english": "This practice is ancient.",
+      "danish": "Denne praksis er gammel.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416202"
+    },
+    {
+      "english": "It's a sign of respect.",
+      "danish": "Det er et tegn på respekt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416205"
+    },
+    {
+      "english": "We pass this down.",
+      "danish": "Vi giver dette videre.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416207"
+    },
+    {
+      "english": "It's a special feeling.",
+      "danish": "Det er en særlig følelse.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416210"
+    },
+    {
+      "english": "We enjoy the simple things.",
+      "danish": "Vi nyder de enkle ting.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416212"
+    },
+    {
+      "english": "This is our heritage.",
+      "danish": "Dette er vores arv.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416215"
+    },
+    {
+      "english": "What's the story behind this?",
+      "danish": "Hvad er historien bag?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416231"
+    },
+    {
+      "english": "We value community.",
+      "danish": "Vi værdsætter fællesskab.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416234"
+    },
+    {
+      "english": "Could you explain this custom, please?",
+      "danish": "Kan du forklare denne skik, tak?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416237"
+    },
+    {
+      "english": "Is there a specific reason for this?",
+      "danish": "Er der en særlig grund til det?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416240"
+    },
+    {
+      "english": "What do people usually do here?",
+      "danish": "Hvad plejer man at gøre her?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416242"
+    },
+    {
+      "english": "Can you tell me more about this?",
+      "danish": "Kan du fortælle mig mere om det?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416245"
+    },
+    {
+      "english": "When did this tradition start?",
+      "danish": "Hvornår startede denne tradition?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416248"
+    },
+    {
+      "english": "What are the rules, if any?",
+      "danish": "Hvad er reglerne, hvis der er nogen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416250"
+    },
+    {
+      "english": "How should I behave during this?",
+      "danish": "Hvordan skal jeg opføre mig?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416253"
+    },
+    {
+      "english": "Is it okay to participate?",
+      "danish": "Er det okay at deltage?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416255"
+    },
+    {
+      "english": "What should I bring, if anything?",
+      "danish": "Hvad skal jeg medbringe, hvis noget?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416258"
+    },
+    {
+      "english": "What are people eating or drinking?",
+      "danish": "Hvad spiser eller drikker man?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416263"
+    },
+    {
+      "english": "Can I ask a question about this?",
+      "danish": "Må jeg spørge om noget her?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416266"
+    },
+    {
+      "english": "What's a common mistake to avoid?",
+      "danish": "Hvad er en typisk fejl at undgå?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416268"
+    },
+    {
+      "english": "Is there something I should try?",
+      "danish": "Er der noget, jeg burde prøve?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416271"
+    },
+    {
+      "english": "What's the etiquette here?",
+      "danish": "Hvad er etiketten her?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416274"
+    },
+    {
+      "english": "How long does this usually last?",
+      "danish": "Hvor længe varer det typisk?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416278"
+    },
+    {
+      "english": "Are there any specific songs played?",
+      "danish": "Spilles der en bestemt sang?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416283"
+    },
+    {
+      "english": "What happens next in the event?",
+      "danish": "Hvad sker der så bagefter?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416285"
+    },
+    {
+      "english": "What's your favorite part of this?",
+      "danish": "Hvad er din yndlingsdel af det?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416288"
+    },
+    {
+      "english": "Is there a particular way to greet people?",
+      "danish": "Er der en særlig måde at hilse på?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416291"
+    },
+    {
+      "english": "What kind of gifts are appropriate?",
+      "danish": "Hvilken slags gaver er passende?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416294"
+    },
+    {
+      "english": "What should I know before attending?",
+      "danish": "Hvad skal jeg vide før jeg kommer?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416296"
+    },
+    {
+      "english": "Is there a special dress code?",
+      "danish": "Er der en særlig påklædning?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416299"
+    },
+    {
+      "english": "What are the main activities involved?",
+      "danish": "Hvad er de vigtigste aktiviteter?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416301"
+    },
+    {
+      "english": "Could you demonstrate that for me?",
+      "danish": "Kan du vise mig, hvordan?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416303"
+    },
+    {
+      "english": "What's the general feeling here?",
+      "danish": "Hvad er den generelle stemning?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416306"
+    },
+    {
+      "english": "Are there any specific prayers or songs?",
+      "danish": "Er der særlige bønner eller sange?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416309"
+    },
+    {
+      "english": "Believe in the process, learn slowly.",
+      "danish": "Tro på processen, lær langsomt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416311"
+    },
+    {
+      "english": "Your effort is noticed, keep going.",
+      "danish": "Din indsats bliver set, fortsæt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416314"
+    },
+    {
+      "english": "Every small step counts towards progress.",
+      "danish": "Hvert lille skridt tæller for fremgang.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416317"
+    },
+    {
+      "english": "Embrace the learning curve, it's normal.",
+      "danish": "Omfavn læringskurven, det er normalt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416320"
+    },
+    {
+      "english": "Don't be afraid to ask questions.",
+      "danish": "Vær ikke bange for at spørge.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416323"
+    },
+    {
+      "english": "Focus on understanding, not perfection.",
+      "danish": "Fokusér på forståelse, ikke perfektion.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416326"
+    },
+    {
+      "english": "Your curiosity is a great asset.",
+      "danish": "Din nysgerrighed er en stor styrke.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416328"
+    },
+    {
+      "english": "It's okay to make mistakes, learn from them.",
+      "danish": "Det er okay at lave fejl, lær af dem.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416331"
+    },
+    {
+      "english": "You are succeeding, bit by bit.",
+      "danish": "Du er ved at lykkes, lidt ad gangen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416334"
+    },
+    {
+      "english": "Stay positive, you've got this.",
+      "danish": "Bevar optimismen, du klarer den.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416337"
+    },
+    {
+      "english": "Keep practicing, it gets easier.",
+      "danish": "Bliv ved med at øve, det bliver lettere.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416340"
+    },
+    {
+      "english": "This takes time, be patient.",
+      "danish": "Det her tager tid, vær tålmodig.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416343"
+    },
+    {
+      "english": "Your enthusiasm is contagious.",
+      "danish": "Din begejstring smitter.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416345"
+    },
+    {
+      "english": "Learning is a journey, enjoy it.",
+      "danish": "Læring er en rejse, nyd den.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416348"
+    },
+    {
+      "english": "Your dedication is inspiring.",
+      "danish": "Din dedikation er inspirerende.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416351"
+    },
+    {
+      "english": "Never stop exploring new ideas.",
+      "danish": "Stop aldrig med at udforske nye idéer.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416355"
+    },
+    {
+      "english": "You are making good progress.",
+      "danish": "Du gør god fremgang.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416357"
+    },
+    {
+      "english": "Positive thoughts lead to positive results.",
+      "danish": "Positive tanker giver positive resultater.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416360"
+    },
+    {
+      "english": "Don't give up, you're almost there.",
+      "danish": "Giv ikke op, du er næsten der.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416363"
+    },
+    {
+      "english": "Adaptability is key to success.",
+      "danish": "Tilpasningsevne er nøglen til succes.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416368"
+    },
+    {
+      "english": "Your perspective is valuable.",
+      "danish": "Dit perspektiv er værdifuldt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416370"
+    },
+    {
+      "english": "Embrace the challenge, grow from it.",
+      "danish": "Omfavn udfordringen, voks af den.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416373"
+    },
+    {
+      "english": "Keep an open mind, always.",
+      "danish": "Hold dit sind åbent, altid.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416376"
+    },
+    {
+      "english": "You can achieve amazing things.",
+      "danish": "Du kan opnå fantastiske ting.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416378"
+    },
+    {
+      "english": "Learning Danish is rewarding.",
+      "danish": "At lære dansk er givende.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416382"
+    },
+    {
+      "english": "Your effort makes a difference.",
+      "danish": "Din indsats gør en forskel.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416385"
+    },
+    {
+      "english": "Confidence comes with practice.",
+      "danish": "Selvtillid kommer med øvelse.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416387"
+    },
+    {
+      "english": "This tradition feels very personal, doesn't it?",
+      "danish": "Denne tradition føles meget personlig, ikke sandt?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416390"
+    },
+    {
+      "english": "I'm reflecting on the meaning behind this.",
+      "danish": "Jeg tænker over meningen med dette.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416393"
+    },
+    {
+      "english": "It's important to be patient with new customs.",
+      "danish": "Det er vigtigt at være tålmodig med nye skikke.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416396"
+    },
+    {
+      "english": "What deeper feelings does this evoke for you?",
+      "danish": "Hvilke dybere følelser vækker dette i dig?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416398"
+    },
+    {
+      "english": "I'm trying to truly understand this ritual.",
+      "danish": "Jeg prøver virkelig at forstå dette ritual.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416401"
+    },
+    {
+      "english": "Sometimes, understanding takes time, and that's okay.",
+      "danish": "Nogle gange tager forståelse tid, og det er okay.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416404"
+    },
+    {
+      "english": "How does this tradition connect with your heart?",
+      "danish": "Hvordan forbinder denne tradition sig med dit hjerte?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416407"
+    },
+    {
+      "english": "I feel a sense of calm observing this.",
+      "danish": "Jeg føler en ro ved at observere dette.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416410"
+    },
+    {
+      "english": "This reminds me of something important.",
+      "danish": "Dette minder mig om noget vigtigt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416412"
+    },
+    {
+      "english": "Let's embrace the emotional honesty here.",
+      "danish": "Lad os omfavne den følelsesmæssige ærlighed her.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416415"
+    },
+    {
+      "english": "I appreciate the sincerity of this moment.",
+      "danish": "Jeg værdsætter ægtheden i dette øjeblik.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416418"
+    },
+    {
+      "english": "What thoughts are stirring within you now?",
+      "danish": "Hvilke tanker dukker op i dig nu?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416421"
+    },
+    {
+      "english": "It’s beautiful how traditions reveal feelings.",
+      "danish": "Det er smukt, hvordan traditioner afslører følelser.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416425"
+    },
+    {
+      "english": "I'm processing the experience deeply.",
+      "danish": "Jeg bearbejder oplevelsen dybt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416428"
+    },
+    {
+      "english": "This requires a moment of quiet contemplation.",
+      "danish": "Dette kræver et øjebliks stille eftertanke.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416430"
+    },
+    {
+      "english": "Are there underlying emotions to this custom?",
+      "danish": "Er der underliggende følelser bag denne skik?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416433"
+    },
+    {
+      "english": "I'm learning to feel the cultural nuances.",
+      "danish": "Jeg lærer at mærke de kulturelle nuancer.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416438"
+    },
+    {
+      "english": "This tradition invites genuine reflection.",
+      "danish": "Denne tradition inviterer til ægte refleksion.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416440"
+    },
+    {
+      "english": "My initial feelings are quite strong.",
+      "danish": "Mine første følelser er ret stærke.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416443"
+    },
+    {
+      "english": "What does this tradition truly mean to people?",
+      "danish": "Hvad betyder denne tradition virkelig for folk?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416446"
+    },
+    {
+      "english": "Patience is essential when absorbing new culture.",
+      "danish": "Tålmodighed er essentiel, når man optager ny kultur.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416449"
+    },
+    {
+      "english": "I'm contemplating the historical significance.",
+      "danish": "Jeg overvejer den historiske betydning.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416451"
+    },
+    {
+      "english": "It's a moment for sincere introspection.",
+      "danish": "Det er et øjeblik til oprigtig selvindsigt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416454"
+    },
+    {
+      "english": "How do you personally connect with this?",
+      "danish": "Hvordan forbinder du dig personligt med dette?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416456"
+    },
+    {
+      "english": "This tradition fosters a sense of togetherness.",
+      "danish": "Denne tradition fremmer en følelse af fællesskab.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416461"
+    },
+    {
+      "english": "I'm giving myself time to absorb this.",
+      "danish": "Jeg giver mig selv tid til at absorbere dette.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416464"
+    },
+    {
+      "english": "What underlying values does this represent?",
+      "danish": "Hvilke underliggende værdier repræsenterer dette?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416466"
+    },
+    {
+      "english": "The emotional weight of this is palpable.",
+      "danish": "Den følelsesmæssige vægt her er tydelig.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416469"
+    },
+    {
+      "english": "I'm allowing space for new perspectives.",
+      "danish": "Jeg tillader plads til nye perspektiver.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416471"
+    },
+    {
+      "english": "This tradition speaks to my inner self.",
+      "danish": "Denne tradition taler til mit indre.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416474"
+    },
+    {
+      "english": "Always greet others, it's polite.",
+      "danish": "Hils altid, det er høfligt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416477"
+    },
+    {
+      "english": "Take off your shoes inside.",
+      "danish": "Tag skoene af indenfor.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416481"
+    },
+    {
+      "english": "Small talk is rare, be direct.",
+      "danish": "Small talk er sjældent, vær direkte.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416484"
+    },
+    {
+      "english": "Arrive on time, punctuality matters.",
+      "danish": "Kom til tiden, præcision betyder noget.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416486"
+    },
+    {
+      "english": "Share food, it's common courtesy.",
+      "danish": "Del mad, det er almindelig pli.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416489"
+    },
+    {
+      "english": "Don't boast, humility is valued.",
+      "danish": "Undlad at prale, ydmyghed værdsættes.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416492"
+    },
+    {
+      "english": "Ask about interests, not money.",
+      "danish": "Spørg om interesser, ikke penge.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T08:52:00.416495"
     }
   ],
-  "last_updated": "2026-10-26T08:45:27.182865"
+  "last_updated": "2026-10-27T08:52:00.416497"
 }
