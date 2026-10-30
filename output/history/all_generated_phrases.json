@@ -8639,7 +8639,727 @@
       "danish": "Bevar roen, okay?",
       "category": "Patience",
       "generated_at": "2026-10-28T09:31:18.802309"
+    },
+    {
+      "english": "Yes, exactly, that's right.",
+      "danish": "Ja, lige præcis, det er rigtigt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804253"
+    },
+    {
+      "english": "I agree completely, totally.",
+      "danish": "Jeg er helt enig, fuldstændig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804267"
+    },
+    {
+      "english": "That sounds about right.",
+      "danish": "Det lyder nogenlunde rigtigt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804270"
+    },
+    {
+      "english": "Couldn't agree more, no way.",
+      "danish": "Kunne ikke være mere enig, slet ikke.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804273"
+    },
+    {
+      "english": "I see your point, but...",
+      "danish": "Jeg forstår din pointe, men...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804276"
+    },
+    {
+      "english": "That's a good point, actually.",
+      "danish": "Det er faktisk en god pointe.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804279"
+    },
+    {
+      "english": "Fair enough, I suppose.",
+      "danish": "Rimeligt nok, vil jeg tro.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804281"
+    },
+    {
+      "english": "We're on the same page.",
+      "danish": "Vi er på samme side.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804290"
+    },
+    {
+      "english": "You took the words right out of my mouth.",
+      "danish": "Du tog ordene ud af min mund.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804294"
+    },
+    {
+      "english": "I guess that's one way to put it.",
+      "danish": "Jeg gætter på, at det er én måde at sige det på.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804297"
+    },
+    {
+      "english": "I'm not so sure about that.",
+      "danish": "Jeg er ikke så sikker på det.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804299"
+    },
+    {
+      "english": "I don't really think so.",
+      "danish": "Det tror jeg nu ikke.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804302"
+    },
+    {
+      "english": "That's not quite right, is it?",
+      "danish": "Det er ikke helt rigtigt, vel?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804304"
+    },
+    {
+      "english": "I beg to differ, honestly.",
+      "danish": "Jeg er nødt til at være uenig, ærligt talt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804306"
+    },
+    {
+      "english": "That's not how I see it.",
+      "danish": "Sådan ser jeg det ikke.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804310"
+    },
+    {
+      "english": "I have a different opinion.",
+      "danish": "Jeg har en anden mening.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804312"
+    },
+    {
+      "english": "I don't agree with you there.",
+      "danish": "Der er jeg ikke enig med dig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804314"
+    },
+    {
+      "english": "No way, I disagree strongly.",
+      "danish": "Slet ikke, jeg er stærkt uenig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804317"
+    },
+    {
+      "english": "That's debatable, really.",
+      "danish": "Det er til diskussion, virkelig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804321"
+    },
+    {
+      "english": "I'm not convinced, sorry.",
+      "danish": "Jeg er ikke overbevist, undskyld.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804324"
+    },
+    {
+      "english": "I understand your perspective, but...",
+      "danish": "Jeg forstår dit perspektiv, men...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804326"
+    },
+    {
+      "english": "We'll have to agree to disagree.",
+      "danish": "Vi må blive enige om at være uenige.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804329"
+    },
+    {
+      "english": "That's an interesting thought.",
+      "danish": "Det er en interessant tanke.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804331"
+    },
+    {
+      "english": "I'm on the fence about that.",
+      "danish": "Jeg er på hegnet med det der.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804333"
+    },
+    {
+      "english": "I can see that happening.",
+      "danish": "Det kan jeg godt se ske.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804335"
+    },
+    {
+      "english": "That's a bit of a stretch.",
+      "danish": "Det er lige at stramme den.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804337"
+    },
+    {
+      "english": "I'm not following you there.",
+      "danish": "Den forstår jeg ikke helt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804339"
+    },
+    {
+      "english": "I have my doubts, to be honest.",
+      "danish": "Jeg har mine tvivl, for at være ærlig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804342"
+    },
+    {
+      "english": "That's one way of looking at it.",
+      "danish": "Det er én måde at se på det.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804344"
+    },
+    {
+      "english": "I'm not convinced it's the best idea.",
+      "danish": "Jeg er ikke overbevist om, det er den bedste idé.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804347"
+    },
+    {
+      "english": "What's your take on this?",
+      "danish": "Hvad er din holdning til det her?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804349"
+    },
+    {
+      "english": "Do you see it the same way?",
+      "danish": "Ser du det på samme måde?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804352"
+    },
+    {
+      "english": "How do you feel about that?",
+      "danish": "Hvad synes du om det der?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804354"
+    },
+    {
+      "english": "Am I understanding you correctly?",
+      "danish": "Forstår jeg dig rigtigt?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804356"
+    },
+    {
+      "english": "Is that what you meant to say?",
+      "danish": "Var det det, du mente?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804359"
+    },
+    {
+      "english": "Can we discuss this further?",
+      "danish": "Kan vi snakke mere om det?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804362"
+    },
+    {
+      "english": "Tell me more, if you will.",
+      "danish": "Fortæl mig mere, hvis du vil.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804364"
+    },
+    {
+      "english": "Are we in agreement here?",
+      "danish": "Er vi enige om det her?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804366"
+    },
+    {
+      "english": "What's your perspective, really?",
+      "danish": "Hvad er din synsvinkel, helt ærligt?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804369"
+    },
+    {
+      "english": "I'm open to hearing your thoughts.",
+      "danish": "Jeg er åben for dine tanker.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804371"
+    },
+    {
+      "english": "Let's hear your side of it.",
+      "danish": "Lad os høre din side af sagen.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804373"
+    },
+    {
+      "english": "What do you make of this then?",
+      "danish": "Hvad tænker du så om det?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804375"
+    },
+    {
+      "english": "Is that the consensus, perhaps?",
+      "danish": "Er det mon konsensus?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804378"
+    },
+    {
+      "english": "I'm curious about your view.",
+      "danish": "Jeg er nysgerrig på din mening.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804380"
+    },
+    {
+      "english": "Can you elaborate on that point?",
+      "danish": "Kan du uddybe det punkt?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804382"
+    },
+    {
+      "english": "Does that make sense to you?",
+      "danish": "Giver det mening for dig?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804384"
+    },
+    {
+      "english": "How would you approach this?",
+      "danish": "Hvordan ville du gribe det an?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804387"
+    },
+    {
+      "english": "I'd like your input on this.",
+      "danish": "Jeg vil gerne have din mening.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804389"
+    },
+    {
+      "english": "Are you on board with this plan?",
+      "danish": "Er du med på den her plan?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804391"
+    },
+    {
+      "english": "What's your assessment of the situation?",
+      "danish": "Hvad vurderer du situationen?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804394"
+    },
+    {
+      "english": "Can we reach a shared conclusion?",
+      "danish": "Kan vi nå en fælles konklusion?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804396"
+    },
+    {
+      "english": "Is that a reasonable assumption?",
+      "danish": "Er det en rimelig antagelse?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804398"
+    },
+    {
+      "english": "What are your reservations, if any?",
+      "danish": "Hvad er dine forbehold, hvis nogen?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804400"
+    },
+    {
+      "english": "I'm trying to understand your logic.",
+      "danish": "Jeg prøver at forstå din logik.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804402"
+    },
+    {
+      "english": "What's your verdict on this idea?",
+      "danish": "Hvad er din dom over den her idé?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804404"
+    },
+    {
+      "english": "Are you leaning towards that option?",
+      "danish": "Hælder du mod den mulighed?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804408"
+    },
+    {
+      "english": "Let's see if we align on this.",
+      "danish": "Lad os se, om vi er enige.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804410"
+    },
+    {
+      "english": "That's a brilliant idea, yes!",
+      "danish": "Det er en genial idé, ja!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804412"
+    },
+    {
+      "english": "I totally agree, great point!",
+      "danish": "Jeg er helt enig, godt sagt!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804415"
+    },
+    {
+      "english": "That sounds perfect, let's go!",
+      "danish": "Det lyder perfekt, lad os gå!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804417"
+    },
+    {
+      "english": "You're doing great, keep it up!",
+      "danish": "Du gør det fantastisk, bliv ved!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804419"
+    },
+    {
+      "english": "That's the right mindset, for sure.",
+      "danish": "Det er den rette indstilling, helt bestemt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804422"
+    },
+    {
+      "english": "Exactly my thoughts, well put!",
+      "danish": "Præcis mine tanker, flot formuleret!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804424"
+    },
+    {
+      "english": "I believe in your plan, yes.",
+      "danish": "Jeg tror på din plan, ja.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804428"
+    },
+    {
+      "english": "That's a winning attitude, totally.",
+      "danish": "Det er en vindende attitude, helt sikkert.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804431"
+    },
+    {
+      "english": "You're on the right track, good!",
+      "danish": "Du er på rette spor, godt!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804433"
+    },
+    {
+      "english": "That's a fantastic perspective, wow!",
+      "danish": "Det er et fantastisk perspektiv, wow!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804435"
+    },
+    {
+      "english": "I'm fully behind this, yes.",
+      "danish": "Jeg støtter fuldt ud op om det, ja.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804438"
+    },
+    {
+      "english": "That's incredibly inspiring, thank you.",
+      "danish": "Det er utroligt inspirerende, tak.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804441"
+    },
+    {
+      "english": "A truly positive outlook, agreed.",
+      "danish": "Et virkelig positivt syn, enig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804443"
+    },
+    {
+      "english": "You make a strong case, wow.",
+      "danish": "Du argumenterer stærkt, wow.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804445"
+    },
+    {
+      "english": "That's a very encouraging thought.",
+      "danish": "Det er en meget opmuntrende tanke.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804447"
+    },
+    {
+      "english": "I fully endorse that idea, yes.",
+      "danish": "Jeg billiger fuldt ud den idé, ja.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804450"
+    },
+    {
+      "english": "That's a game-changer, absolutely.",
+      "danish": "Det er en game-changer, helt sikkert.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804453"
+    },
+    {
+      "english": "You've nailed it, brilliant work!",
+      "danish": "Du har ramt plet, flot arbejde!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804455"
+    },
+    {
+      "english": "I share that positive vision, yes.",
+      "danish": "Jeg deler den positive vision, ja.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804457"
+    },
+    {
+      "english": "That's a wise approach, truly.",
+      "danish": "Det er en klog tilgang, virkelig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804460"
+    },
+    {
+      "english": "You're absolutely right, no doubt.",
+      "danish": "Du har absolut ret, ingen tvivl.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804463"
+    },
+    {
+      "english": "That fuels my motivation, great!",
+      "danish": "Det giver mig motivation, fedt!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804466"
+    },
+    {
+      "english": "A superb contribution, thank you.",
+      "danish": "Et fremragende bidrag, tak.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804468"
+    },
+    {
+      "english": "I couldn't agree more, honestly.",
+      "danish": "Jeg kunne ikke være mere enig, ærligt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804472"
+    },
+    {
+      "english": "That's a sign of progress, nice!",
+      "danish": "Det er et tegn på fremskridt, flot!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804474"
+    },
+    {
+      "english": "Your confidence is inspiring, good.",
+      "danish": "Din selvtillid er inspirerende, godt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804476"
+    },
+    {
+      "english": "That's a well-founded opinion, yes.",
+      "danish": "Det er en velbegrundet mening, ja.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804479"
+    },
+    {
+      "english": "I feel that too, deeply.",
+      "danish": "Det føler jeg også, dybt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804481"
+    },
+    {
+      "english": "Honestly, I see it differently.",
+      "danish": "Ærligt, jeg ser det anderledes.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804483"
+    },
+    {
+      "english": "My gut says yes, but...",
+      "danish": "Min mavefornemmelse siger ja, men...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804486"
+    },
+    {
+      "english": "I'm hesitant, can you explain?",
+      "danish": "Jeg er tøvende, kan du forklare?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804488"
+    },
+    {
+      "english": "That resonates with me, yes.",
+      "danish": "Det giver genklang hos mig, ja.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804490"
+    },
+    {
+      "english": "I'm not quite there yet.",
+      "danish": "Jeg er ikke helt der endnu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804492"
+    },
+    {
+      "english": "This feels right, deep down.",
+      "danish": "Dette føles rigtigt, dybt indeni.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804494"
+    },
+    {
+      "english": "I need a moment to think.",
+      "danish": "Jeg har brug for et øjeblik til at tænke.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804497"
+    },
+    {
+      "english": "I'm not convinced, honestly.",
+      "danish": "Jeg er ikke overbevist, ærligt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804499"
+    },
+    {
+      "english": "That perspective is valuable.",
+      "danish": "Det perspektiv er værdifuldt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804503"
+    },
+    {
+      "english": "I'm feeling a bit unsure.",
+      "danish": "Jeg føler mig lidt usikker.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804505"
+    },
+    {
+      "english": "That makes my heart lighter.",
+      "danish": "Det gør mit hjerte lettere.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804507"
+    },
+    {
+      "english": "I struggle to see that.",
+      "danish": "Jeg har svært ved at se det.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804509"
+    },
+    {
+      "english": "That thought is comforting.",
+      "danish": "Den tanke er betryggende.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804511"
+    },
+    {
+      "english": "I can't quite get behind it.",
+      "danish": "Jeg kan ikke helt stå bag det.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804513"
+    },
+    {
+      "english": "My instinct is strong on this.",
+      "danish": "Min intuition er stærk på dette.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804515"
+    },
+    {
+      "english": "That sparks something in me.",
+      "danish": "Det tænder noget i mig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804518"
+    },
+    {
+      "english": "I'm holding back, for now.",
+      "danish": "Jeg holder mig tilbage, for nu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804520"
+    },
+    {
+      "english": "That brings me peace, actually.",
+      "danish": "Det giver mig fred, faktisk.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804522"
+    },
+    {
+      "english": "I need more time to process.",
+      "danish": "Jeg behøver mere tid til at bearbejde.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804524"
+    },
+    {
+      "english": "This just feels wrong, sorry.",
+      "danish": "Dette føles bare forkert, undskyld.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804527"
+    },
+    {
+      "english": "I truly believe in this.",
+      "danish": "Jeg tror virkelig på dette.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804529"
+    },
+    {
+      "english": "My heart isn't in it.",
+      "danish": "Mit hjerte er ikke med.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804531"
+    },
+    {
+      "english": "That's a heavy thought.",
+      "danish": "Det er en tung tanke.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804533"
+    },
+    {
+      "english": "I'm open, but cautious.",
+      "danish": "Jeg er åben, men forsigtig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804536"
+    },
+    {
+      "english": "This warms my soul, honestly.",
+      "danish": "Dette varmer min sjæl, ærligt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804539"
+    },
+    {
+      "english": "I have reservations, you see.",
+      "danish": "Jeg har forbehold, du ser.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804541"
+    },
+    {
+      "english": "That sentiment, I share it.",
+      "danish": "Den følelse, den deler jeg.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804543"
+    },
+    {
+      "english": "I need to sleep on it.",
+      "danish": "Jeg skal sove på det.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804545"
+    },
+    {
+      "english": "This is a difficult subject.",
+      "danish": "Dette er et svært emne.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804547"
+    },
+    {
+      "english": "Good point, I didn't think of that.",
+      "danish": "Godt punkt, det tænkte jeg ikke på.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804550"
+    },
+    {
+      "english": "Yes, let's try that first.",
+      "danish": "Ja, lad os prøve det først.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804552"
+    },
+    {
+      "english": "That makes sense, actually.",
+      "danish": "Det giver mening, faktisk.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804554"
+    },
+    {
+      "english": "I agree, it's worth a shot.",
+      "danish": "Jeg er enig, det er et forsøg værd.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804557"
+    },
+    {
+      "english": "Maybe we should reconsider that option.",
+      "danish": "Måske vi burde genoverveje den mulighed.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804559"
+    },
+    {
+      "english": "I have a different idea, listen.",
+      "danish": "Jeg har en anden idé, lyt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-30T09:51:17.804563"
     }
   ],
-  "last_updated": "2026-10-28T09:31:18.802311"
+  "last_updated": "2026-10-30T09:51:17.804565"
 }
