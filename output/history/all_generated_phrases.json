@@ -9359,7 +9359,727 @@
       "danish": "Jeg har en anden idé, lyt.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-10-30T09:51:17.804563"
+    },
+    {
+      "english": "Sorry, I didn't mean that.",
+      "danish": "Undskyld, det mente jeg ikke.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603394"
+    },
+    {
+      "english": "My bad, I forgot.",
+      "danish": "Min fejl, jeg glemte.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603410"
+    },
+    {
+      "english": "Please forgive me.",
+      "danish": "Tilgiv mig, venligst.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603412"
+    },
+    {
+      "english": "I apologize, truly.",
+      "danish": "Jeg undskylder, oprigtigt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603414"
+    },
+    {
+      "english": "Can you forgive me?",
+      "danish": "Kan du tilgive mig?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603415"
+    },
+    {
+      "english": "It was my mistake.",
+      "danish": "Det var min fejl.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603419"
+    },
+    {
+      "english": "I hope you can forgive.",
+      "danish": "Jeg håber, du kan tilgive.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603421"
+    },
+    {
+      "english": "So sorry about that.",
+      "danish": "Meget ked af det.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603424"
+    },
+    {
+      "english": "I regret my actions.",
+      "danish": "Jeg fortryder mine handlinger.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603427"
+    },
+    {
+      "english": "Please don't be angry.",
+      "danish": "Vær venlig ikke vred.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603429"
+    },
+    {
+      "english": "I messed up, sorry.",
+      "danish": "Jeg rodede op, undskyld.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603430"
+    },
+    {
+      "english": "Forgive my oversight.",
+      "danish": "Tilgiv min forglemmelse.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603432"
+    },
+    {
+      "english": "It won't happen again.",
+      "danish": "Det sker ikke igen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603434"
+    },
+    {
+      "english": "Can we move past this?",
+      "danish": "Kan vi komme videre?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603435"
+    },
+    {
+      "english": "I accept responsibility.",
+      "danish": "Jeg tager ansvar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603438"
+    },
+    {
+      "english": "Sorry for the trouble.",
+      "danish": "Undskyld for besværet.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603440"
+    },
+    {
+      "english": "Please, forgive and forget.",
+      "danish": "Tilgiv og glem.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603441"
+    },
+    {
+      "english": "I made a mistake, okay?",
+      "danish": "Jeg lavede en fejl, okay?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603443"
+    },
+    {
+      "english": "Can you let it go?",
+      "danish": "Kan du lade det ligge?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603444"
+    },
+    {
+      "english": "I'm sorry, truly sorry.",
+      "danish": "Jeg er ked af det, virkelig ked af det.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603446"
+    },
+    {
+      "english": "My sincerest apologies.",
+      "danish": "Mine oprigtigste undskyldninger.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603448"
+    },
+    {
+      "english": "Please accept my apology.",
+      "danish": "Accepter venligst min undskyldning.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603449"
+    },
+    {
+      "english": "I regret what I did.",
+      "danish": "Jeg fortryder, hvad jeg gjorde.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603451"
+    },
+    {
+      "english": "Can we start over?",
+      "danish": "Kan vi starte forfra?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603452"
+    },
+    {
+      "english": "I hope for understanding.",
+      "danish": "Jeg håber på forståelse.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603454"
+    },
+    {
+      "english": "Please, don't hold a grudge.",
+      "danish": "Lad være med at bære nag.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603461"
+    },
+    {
+      "english": "I messed up, forgive me.",
+      "danish": "Jeg rodede op, tilgiv mig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603463"
+    },
+    {
+      "english": "It was unintentional, really.",
+      "danish": "Det var utilsigtet, virkelig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603464"
+    },
+    {
+      "english": "I ask for your pardon.",
+      "danish": "Jeg beder om din tilgivelse.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603466"
+    },
+    {
+      "english": "What do you think, should I apologize?",
+      "danish": "Hvad synes du, skal jeg undskylde?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603468"
+    },
+    {
+      "english": "How can I make this right?",
+      "danish": "Hvordan kan jeg rette op på det?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603470"
+    },
+    {
+      "english": "Do you feel I owe you an apology?",
+      "danish": "Føler du, jeg skylder dig en undskyldning?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603472"
+    },
+    {
+      "english": "What is the best way to ask for forgiveness?",
+      "danish": "Hvad er den bedste måde at bede om tilgivelse på?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603474"
+    },
+    {
+      "english": "Is it okay if we talk about this?",
+      "danish": "Er det okay, hvis vi taler om det her?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603476"
+    },
+    {
+      "english": "Can you explain your feelings to me?",
+      "danish": "Kan du forklare dine følelser for mig?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603480"
+    },
+    {
+      "english": "I want to understand your perspective.",
+      "danish": "Jeg vil gerne forstå dit perspektiv.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603482"
+    },
+    {
+      "english": "What would help you feel better?",
+      "danish": "Hvad ville hjælpe dig med at få det bedre?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603484"
+    },
+    {
+      "english": "Do you need some space, perhaps?",
+      "danish": "Har du brug for lidt plads, måske?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603486"
+    },
+    {
+      "english": "Can we try to resolve this peacefully?",
+      "danish": "Kan vi prøve at løse det her fredeligt?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603487"
+    },
+    {
+      "english": "How should I approach this situation?",
+      "danish": "Hvordan skal jeg gribe denne situation an?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603489"
+    },
+    {
+      "english": "Do you think I was wrong?",
+      "danish": "Mener du, jeg tog fejl?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603491"
+    },
+    {
+      "english": "Can we have an honest conversation?",
+      "danish": "Kan vi have en ærlig samtale?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603493"
+    },
+    {
+      "english": "What outcome are you hoping for?",
+      "danish": "Hvilket resultat håber du på?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603494"
+    },
+    {
+      "english": "How do we rebuild trust?",
+      "danish": "Hvordan genopbygger vi tillid?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603496"
+    },
+    {
+      "english": "What is a constructive way forward?",
+      "danish": "Hvad er en konstruktiv vej frem?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603498"
+    },
+    {
+      "english": "Can you accept my sincere regret?",
+      "danish": "Kan du acceptere min oprigtige beklagelse?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603499"
+    },
+    {
+      "english": "I value our relationship, you know.",
+      "danish": "Jeg værdsætter vores forhold, du ved.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603503"
+    },
+    {
+      "english": "What would it take for you to move on?",
+      "danish": "Hvad skal der til, for at du kan komme videre?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603505"
+    },
+    {
+      "english": "Are you willing to discuss this openly?",
+      "danish": "Er du villig til at diskutere dette åbent?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603506"
+    },
+    {
+      "english": "I'm seeking reconciliation here.",
+      "danish": "Jeg søger forsoning her.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603508"
+    },
+    {
+      "english": "How can we find common ground?",
+      "danish": "Hvordan finder vi fælles fodslag?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603510"
+    },
+    {
+      "english": "What's the next step for us?",
+      "danish": "Hvad er det næste skridt for os?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603512"
+    },
+    {
+      "english": "I need your honest feedback now.",
+      "danish": "Jeg har brug for din ærlige feedback nu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603513"
+    },
+    {
+      "english": "Can we agree to disagree, respectfully?",
+      "danish": "Kan vi blive enige om at være uenige, respektfuldt?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603515"
+    },
+    {
+      "english": "Let's move forward, together.",
+      "danish": "Lad os gå videre, sammen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603517"
+    },
+    {
+      "english": "Focus on healing, not blame.",
+      "danish": "Fokuser på heling, ikke skyld.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603519"
+    },
+    {
+      "english": "Choose peace, it's stronger.",
+      "danish": "Vælg fred, den er stærkere.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603522"
+    },
+    {
+      "english": "Your effort, truly noticed.",
+      "danish": "Din indsats, virkelig bemærket.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603524"
+    },
+    {
+      "english": "Positive thoughts, bring positive results.",
+      "danish": "Positive tanker, giver positive resultater.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603525"
+    },
+    {
+      "english": "You have a good heart.",
+      "danish": "Du har et godt hjerte.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603527"
+    },
+    {
+      "english": "Let kindness guide you.",
+      "danish": "Lad venlighed guide dig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603529"
+    },
+    {
+      "english": "Your perspective matters greatly.",
+      "danish": "Dit perspektiv betyder meget.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603531"
+    },
+    {
+      "english": "We can overcome this, together.",
+      "danish": "Vi kan overkomme dette, sammen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603532"
+    },
+    {
+      "english": "Growth comes from challenges.",
+      "danish": "Vækst kommer af udfordringer.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603534"
+    },
+    {
+      "english": "Let understanding be the goal.",
+      "danish": "Lad forståelse være målet.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603536"
+    },
+    {
+      "english": "You've learned a valuable lesson.",
+      "danish": "Du har lært en værdifuld lektion.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603540"
+    },
+    {
+      "english": "Embrace the process, gently.",
+      "danish": "Omfavn processen, blidt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603542"
+    },
+    {
+      "english": "Kindness costs nothing, yet is priceless.",
+      "danish": "Venlighed koster intet, men er uvurderlig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603544"
+    },
+    {
+      "english": "You are capable of forgiveness.",
+      "danish": "Du er i stand til at tilgive.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603545"
+    },
+    {
+      "english": "Give yourself some grace.",
+      "danish": "Giv dig selv lidt nåde.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603547"
+    },
+    {
+      "english": "Inner peace, a worthy pursuit.",
+      "danish": "Indre fred, en værdig stræben.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603549"
+    },
+    {
+      "english": "You handle things well.",
+      "danish": "Du håndterer ting godt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603551"
+    },
+    {
+      "english": "What a thoughtful approach.",
+      "danish": "Sikke en betænksom tilgang.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603552"
+    },
+    {
+      "english": "You are strong enough for this.",
+      "danish": "Du er stærk nok til dette.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603554"
+    },
+    {
+      "english": "Let compassion bloom inside.",
+      "danish": "Lad medfølelse blomstre indeni.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603556"
+    },
+    {
+      "english": "Your positive attitude shines.",
+      "danish": "Din positive attitude skinner.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603557"
+    },
+    {
+      "english": "This journey leads to growth.",
+      "danish": "Denne rejse fører til vækst.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603559"
+    },
+    {
+      "english": "You are very capable.",
+      "danish": "Du er meget kapabel.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603562"
+    },
+    {
+      "english": "Believe in a brighter future.",
+      "danish": "Tro på en lysere fremtid.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603564"
+    },
+    {
+      "english": "You're making progress, well done.",
+      "danish": "Du gør fremskridt, godt klaret.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603566"
+    },
+    {
+      "english": "Give me some time, to think.",
+      "danish": "Giv mig lidt tid, at tænke.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603567"
+    },
+    {
+      "english": "I'm trying hard, to understand.",
+      "danish": "Jeg prøver hårdt, at forstå.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603569"
+    },
+    {
+      "english": "My feelings are still raw, you see.",
+      "danish": "Mine følelser er stadig rå, du ved.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603571"
+    },
+    {
+      "english": "This hurts, but I want to heal.",
+      "danish": "Det gør ondt, men jeg vil hele.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603573"
+    },
+    {
+      "english": "Can we just be patient, for now?",
+      "danish": "Kan vi bare være tålmodige, for nu?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603575"
+    },
+    {
+      "english": "I need space, to process this.",
+      "danish": "Jeg har brug for plads, at bearbejde det.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603577"
+    },
+    {
+      "english": "It takes time, to truly forgive.",
+      "danish": "Det tager tid, at virkelig tilgive.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603578"
+    },
+    {
+      "english": "My heart is open, to you.",
+      "danish": "Mit hjerte er åbent, for dig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603580"
+    },
+    {
+      "english": "I'm reflecting deeply, on this.",
+      "danish": "Jeg reflekterer dybt, over dette.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603582"
+    },
+    {
+      "english": "Let's find peace, in our hearts.",
+      "danish": "Lad os finde fred, i vores hjerter.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603583"
+    },
+    {
+      "english": "I feel lighter, when I let go.",
+      "danish": "Jeg føler mig lettere, når jeg slipper.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603585"
+    },
+    {
+      "english": "This is a moment, for growth.",
+      "danish": "Dette er et øjeblik, for vækst.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603588"
+    },
+    {
+      "english": "I choose understanding, over anger.",
+      "danish": "Jeg vælger forståelse, over vrede.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603590"
+    },
+    {
+      "english": "Your apology, means a lot.",
+      "danish": "Din undskyldning, betyder meget.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603592"
+    },
+    {
+      "english": "I'm learning to let go, slowly.",
+      "danish": "Jeg lærer at slippe, langsomt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603593"
+    },
+    {
+      "english": "Can we start fresh, from here?",
+      "danish": "Kan vi starte forfra, herfra?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603595"
+    },
+    {
+      "english": "My perspective has shifted, truly.",
+      "danish": "Mit perspektiv har ændret sig, virkelig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603597"
+    },
+    {
+      "english": "I accept your feelings, completely.",
+      "danish": "Jeg accepterer dine følelser, fuldstændigt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603598"
+    },
+    {
+      "english": "We both made mistakes, it's true.",
+      "danish": "Vi lavede begge fejl, det er sandt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603600"
+    },
+    {
+      "english": "Let's focus on healing, now.",
+      "danish": "Lad os fokusere på heling, nu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603602"
+    },
+    {
+      "english": "I release the past, with hope.",
+      "danish": "Jeg slipper fortiden, med håb.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603603"
+    },
+    {
+      "english": "Your honesty, is appreciated greatly.",
+      "danish": "Din ærlighed, værdsættes meget.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603605"
+    },
+    {
+      "english": "I'm willing to listen, carefully.",
+      "danish": "Jeg er villig til at lytte, omhyggeligt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603607"
+    },
+    {
+      "english": "This is a chance, for renewal.",
+      "danish": "Dette er en chance, for fornyelse.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603608"
+    },
+    {
+      "english": "I let go, of what hurt me.",
+      "danish": "Jeg slipper det, der sårede mig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603610"
+    },
+    {
+      "english": "Can we rebuild, with trust?",
+      "danish": "Kan vi genopbygge, med tillid?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603611"
+    },
+    {
+      "english": "I offer grace, freely now.",
+      "danish": "Jeg tilbyder nåde, frit nu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603613"
+    },
+    {
+      "english": "Let's find a kinder way, forward.",
+      "danish": "Lad os finde en venligere vej, frem.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603615"
+    },
+    {
+      "english": "My heart feels lighter, today.",
+      "danish": "Mit hjerte føles lettere, i dag.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603617"
+    },
+    {
+      "english": "Let's talk, calmly, please.",
+      "danish": "Lad os snakke, roligt, tak.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603620"
+    },
+    {
+      "english": "I'm ready, to move on.",
+      "danish": "Jeg er klar, til at komme videre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603621"
+    },
+    {
+      "english": "This situation, requires patience.",
+      "danish": "Denne situation, kræver tålmodighed.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603623"
+    },
+    {
+      "english": "What can we learn, from this?",
+      "danish": "Hvad kan vi lære, af det her?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603625"
+    },
+    {
+      "english": "We need to forgive, each other.",
+      "danish": "Vi skal tilgive, hinanden.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603627"
+    },
+    {
+      "english": "Can we agree, to try again?",
+      "danish": "Kan vi blive enige, om at prøve igen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603629"
+    },
+    {
+      "english": "Let's be kind, to ourselves.",
+      "danish": "Lad os være venlige, mod os selv.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603631"
+    },
+    {
+      "english": "Holding on, hurts you most.",
+      "danish": "At holde fast, skader dig mest.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603632"
+    },
+    {
+      "english": "Understanding comes, with time.",
+      "danish": "Forståelse kommer, med tiden.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603634"
+    },
+    {
+      "english": "We can build, a better path.",
+      "danish": "Vi kan bygge, en bedre vej.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603636"
+    },
+    {
+      "english": "Let's choose peace, for both.",
+      "danish": "Lad os vælge fred, for os begge.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-31T09:30:11.603638"
     }
   ],
-  "last_updated": "2026-10-30T09:51:17.804565"
+  "last_updated": "2026-10-31T09:30:11.603641"
 }
