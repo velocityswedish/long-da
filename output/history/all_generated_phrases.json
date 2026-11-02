@@ -10799,7 +10799,727 @@
       "danish": "Fortæl en sjov historie, bryd isen.",
       "category": "Dating & Romance",
       "generated_at": "2026-11-01T10:18:59.019168"
+    },
+    {
+      "english": "Hello, how are you?",
+      "danish": "Hej, hvordan har du det?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729192"
+    },
+    {
+      "english": "Good morning, I need help.",
+      "danish": "God morgen, jeg har brug for hjælp.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729206"
+    },
+    {
+      "english": "Excuse me, where is the toilet?",
+      "danish": "Undskyld mig, hvor er toilettet?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729209"
+    },
+    {
+      "english": "I don't understand, sorry.",
+      "danish": "Jeg forstår ikke, undskyld.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729213"
+    },
+    {
+      "english": "Thank you very much.",
+      "danish": "Tusind tak.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729217"
+    },
+    {
+      "english": "You're welcome, no problem.",
+      "danish": "Selv tak, det er helt i orden.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729220"
+    },
+    {
+      "english": "Where can I find a taxi?",
+      "danish": "Hvor finder jeg en taxa?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729223"
+    },
+    {
+      "english": "I have a reservation, here.",
+      "danish": "Jeg har en reservation, her.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729228"
+    },
+    {
+      "english": "My flight is delayed, unfortunately.",
+      "danish": "Mit fly er forsinket, desværre.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729232"
+    },
+    {
+      "english": "What time is boarding?",
+      "danish": "Hvornår er der boarding?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729235"
+    },
+    {
+      "english": "Can I have a window seat?",
+      "danish": "Må jeg få et vinduessæde?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729238"
+    },
+    {
+      "english": "Is this the correct gate?",
+      "danish": "Er dette den rigtige gate?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729240"
+    },
+    {
+      "english": "I need to change money.",
+      "danish": "Jeg skal veksle penge.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729243"
+    },
+    {
+      "english": "Where is the baggage claim?",
+      "danish": "Hvor er bagageudleveringen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729245"
+    },
+    {
+      "english": "My luggage is lost.",
+      "danish": "Min bagage er væk.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729248"
+    },
+    {
+      "english": "Do you speak English?",
+      "danish": "Taler du engelsk?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729250"
+    },
+    {
+      "english": "I'm looking for the departure hall.",
+      "danish": "Jeg leder efter afgangshallen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729255"
+    },
+    {
+      "english": "How much does this cost?",
+      "danish": "Hvad koster det her?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729257"
+    },
+    {
+      "english": "Can I get a boarding pass?",
+      "danish": "Kan jeg få et boardingkort?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729260"
+    },
+    {
+      "english": "Where is the information desk?",
+      "danish": "Hvor er informationsskranken?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729262"
+    },
+    {
+      "english": "I need a boarding pass, please.",
+      "danish": "Jeg skal bruge et boardingkort, tak.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729265"
+    },
+    {
+      "english": "Have a nice trip!",
+      "danish": "God rejse!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729267"
+    },
+    {
+      "english": "It's a bit crowded here.",
+      "danish": "Det er lidt trangt her.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729271"
+    },
+    {
+      "english": "I'm a bit tired.",
+      "danish": "Jeg er lidt træt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729274"
+    },
+    {
+      "english": "Can I have some water?",
+      "danish": "Må jeg få noget vand?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729277"
+    },
+    {
+      "english": "Is the gate nearby?",
+      "danish": "Er gaten tæt på?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729281"
+    },
+    {
+      "english": "I'm looking for my gate.",
+      "danish": "Jeg leder efter min gate.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729284"
+    },
+    {
+      "english": "What's the gate number?",
+      "danish": "Hvad er gatenummeret?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729286"
+    },
+    {
+      "english": "Enjoy your flight!",
+      "danish": "God flyvetur!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729289"
+    },
+    {
+      "english": "What time does it open, please?",
+      "danish": "Hvad tid åbner det, venligst?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729292"
+    },
+    {
+      "english": "Do you know, where the train station is?",
+      "danish": "Ved du, hvor banegården er?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729295"
+    },
+    {
+      "english": "Can I get a ticket, to Copenhagen?",
+      "danish": "Kan jeg få en billet, til København?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729298"
+    },
+    {
+      "english": "Is there a bus, that goes there?",
+      "danish": "Er der en bus, der kører dertil?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729300"
+    },
+    {
+      "english": "Where can I buy, a SIM card?",
+      "danish": "Hvor kan jeg købe, et SIM-kort?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729305"
+    },
+    {
+      "english": "Is there Wi-Fi, here?",
+      "danish": "Er der Wi-Fi, her?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729308"
+    },
+    {
+      "english": "How do I get, to the hotel?",
+      "danish": "Hvordan kommer jeg, til hotellet?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729311"
+    },
+    {
+      "english": "Can I leave, my bag here?",
+      "danish": "Kan jeg efterlade, min taske her?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729314"
+    },
+    {
+      "english": "Where is the nearest, ATM?",
+      "danish": "Hvor er den nærmeste, hæveautomat?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729317"
+    },
+    {
+      "english": "Is it far, from here?",
+      "danish": "Er det langt, herfra?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729319"
+    },
+    {
+      "english": "What is this, called in Danish?",
+      "danish": "Hvad hedder det her, på dansk?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729322"
+    },
+    {
+      "english": "Can you show me, on the map?",
+      "danish": "Kan du vise mig, på kortet?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729324"
+    },
+    {
+      "english": "Is there a pharmacy, nearby?",
+      "danish": "Er der et apotek, i nærheden?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729327"
+    },
+    {
+      "english": "What's the time, difference?",
+      "danish": "Hvad er tidsforskellen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729330"
+    },
+    {
+      "english": "Can I have, the menu please?",
+      "danish": "Må jeg bede om, menukortet?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729332"
+    },
+    {
+      "english": "Do you have, any recommendations?",
+      "danish": "Har du, nogle anbefalinger?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729335"
+    },
+    {
+      "english": "Is it possible, to get a discount?",
+      "danish": "Er det muligt, at få rabat?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729338"
+    },
+    {
+      "english": "Where can I charge, my phone?",
+      "danish": "Hvor kan jeg oplade, min telefon?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729340"
+    },
+    {
+      "english": "Is it safe, to drink the tap water?",
+      "danish": "Er det sikkert, at drikke vand fra hanen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729343"
+    },
+    {
+      "english": "What's open, late at night?",
+      "danish": "Hvad er åbent, sent om aftenen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729346"
+    },
+    {
+      "english": "Could you speak, a little slower?",
+      "danish": "Kunne du tale, lidt langsommere?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729349"
+    },
+    {
+      "english": "What time, do you close?",
+      "danish": "Hvad tid, lukker I?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729351"
+    },
+    {
+      "english": "Is there an express train, to the airport?",
+      "danish": "Er der et eksprestog, til lufthavnen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729354"
+    },
+    {
+      "english": "Can I change, my seat?",
+      "danish": "Kan jeg skifte, min plads?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729356"
+    },
+    {
+      "english": "Every step is progress, remember that.",
+      "danish": "Hvert skridt er fremskridt, husk det.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729359"
+    },
+    {
+      "english": "Don't worry, enjoy the journey.",
+      "danish": "Bare slap af, nyd rejsen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729362"
+    },
+    {
+      "english": "This adventure is just beginning.",
+      "danish": "Dette eventyr er lige begyndt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729366"
+    },
+    {
+      "english": "Trust the process, it'll be fine.",
+      "danish": "Stol på processen, det går.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729369"
+    },
+    {
+      "english": "Stay calm, stay positive.",
+      "danish": "Vær rolig, vær positiv.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729374"
+    },
+    {
+      "english": "Embrace the unexpected, it's part of it.",
+      "danish": "Omfavn det uventede, det er en del af det.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729377"
+    },
+    {
+      "english": "Just keep moving forward.",
+      "danish": "Bare bliv ved med at gå frem.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729379"
+    },
+    {
+      "english": "What a fantastic experience awaits!",
+      "danish": "Sikke en fantastisk oplevelse der venter!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729382"
+    },
+    {
+      "english": "You'll master this, I'm sure.",
+      "danish": "Du mestrer det her, det er jeg sikker på.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729387"
+    },
+    {
+      "english": "Take a moment, it's all good.",
+      "danish": "Tag et øjeblik, det er helt fint.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729390"
+    },
+    {
+      "english": "Let go of the small stuff.",
+      "danish": "Slip de små ting.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729392"
+    },
+    {
+      "english": "You're handling this beautifully.",
+      "danish": "Du håndterer det smukt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729395"
+    },
+    {
+      "english": "Adventure is calling, answer it.",
+      "danish": "Eventyret kalder, svar på det.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729398"
+    },
+    {
+      "english": "Keep that smile going.",
+      "danish": "Behold det smil.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729400"
+    },
+    {
+      "english": "You're adapting like a pro.",
+      "danish": "Du tilpasser dig som en professionel.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729403"
+    },
+    {
+      "english": "This will be a great story.",
+      "danish": "Dette bliver en god historie.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729405"
+    },
+    {
+      "english": "Don't stress, just explore.",
+      "danish": "Lad være med at stresse, bare udforsk.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729408"
+    },
+    {
+      "english": "You're doing amazing!",
+      "danish": "Du klarer det fantastisk!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729411"
+    },
+    {
+      "english": "This is going to be epic.",
+      "danish": "Det her bliver episk.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729413"
+    },
+    {
+      "english": "Stay curious, it's the best mindset.",
+      "danish": "Vær nysgerrig, det er den bedste indstilling.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729416"
+    },
+    {
+      "english": "You're handling challenges well.",
+      "danish": "Du håndterer udfordringer godt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729419"
+    },
+    {
+      "english": "This is an opportunity, not a problem.",
+      "danish": "Dette er en mulighed, ikke et problem.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729422"
+    },
+    {
+      "english": "Breathe it all in.",
+      "danish": "Træk det hele ind.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729424"
+    },
+    {
+      "english": "I'm just browsing, for now.",
+      "danish": "Jeg kigger, bare lige.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729427"
+    },
+    {
+      "english": "This flight is, delayed.",
+      "danish": "Denne flyvning er, forsinket.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729430"
+    },
+    {
+      "english": "Do we board, from here?",
+      "danish": "Boarder vi, herfra?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729433"
+    },
+    {
+      "english": "Is the gate, number clear?",
+      "danish": "Er gate-nummeret, tydeligt?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729435"
+    },
+    {
+      "english": "My connection, is tight.",
+      "danish": "Min forbindelse, er trang.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729438"
+    },
+    {
+      "english": "Can I get, a window seat?",
+      "danish": "Kan jeg få, et vindues-sæde?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729440"
+    },
+    {
+      "english": "Are we on time, roughly?",
+      "danish": "Er vi cirka, til tiden?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729443"
+    },
+    {
+      "english": "What's the baggage, allowance?",
+      "danish": "Hvad er bagage-kvoten?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729448"
+    },
+    {
+      "english": "I need to re-check, my bag.",
+      "danish": "Jeg skal tjekke, min taske igen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729451"
+    },
+    {
+      "english": "Where's the lost, and found?",
+      "danish": "Hvor er hittegods-kontoret?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729453"
+    },
+    {
+      "english": "This is quite, the queue.",
+      "danish": "Det er godt nok, en kø.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729456"
+    },
+    {
+      "english": "I've got plenty, of time.",
+      "danish": "Jeg har masser, af tid.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729459"
+    },
+    {
+      "english": "Don't forget, your passport.",
+      "danish": "Glem ikke, dit pas.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729465"
+    },
+    {
+      "english": "Is duty-free, open yet?",
+      "danish": "Er tax-free, åbent endnu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729468"
+    },
+    {
+      "english": "That looked, like my luggage.",
+      "danish": "Det lignede, min bagage.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729470"
+    },
+    {
+      "english": "I'm travelling, light this time.",
+      "danish": "Jeg rejser, let denne gang.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729473"
+    },
+    {
+      "english": "Which way to, departures?",
+      "danish": "Hvilken vej til, afgang?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729476"
+    },
+    {
+      "english": "I could really, use a coffee.",
+      "danish": "Jeg kunne godt, bruge en kaffe.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729478"
+    },
+    {
+      "english": "Are we on, the tarmac?",
+      "danish": "Er vi på, asfalten?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729481"
+    },
+    {
+      "english": "My gate, has changed.",
+      "danish": "Mit gate, er ændret.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729483"
+    },
+    {
+      "english": "Just need to, grab and go.",
+      "danish": "Bare lige, snup noget.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729486"
+    },
+    {
+      "english": "Is there a, quiet corner?",
+      "danish": "Er der et, stille hjørne?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729488"
+    },
+    {
+      "english": "This gate is, far away.",
+      "danish": "Dette gate, er langt væk.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729491"
+    },
+    {
+      "english": "I'm meeting, someone here.",
+      "danish": "Jeg møder, nogen her.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729494"
+    },
+    {
+      "english": "Have a good, flight!",
+      "danish": "God flyvning!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729496"
+    },
+    {
+      "english": "Almost there, then holiday.",
+      "danish": "Næsten der, så ferie.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729498"
+    },
+    {
+      "english": "Can I have the Wi-Fi password?",
+      "danish": "Må jeg få Wi-Fi koden?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729501"
+    },
+    {
+      "english": "I need to find my hotel.",
+      "danish": "Jeg skal finde mit hotel.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729503"
+    },
+    {
+      "english": "Could you recommend a good restaurant?",
+      "danish": "Kan du anbefale en god restaurant?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729506"
+    },
+    {
+      "english": "I'm looking for, a souvenir shop.",
+      "danish": "Jeg leder efter, en souvenirbutik.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729509"
+    },
+    {
+      "english": "Where can I exchange money?",
+      "danish": "Hvor kan jeg veksle penge?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729511"
+    },
+    {
+      "english": "Is there a map, of the area?",
+      "danish": "Er der et kort, over området?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729514"
+    },
+    {
+      "english": "I've lost my boarding pass.",
+      "danish": "Jeg har mistet mit boarding pass.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729517"
+    },
+    {
+      "english": "My luggage is, damaged.",
+      "danish": "Min bagage er, beskadiget.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729519"
+    },
+    {
+      "english": "I need help, please.",
+      "danish": "Jeg har brug for hjælp, tak.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729522"
+    },
+    {
+      "english": "Is this the right bus stop?",
+      "danish": "Er det her, den rigtige busstoppested?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729524"
+    },
+    {
+      "english": "I don't understand, that word.",
+      "danish": "Jeg forstår ikke, det ord.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729527"
+    },
+    {
+      "english": "Can I take a photo, please?",
+      "danish": "Må jeg tage et billede, venligst?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729535"
+    },
+    {
+      "english": "I'm looking for, a charging station.",
+      "danish": "Jeg leder efter, en ladestation.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729538"
+    },
+    {
+      "english": "This is my first time, here.",
+      "danish": "Det er første gang, jeg er her.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729541"
+    },
+    {
+      "english": "I need to make, a phone call.",
+      "danish": "Jeg skal ringe, efter nogen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729543"
+    },
+    {
+      "english": "How much is, this ticket?",
+      "danish": "Hvor meget koster, denne billet?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729546"
+    },
+    {
+      "english": "I'm feeling a bit, jet-lagged.",
+      "danish": "Jeg er lidt, jetlag-ramt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729549"
+    },
+    {
+      "english": "Can I get, a refill?",
+      "danish": "Må jeg få, en genopfyldning?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:51:22.729552"
     }
   ],
-  "last_updated": "2026-11-01T10:18:59.019171"
+  "last_updated": "2026-11-02T10:51:22.729555"
 }
