@@ -11519,7 +11519,727 @@
       "danish": "Må jeg få, en genopfyldning?",
       "category": "Travel & Airport",
       "generated_at": "2026-11-02T10:51:22.729552"
+    },
+    {
+      "english": "Breathe in, let it go, right now.",
+      "danish": "Træk vejret ind, slip det, lige nu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174765"
+    },
+    {
+      "english": "It’s fine, I’ll handle it calmly.",
+      "danish": "Det er okay, jeg klarer det roligt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174780"
+    },
+    {
+      "english": "Hold on, I need a second.",
+      "danish": "Vent lige, jeg har brug for et øjeblik.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174782"
+    },
+    {
+      "english": "No worries, we’ll figure it out.",
+      "danish": "Ingen panik, vi finder ud af det.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174786"
+    },
+    {
+      "english": "Okay, pause, then speak gently.",
+      "danish": "Okay, stop lige, og tal blidt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174788"
+    },
+    {
+      "english": "I’m here, take your time, please.",
+      "danish": "Jeg er her, tag din tid, tak.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174790"
+    },
+    {
+      "english": "I hear you, let’s slow down.",
+      "danish": "Jeg forstår dig, lad os sænke farten.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174794"
+    },
+    {
+      "english": "Calm down, you’re doing great.",
+      "danish": "Rolig nu, du gør det rigtig godt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174799"
+    },
+    {
+      "english": "I can wait, take it easy.",
+      "danish": "Jeg kan godt vente, tag den med ro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174802"
+    },
+    {
+      "english": "This is annoying, but I stay focused.",
+      "danish": "Det er irriterende, men jeg holder fokus.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174804"
+    },
+    {
+      "english": "Let me think, don’t rush me.",
+      "danish": "Lad mig tænke, skynd dig ikke.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174806"
+    },
+    {
+      "english": "It’s okay, we can try again.",
+      "danish": "Det er okay, vi kan prøve igen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174808"
+    },
+    {
+      "english": "Stay with me, everything will settle.",
+      "danish": "Bliv her, det falder på plads snart.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174809"
+    },
+    {
+      "english": "I’m not mad, I’m just stressed.",
+      "danish": "Jeg er ikke sur, jeg er bare stresset.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174812"
+    },
+    {
+      "english": "Say it again, slowly, please.",
+      "danish": "Sig det igen, langsomt, tak.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174813"
+    },
+    {
+      "english": "I’ll respond later, I need quiet.",
+      "danish": "Jeg svarer senere, jeg skal lige være i fred.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174815"
+    },
+    {
+      "english": "Thanks, I appreciate your patience.",
+      "danish": "Tak, jeg værdsætter din tålmodighed.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174817"
+    },
+    {
+      "english": "Right now, I choose calm over chaos.",
+      "danish": "Lige nu vælger jeg ro frem for kaos.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174819"
+    },
+    {
+      "english": "I’m good, just a little overwhelmed.",
+      "danish": "Jeg har det fint, jeg er bare overvældet.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174828"
+    },
+    {
+      "english": "That’s fair, I’ll take it in.",
+      "danish": "Det giver mening, jeg tager den til mig.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174831"
+    },
+    {
+      "english": "Let’s breathe, then we decide together.",
+      "danish": "Lad os trække vejret, så beslutter vi det.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174833"
+    },
+    {
+      "english": "Noted, I’ll do my best, today.",
+      "danish": "Noteret, jeg gør mit bedste i dag.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174835"
+    },
+    {
+      "english": "I’m listening, go on, I got you.",
+      "danish": "Jeg lytter, fortsæt, jeg er med.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174837"
+    },
+    {
+      "english": "Try again, different approach, same calm.",
+      "danish": "Prøv igen, en anden tilgang, og behold roen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174839"
+    },
+    {
+      "english": "I’m letting go, slowly, step by step.",
+      "danish": "Jeg slipper det, langsomt, skridt for skridt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174841"
+    },
+    {
+      "english": "Okay, I’ll take a quick break.",
+      "danish": "Okay, jeg tager lige en hurtig pause.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174843"
+    },
+    {
+      "english": "That’s enough, I’m done for now.",
+      "danish": "Det er nok, jeg er færdig lige nu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174845"
+    },
+    {
+      "english": "I trust you, we’ll work it out.",
+      "danish": "Jeg stoler på dig, vi finder en løsning.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174847"
+    },
+    {
+      "english": "When I’m tense, I soften my voice.",
+      "danish": "Når jeg er spændt, bløder jeg min stemme.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174849"
+    },
+    {
+      "english": "All good, I’m back, let’s continue.",
+      "danish": "Alt godt, jeg er tilbage, vi fortsætter.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174852"
+    },
+    {
+      "english": "Can you tell me what helps you most?",
+      "danish": "Kan du fortælle mig, hvad der hjælper dig mest?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174854"
+    },
+    {
+      "english": "Where do you feel calm, in your body?",
+      "danish": "Hvor mærker du ro, i kroppen?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174856"
+    },
+    {
+      "english": "What’s your go-to question when you’re stuck?",
+      "danish": "Hvad er dit go-to spørgsmål, når du er kørt fast?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174858"
+    },
+    {
+      "english": "May I ask, how do you handle stress?",
+      "danish": "Må jeg spørge, hvordan du håndterer stress?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174860"
+    },
+    {
+      "english": "Do you want advice, or just a listening ear?",
+      "danish": "Vil du have råd, eller bare en der lytter?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174862"
+    },
+    {
+      "english": "Should we slow down, and talk it through?",
+      "danish": "Skal vi skrue ned, og snakke det igennem?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174865"
+    },
+    {
+      "english": "How did you notice, that you were tense?",
+      "danish": "Hvordan lagde du mærke til, at du var anspændt?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174867"
+    },
+    {
+      "english": "What would “calm” look like, for you today?",
+      "danish": "Hvordan ville ro se ud, for dig i dag?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174871"
+    },
+    {
+      "english": "Do you prefer quiet breaks, or gentle movement?",
+      "danish": "Foretrækker du stille pauser, eller rolig bevægelse?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174875"
+    },
+    {
+      "english": "Can we plan one small step for peace?",
+      "danish": "Kan vi planlægge ét lille skridt mod ro?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174877"
+    },
+    {
+      "english": "When you speak up, what do you say first?",
+      "danish": "Når du siger til, hvad siger du først?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174878"
+    },
+    {
+      "english": "Do you want to vent, or solve it together?",
+      "danish": "Vil du lufte det, eller løse det sammen?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174880"
+    },
+    {
+      "english": "What’s the kindest thing you can ask yourself?",
+      "danish": "Hvad er det venligste, du kan spørge dig selv om?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174883"
+    },
+    {
+      "english": "Can I check something, are you okay right now?",
+      "danish": "Kan jeg tjekke noget, er du okay lige nu?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174884"
+    },
+    {
+      "english": "How do you reset, after a tough conversation?",
+      "danish": "Hvordan nulstiller du dig, efter en svær snak?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174886"
+    },
+    {
+      "english": "What helps you come back to the moment?",
+      "danish": "Hvad får dig tilbage til nuet?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174888"
+    },
+    {
+      "english": "Would it help, if we make a short plan?",
+      "danish": "Ville det hjælpe, hvis vi laver en kort plan?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174890"
+    },
+    {
+      "english": "Can I share what works for me, briefly?",
+      "danish": "Må jeg dele, hvad der virker for mig, kort?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174892"
+    },
+    {
+      "english": "What’s one fear you can face gently today?",
+      "danish": "Hvilken frygt kan du møde blidt i dag?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174894"
+    },
+    {
+      "english": "Do you want to talk about boundaries, calmly?",
+      "danish": "Vil du snakke om grænser, roligt?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174896"
+    },
+    {
+      "english": "How do you notice overthinking starting?",
+      "danish": "Hvordan mærker du, at du overtænker?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174898"
+    },
+    {
+      "english": "Can we ask, what this moment needs?",
+      "danish": "Kan vi spørge, hvad dette øjeblik behøver?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174900"
+    },
+    {
+      "english": "What do you do, when your thoughts race?",
+      "danish": "Hvad gør du, når tankerne løber af sted?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174902"
+    },
+    {
+      "english": "Would you like a question to guide you?",
+      "danish": "Vil du have et spørgsmål, der guider dig?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174903"
+    },
+    {
+      "english": "Should we check in, before we decide?",
+      "danish": "Skal vi lige tjekke ind, før vi beslutter?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174905"
+    },
+    {
+      "english": "What’s your next calm step, after this?",
+      "danish": "Hvad er dit næste rolige skridt, bagefter?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174907"
+    },
+    {
+      "english": "Can you help me put it into words?",
+      "danish": "Kan du hjælpe mig med at sætte det i ord?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174910"
+    },
+    {
+      "english": "How can we talk, without raising the volume?",
+      "danish": "Hvordan kan vi tale, uden at skrue op?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174912"
+    },
+    {
+      "english": "Do you want a quick technique, or a chat?",
+      "danish": "Vil du have en hurtig teknik, eller bare en snak?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174914"
+    },
+    {
+      "english": "What’s the lesson, you’re ready to learn now?",
+      "danish": "Hvilken lektie er du klar til at lære nu?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174916"
+    },
+    {
+      "english": "Det er okay, du skal nok finde ro.",
+      "danish": "Det er okay, du skal nok finde ro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174918"
+    },
+    {
+      "english": "Tag den med ro, ingen grund til at stresse.",
+      "danish": "Tag den med ro, ingen grund til at stresse.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174920"
+    },
+    {
+      "english": "Smil, det hjælper mere end du tror.",
+      "danish": "Smil, det hjælper mere end du tror.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174922"
+    },
+    {
+      "english": "Rolig nu, du kan godt klare det.",
+      "danish": "Rolig nu, du kan godt klare det.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174924"
+    },
+    {
+      "english": "Slip kontrollen, roen kommer af sig selv.",
+      "danish": "Slip kontrollen, roen kommer af sig selv.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174926"
+    },
+    {
+      "english": "Det går, selv om det føles tungt.",
+      "danish": "Det går, selv om det føles tungt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174928"
+    },
+    {
+      "english": "Lad det ligge, i dag er nok i morgen.",
+      "danish": "Lad det ligge, i dag er nok i morgen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174930"
+    },
+    {
+      "english": "Du behøver ikke have styr på alt.",
+      "danish": "Du behøver ikke have styr på alt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174933"
+    },
+    {
+      "english": "Gå en tur, så falder tankerne på plads.",
+      "danish": "Gå en tur, så falder tankerne på plads.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174935"
+    },
+    {
+      "english": "Hold hovedet koldt, selv når det brænder.",
+      "danish": "Hold hovedet koldt, selv når det brænder.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174939"
+    },
+    {
+      "english": "Tag én dag ad gangen, bare rolig.",
+      "danish": "Tag én dag ad gangen, bare rolig.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174942"
+    },
+    {
+      "english": "Ro på, ellers bliver det bare værre.",
+      "danish": "Ro på, ellers bliver det bare værre.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174944"
+    },
+    {
+      "english": "Giv dig selv tid, det ordner sig nok.",
+      "danish": "Giv dig selv tid, det ordner sig nok.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174946"
+    },
+    {
+      "english": "Man kan ikke kontrollere alt, kun sig selv.",
+      "danish": "Man kan ikke kontrollere alt, kun sig selv.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174948"
+    },
+    {
+      "english": "Hjertet skal have plads, ikke pres.",
+      "danish": "Hjertet skal have plads, ikke pres.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174949"
+    },
+    {
+      "english": "Vær din egen ven, tal pænt til dig.",
+      "danish": "Vær din egen ven, tal pænt til dig.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174952"
+    },
+    {
+      "english": "Lyt til kroppen, den ved ofte.",
+      "danish": "Lyt til kroppen, den ved ofte.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174954"
+    },
+    {
+      "english": "Det kommer og går, som vinden gør.",
+      "danish": "Det kommer og går, som vinden gør.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174956"
+    },
+    {
+      "english": "Ingen panik, vi tager det stille og roligt.",
+      "danish": "Ingen panik, vi tager det stille og roligt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174958"
+    },
+    {
+      "english": "Du må gerne sænke tempoet lidt.",
+      "danish": "Du må gerne sænke tempoet lidt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174961"
+    },
+    {
+      "english": "Når det koger, så tag en pause.",
+      "danish": "Når det koger, så tag en pause.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174964"
+    },
+    {
+      "english": "Pust ud, så finder du din rytme.",
+      "danish": "Pust ud, så finder du din rytme.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174966"
+    },
+    {
+      "english": "Det er ikke nu, det er senere.",
+      "danish": "Det er ikke nu, det er senere.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174968"
+    },
+    {
+      "english": "Bare roligt, du kan vende tilbage.",
+      "danish": "Bare roligt, du kan vende tilbage.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174970"
+    },
+    {
+      "english": "Hold fast i det gode, slip resten.",
+      "danish": "Hold fast i det gode, slip resten.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174972"
+    },
+    {
+      "english": "Vi tager én ting ad gangen, helt roligt.",
+      "danish": "Vi tager én ting ad gangen, helt roligt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174974"
+    },
+    {
+      "english": "Læg låg på tankerne, bare for en stund.",
+      "danish": "Læg låg på tankerne, bare for en stund.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174977"
+    },
+    {
+      "english": "Det løser sig, hvis du giver slip.",
+      "danish": "Det løser sig, hvis du giver slip.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174979"
+    },
+    {
+      "english": "Du er ikke bagud, du er midt i det.",
+      "danish": "Du er ikke bagud, du er midt i det.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174981"
+    },
+    {
+      "english": "Bare vær, så falder alt mere på plads.",
+      "danish": "Bare vær, så falder alt mere på plads.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174984"
+    },
+    {
+      "english": "I’m allowed to feel this, and breathe anyway.",
+      "danish": "Jeg må gerne føle det her, og trække vejret.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174986"
+    },
+    {
+      "english": "Today I’m honest with my feelings, softly.",
+      "danish": "I dag er jeg ærlig over for mine følelser, blidt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174988"
+    },
+    {
+      "english": "I slow down, so my mind can follow.",
+      "danish": "Jeg sænker farten, så min hjerne kan følge med.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174990"
+    },
+    {
+      "english": "I don’t chase calm, I let it come.",
+      "danish": "Jeg jager ikke roen, jeg lader den komme.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174992"
+    },
+    {
+      "english": "Even if it’s messy, I’m still safe.",
+      "danish": "Selv når det er rodet, er jeg stadig tryg.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174995"
+    },
+    {
+      "english": "I trust my pace, even on hard days.",
+      "danish": "Jeg stoler på mit tempo, også på svære dage.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174997"
+    },
+    {
+      "english": "My feelings can talk, without driving me.",
+      "danish": "Mine følelser må gerne sige noget, uden at styre mig.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.174999"
+    },
+    {
+      "english": "I choose gentleness, even when I’m tired.",
+      "danish": "Jeg vælger blidhed, selv når jeg er træt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175002"
+    },
+    {
+      "english": "I can be sad, and still move forward.",
+      "danish": "Jeg kan godt være ked af det, og alligevel gå videre.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175003"
+    },
+    {
+      "english": "What I can control, I handle, calmly.",
+      "danish": "Det jeg kan kontrollere, tager jeg roligt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175005"
+    },
+    {
+      "english": "I don’t need answers right now, just patience.",
+      "danish": "Jeg behøver ikke svar lige nu, bare tålmodighed.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175007"
+    },
+    {
+      "english": "I let the moment be, exactly as it is.",
+      "danish": "Jeg lader øjeblikket være, som det er.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175009"
+    },
+    {
+      "english": "My heart speaks first, and I listen.",
+      "danish": "Mit hjerte siger noget først, og jeg lytter.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175013"
+    },
+    {
+      "english": "I recover slower, but I recover for real.",
+      "danish": "Jeg kommer mig langsommere, men jeg kommer mig.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175014"
+    },
+    {
+      "english": "I stop arguing with my own thoughts.",
+      "danish": "Jeg holder op med at skændes med mine tanker.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175016"
+    },
+    {
+      "english": "Let it hurt, then let it pass.",
+      "danish": "Lad det gøre ondt, og lad det gå videre.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175020"
+    },
+    {
+      "english": "I’m learning to be kind, inside too.",
+      "danish": "Jeg øver mig i at være rar, også inden i mig.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175022"
+    },
+    {
+      "english": "I check in gently, before I react.",
+      "danish": "Jeg tjekker ind blidt, før jeg reagerer.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175024"
+    },
+    {
+      "english": "I don’t rush healing, I show up.",
+      "danish": "Jeg skynder ikke heling, jeg dukker op.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175026"
+    },
+    {
+      "english": "I can admit I’m not okay, and breathe.",
+      "danish": "Jeg må godt sige, at jeg ikke er okay, og trække vejret.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175028"
+    },
+    {
+      "english": "My mind wanders, but I return to me.",
+      "danish": "Min hjerne flyver af sted, men jeg vender tilbage.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175030"
+    },
+    {
+      "english": "I choose honesty over pretending to be fine.",
+      "danish": "Jeg vælger ærlighed frem for at spille, at jeg har det fint.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175031"
+    },
+    {
+      "english": "I forgive myself, then I keep it moving.",
+      "danish": "Jeg tilgiver mig selv, og så fortsætter jeg.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175033"
+    },
+    {
+      "english": "Even my silence can be peaceful today.",
+      "danish": "Selv min stilhed kan være fredfyldt i dag.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175035"
+    },
+    {
+      "english": "I’m not behind, I’m just processing life.",
+      "danish": "Jeg er ikke bagefter, jeg bearbejder bare livet.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175037"
+    },
+    {
+      "english": "When I feel tension, I soften my grip.",
+      "danish": "Når jeg mærker spænding, løsner jeg grebet.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175041"
+    },
+    {
+      "english": "I don’t need to win, I need to rest.",
+      "danish": "Jeg behøver ikke at vinde, jeg behøver at hvile.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175043"
+    },
+    {
+      "english": "I let fear speak, then I choose calm.",
+      "danish": "Jeg lader frygten tale, og så vælger jeg ro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175044"
+    },
+    {
+      "english": "I’m proud of me, for pausing right now.",
+      "danish": "Jeg er stolt af mig, fordi jeg pauser nu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175047"
+    },
+    {
+      "english": "My peace grows when I tell the truth.",
+      "danish": "Min ro vokser, når jeg siger sandheden.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-03T10:42:38.175048"
     }
   ],
-  "last_updated": "2026-11-02T10:51:22.729555"
+  "last_updated": "2026-11-03T10:42:38.175050"
 }
