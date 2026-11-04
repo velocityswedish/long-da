@@ -12239,7 +12239,727 @@
       "danish": "Min ro vokser, når jeg siger sandheden.",
       "category": "Inner Peace",
       "generated_at": "2026-11-03T10:42:38.175048"
+    },
+    {
+      "english": "Alright, I get it, go on",
+      "danish": "Okay, jeg forstår, fortsæt",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504777"
+    },
+    {
+      "english": "Calm down, it’s not a big deal",
+      "danish": "Rolig nu, det er ikke så slemt",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504791"
+    },
+    {
+      "english": "Wait, what did you mean exactly?",
+      "danish": "Vent, hvad mente du helt præcist?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504795"
+    },
+    {
+      "english": "Hold on, let me think for a sec",
+      "danish": "Vent lige, jeg skal lige tænke",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504798"
+    },
+    {
+      "english": "Good point, you’re right, that’s true",
+      "danish": "God pointe, du har ret, det passer",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504802"
+    },
+    {
+      "english": "Be quick, we’re running late",
+      "danish": "Skynd dig, vi er ved at komme for sent",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504806"
+    },
+    {
+      "english": "That’s fair, I understand your side",
+      "danish": "Det er fair, jeg forstår din pointe",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504809"
+    },
+    {
+      "english": "Tell me, what happened, step by step?",
+      "danish": "Fortæl mig, hvad skete der, trin for trin?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504815"
+    },
+    {
+      "english": "Start here, don’t overthink it",
+      "danish": "Start her, overvej ikke så meget",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504819"
+    },
+    {
+      "english": "I’m not sure, but I’ll try",
+      "danish": "Jeg er ikke sikker, men jeg prøver",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504823"
+    },
+    {
+      "english": "That sounds right, let’s do it",
+      "danish": "Det lyder rigtigt, lad os gøre det",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504826"
+    },
+    {
+      "english": "Actually, you’re mistaken, listen to me",
+      "danish": "Faktisk, du tager fejl, hør lige her",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504830"
+    },
+    {
+      "english": "One more time, slowly, please",
+      "danish": "En gang til, langsomt, tak",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504833"
+    },
+    {
+      "english": "That’s enough, stop for a moment",
+      "danish": "Det er nok, stop lige lidt",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504836"
+    },
+    {
+      "english": "Really? Okay, I didn’t know that",
+      "danish": "Virkelig? Okay, det vidste jeg ikke",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504839"
+    },
+    {
+      "english": "You’re late again, try to be on time",
+      "danish": "Du er sen igen, prøv at komme til tiden",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504842"
+    },
+    {
+      "english": "Nice one, that was smart and quick",
+      "danish": "Godt klaret, det var smart og hurtigt",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504845"
+    },
+    {
+      "english": "Let’s keep it simple, no complications",
+      "danish": "Lad os gøre det simpelt, ingen komplikationer",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504849"
+    },
+    {
+      "english": "I’ll handle it, you just relax",
+      "danish": "Jeg tager den, du slapper bare af",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504852"
+    },
+    {
+      "english": "That reminds me, remember what we said?",
+      "danish": "Det minder mig om det, husker du det?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504855"
+    },
+    {
+      "english": "Be honest, did you forget it?",
+      "danish": "Vær ærlig, glemte du det?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504857"
+    },
+    {
+      "english": "Not like that, do it the right way",
+      "danish": "Ikke sådan, gør det på den rigtige måde",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504860"
+    },
+    {
+      "english": "Thanks, that really helped, I appreciate it",
+      "danish": "Tak, det hjalp virkelig, jeg værdsætter det",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504863"
+    },
+    {
+      "english": "Are you sure, that feels a bit off",
+      "danish": "Er du sikker, det føles lidt forkert",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504866"
+    },
+    {
+      "english": "Let’s talk later, now I need rest",
+      "danish": "Vi snakker senere, jeg skal lige hvile nu",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504869"
+    },
+    {
+      "english": "Quick question, are we meeting today?",
+      "danish": "Hurtigt spørgsmål, mødes vi i dag?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504872"
+    },
+    {
+      "english": "No problem, I’ll wait, just a second",
+      "danish": "Ingen problemer, jeg venter bare lige",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504875"
+    },
+    {
+      "english": "Good luck, you’ll manage, trust yourself",
+      "danish": "Held og lykke, det skal nok gå",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504878"
+    },
+    {
+      "english": "Can you tell me, what’s the best way?",
+      "danish": "Kan du sige mig, hvad der er bedst?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504882"
+    },
+    {
+      "english": "Where do you start, when learning Danish?",
+      "danish": "Hvor starter du, når du lærer dansk?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504885"
+    },
+    {
+      "english": "What do you recommend, for everyday conversation?",
+      "danish": "Hvad anbefaler du, til hverdagssnak?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504888"
+    },
+    {
+      "english": "If I’m unsure, how should I ask politely?",
+      "danish": "Hvis jeg er i tvivl, hvordan spørger jeg pænt?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504891"
+    },
+    {
+      "english": "Should I use 'du' or 'De' here?",
+      "danish": "Skal jeg bruge 'du' eller 'De' her?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504897"
+    },
+    {
+      "english": "What’s the quickest question, I can practice?",
+      "danish": "Hvad er den hurtigste sætning at øve?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504901"
+    },
+    {
+      "english": "May I ask, what that word really means?",
+      "danish": "Må jeg spørge, hvad ordet betyder?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504904"
+    },
+    {
+      "english": "Do you have a tip, for tricky grammar?",
+      "danish": "Har du et tip, til svær grammatik?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504907"
+    },
+    {
+      "english": "When should I use 'ikke', exactly?",
+      "danish": "Hvornår skal jeg bruge 'ikke', præcis?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504910"
+    },
+    {
+      "english": "Can we role-play, a real Danish chat?",
+      "danish": "Kan vi øve en samtale, som i virkeligheden?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504915"
+    },
+    {
+      "english": "What sounds natural, when you’re unsure?",
+      "danish": "Hvad lyder naturligt, når du er i tvivl?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504919"
+    },
+    {
+      "english": "How do Danes ask for help, casually?",
+      "danish": "Hvordan spørger man om hjælp, afslappet?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504921"
+    },
+    {
+      "english": "Could you explain it, in simpler Danish?",
+      "danish": "Kan du forklare det, på mere enkelt dansk?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504924"
+    },
+    {
+      "english": "What do you do, if someone speaks fast?",
+      "danish": "Hvad gør du, hvis nogen taler hurtigt?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504940"
+    },
+    {
+      "english": "Should I repeat after you, or pause?",
+      "danish": "Skal jeg gentage efter dig, eller holde pause?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504943"
+    },
+    {
+      "english": "Which question opens doors, in daily life?",
+      "danish": "Hvilket spørgsmål åbner døre, i hverdagen?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504946"
+    },
+    {
+      "english": "What’s your go-to phrase, for small talk?",
+      "danish": "Hvad er din yndlingssætning, til small talk?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504953"
+    },
+    {
+      "english": "If it’s okay, could we talk tomorrow?",
+      "danish": "Hvis det er okay, kan vi snakke i morgen?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504956"
+    },
+    {
+      "english": "How do you turn a question into advice?",
+      "danish": "Hvordan gør du et spørgsmål til råd?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504959"
+    },
+    {
+      "english": "Can you check this sentence, for me?",
+      "danish": "Kan du rette denne sætning, for mig?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504962"
+    },
+    {
+      "english": "What’s the best answer, to 'Hvorfor?'",
+      "danish": "Hvad er det bedste svar, på 'Hvorfor?'",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504966"
+    },
+    {
+      "english": "How often should I practice, to improve?",
+      "danish": "Hvor tit bør jeg øve, for at blive bedre?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504969"
+    },
+    {
+      "english": "Do you prefer examples, or direct rules?",
+      "danish": "Foretrækker du eksempler, eller direkte regler?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504974"
+    },
+    {
+      "english": "What do you notice first, when hearing Danish?",
+      "danish": "Hvad lægger du mærke til først, når du lytter?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504977"
+    },
+    {
+      "english": "Can I get your honest opinion, please?",
+      "danish": "Må jeg få din ærlige mening, tak?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504979"
+    },
+    {
+      "english": "How do we keep the conversation going?",
+      "danish": "Hvordan holder vi samtalen i gang?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504982"
+    },
+    {
+      "english": "What’s a polite way to disagree politely?",
+      "danish": "Hvad er en pæn måde at være uenig på?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504985"
+    },
+    {
+      "english": "If I mess up, what should I say?",
+      "danish": "Hvis jeg laver en fejl, hvad siger jeg så?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504988"
+    },
+    {
+      "english": "Small steps today, big changes tomorrow, keep going.",
+      "danish": "Små skridt i dag, store ændringer i morgen, bliv ved.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504991"
+    },
+    {
+      "english": "You’ve got this, breathe, and start anyway.",
+      "danish": "Du kan godt, træk vejret, og start alligevel.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504995"
+    },
+    {
+      "english": "When you stumble, smile, learn, then continue.",
+      "danish": "Når du falder, så smil, lær, og fortsæt.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.504998"
+    },
+    {
+      "english": "Confidence grows from practice, not from perfection.",
+      "danish": "Selvtillid vokser af træning, ikke af perfektion.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505001"
+    },
+    {
+      "english": "Say it once, then try again, gently.",
+      "danish": "Sig det én gang, og prøv igen, stille.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505004"
+    },
+    {
+      "english": "Praise effort, because effort changes everything, fast.",
+      "danish": "Ros indsatsen, for indsatsen ændrer alt, hurtigt.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505008"
+    },
+    {
+      "english": "Keep your mind open, Danish will follow.",
+      "danish": "Hold hovedet åbent, så følger dansk med.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505011"
+    },
+    {
+      "english": "Trust the process, even when it feels messy.",
+      "danish": "Tro på processen, også når det føles rodet.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505013"
+    },
+    {
+      "english": "You’re not behind, you’re just on your route.",
+      "danish": "Du er ikke bagud, du er bare på vej.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505017"
+    },
+    {
+      "english": "Ask, listen, repeat, that’s real learning.",
+      "danish": "Spørg, lyt, gentag, det er rigtig læring.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505023"
+    },
+    {
+      "english": "Start small, and let momentum do the rest.",
+      "danish": "Start småt, og lad tempoet klare resten.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505026"
+    },
+    {
+      "english": "Every correction is a gift, take it.",
+      "danish": "Hver rettelse er en gave, tag imod.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505029"
+    },
+    {
+      "english": "Don’t rush words, Danes like clarity and calm.",
+      "danish": "Hast ikke ordene, danskere kan lide ro.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505032"
+    },
+    {
+      "english": "Make one new sentence, then celebrate it.",
+      "danish": "Lav én ny sætning, og fejre den.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505035"
+    },
+    {
+      "english": "If it sounds wrong, adjust, don’t quit.",
+      "danish": "Lyder det forkert, så justér, ikke stop.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505039"
+    },
+    {
+      "english": "Your effort today becomes your fluency later.",
+      "danish": "Din indsats i dag bliver flydende senere.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505041"
+    },
+    {
+      "english": "Be kind to yourself, you’re learning out loud.",
+      "danish": "Vær blid ved dig selv, du øver højt.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505045"
+    },
+    {
+      "english": "Turn nerves into energy, then speak anyway.",
+      "danish": "Vend nervøsitet til energi, og tal alligevel.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505048"
+    },
+    {
+      "english": "You learn faster when you enjoy the try.",
+      "danish": "Du lærer hurtigere, når du nyder forsøget.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505051"
+    },
+    {
+      "english": "Keep a steady rhythm, one minute beats none.",
+      "danish": "Hold en rolig rytme, ét minut slår nul.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505054"
+    },
+    {
+      "english": "Celebrate small wins, they build real confidence.",
+      "danish": "Fejr små sejre, de bygger ægte selvtillid.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505057"
+    },
+    {
+      "english": "Your questions are progress, don’t hide them.",
+      "danish": "Dine spørgsmål er fremskridt, gem dem ikke.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505060"
+    },
+    {
+      "english": "Speak with simple words, then grow them.",
+      "danish": "Tal med simple ord, og byg dem op.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505063"
+    },
+    {
+      "english": "When you forget, pause, and start the sentence again.",
+      "danish": "Når du glemmer, så hold pause, og begynd igen.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505066"
+    },
+    {
+      "english": "Aim for clear meaning, not fancy vocabulary.",
+      "danish": "Stræb efter mening, ikke fancy ordforråd.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505069"
+    },
+    {
+      "english": "Give yourself credit, you’re putting in work.",
+      "danish": "Giv dig selv ros, du arbejder virkelig.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505073"
+    },
+    {
+      "english": "One conversation today can change your confidence tomorrow.",
+      "danish": "Én samtale i dag kan ændre din selvtillid i morgen.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505076"
+    },
+    {
+      "english": "Let mistakes pass, keep your focus on meaning.",
+      "danish": "Lad fejlene passere, behold fokus på meningen.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505079"
+    },
+    {
+      "english": "Stay curious, Danish rewards brave repetition.",
+      "danish": "Bliv nysgerrig, dansk belønner modig gentagelse.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505081"
+    },
+    {
+      "english": "You’re building a voice, not chasing perfection.",
+      "danish": "Du bygger en stemme, ikke perfektion.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505087"
+    },
+    {
+      "english": "Feel it first, then speak calmly, slowly.",
+      "danish": "Føl det først, så tal roligt, langsomt.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505090"
+    },
+    {
+      "english": "It’s okay to be honest, even today.",
+      "danish": "Det er okay at være ærlig, også i dag.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505094"
+    },
+    {
+      "english": "Pause when you need, your meaning still lands.",
+      "danish": "Hold pause, når du har brug, din mening rammer stadig.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505096"
+    },
+    {
+      "english": "Let your tone carry the feeling, not speed.",
+      "danish": "Lad din tone bære følelsen, ikke tempoet.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505099"
+    },
+    {
+      "english": "I’m learning, so patience is my superpower.",
+      "danish": "Jeg lærer, så tålmodighed er min superkraft.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505103"
+    },
+    {
+      "english": "Some days, fewer words say more truth.",
+      "danish": "Nogle dage siger færre ord mere sandhed.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505106"
+    },
+    {
+      "english": "Say what you mean, even if it’s simple.",
+      "danish": "Sig det, du mener, selvom det er enkelt.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505109"
+    },
+    {
+      "english": "Reflection helps, when you review just one moment.",
+      "danish": "Refleksion hjælper, når du gennemgår ét øjeblik.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505112"
+    },
+    {
+      "english": "Be gentle with yourself, your progress is real.",
+      "danish": "Vær blid mod dig selv, din fremgang er reel.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505115"
+    },
+    {
+      "english": "If you’re unsure, say that first, then continue.",
+      "danish": "Hvis du er i tvivl, så sig det først, og fortsæt.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505119"
+    },
+    {
+      "english": "Trust the small inner shift, it changes everything.",
+      "danish": "Tro på det lille indre skift, det ændrer alt.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505122"
+    },
+    {
+      "english": "You don’t have to be perfect, just present.",
+      "danish": "Du behøver ikke være perfekt, bare være nærværende.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505127"
+    },
+    {
+      "english": "Own your feelings, and choose kinder words.",
+      "danish": "Tag dine følelser på dig, og vælg venligere ord.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505130"
+    },
+    {
+      "english": "Listen deeper, then answer with a steady breath.",
+      "danish": "Lyt dybere, så svar med en rolig vejrtrækning.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505133"
+    },
+    {
+      "english": "When it’s hard, slow down, your brain catches up.",
+      "danish": "Når det er svært, så sænk farten, hjernen følger med.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505137"
+    },
+    {
+      "english": "I feel better, when I speak my truth.",
+      "danish": "Jeg får det bedre, når jeg siger min sandhed.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505142"
+    },
+    {
+      "english": "Don’t chase fluency, chase calm consistency.",
+      "danish": "Jagt ikke flydende, jagt rolig og jævn praksis.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505146"
+    },
+    {
+      "english": "Before you correct, ask yourself, what’s the feeling?",
+      "danish": "Før du retter, så spørg dig selv, hvad er følelsen?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505150"
+    },
+    {
+      "english": "Let silence do the thinking for you, sometimes.",
+      "danish": "Lad stilhed tænke for dig, nogle gange.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505153"
+    },
+    {
+      "english": "Your honesty makes Danish sound more human.",
+      "danish": "Din ærlighed gør dit dansk mere menneskeligt.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505155"
+    },
+    {
+      "english": "Every sentence can be a small emotional win.",
+      "danish": "Hver sætning kan være en lille følelses-sejr.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505158"
+    },
+    {
+      "english": "Give yourself time, feelings settle, then words flow.",
+      "danish": "Giv dig selv tid, følelser falder til ro, så flyder ordene.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505161"
+    },
+    {
+      "english": "When you miss, notice it, don’t punish yourself.",
+      "danish": "Når du rammer ved siden af, så mærk det, ikke straffe dig.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505167"
+    },
+    {
+      "english": "A sincere question can open a better conversation.",
+      "danish": "Et oprigtigt spørgsmål kan åbne en bedre samtale.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505170"
+    },
+    {
+      "english": "Keep a soft heart, even when grammar gets messy.",
+      "danish": "Bevar et blødt hjerte, selv når grammatikken driller.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505172"
+    },
+    {
+      "english": "Name the moment, it makes your Danish clearer.",
+      "danish": "Sæt ord på øjeblikket, så bliver dit dansk klarere.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505175"
+    },
+    {
+      "english": "You’re allowed to be nervous, and still speak.",
+      "danish": "Du må gerne være nervøs, og stadig tale.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505231"
+    },
+    {
+      "english": "Hold onto what works, and let the rest go.",
+      "danish": "Hold fast i det, der virker, og slip resten.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505235"
+    },
+    {
+      "english": "Be patient with your mind, it learns unevenly.",
+      "danish": "Vær tålmodig med dit sind, det lærer ujævnt.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505237"
+    },
+    {
+      "english": "Slow honesty beats rushed words every time.",
+      "danish": "Rolig ærlighed slår forhastede ord, hver gang.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505240"
+    },
+    {
+      "english": "Text me later, after your meeting, okay?",
+      "danish": "Send mig en besked senere, efter dit møde, okay?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505243"
+    },
+    {
+      "english": "Before you speak, breathe once, then go.",
+      "danish": "Inden du siger noget, træk vejret én gang, så kør.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505246"
+    },
+    {
+      "english": "If you’re lost, ask, hvad mener du?",
+      "danish": "Hvis du er i tvivl, så spørg: hvad mener du?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505250"
+    },
+    {
+      "english": "When plans change, say det er helt fint.",
+      "danish": "Når planerne ændrer sig, så sig: det er helt fint.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T10:45:24.505253"
     }
   ],
-  "last_updated": "2026-11-03T10:42:38.175050"
+  "last_updated": "2026-11-04T10:45:24.505255"
 }
