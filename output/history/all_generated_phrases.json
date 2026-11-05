@@ -12959,7 +12959,727 @@
       "danish": "Når planerne ændrer sig, så sig: det er helt fint.",
       "category": "Wisdom",
       "generated_at": "2026-11-04T10:45:24.505253"
+    },
+    {
+      "english": "Weather’s wild today, isn’t it?",
+      "danish": "Vejret er ret vildt i dag, ikke?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246463"
+    },
+    {
+      "english": "Looks like rain, bring an umbrella?",
+      "danish": "Det ligner regn, vil du tage en paraply?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246475"
+    },
+    {
+      "english": "Cold again, my hands are freezing!",
+      "danish": "Koldt igen, mine hænder fryser!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246479"
+    },
+    {
+      "english": "Is it going to clear up soon?",
+      "danish": "Bliver det mon klarere snart?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246484"
+    },
+    {
+      "english": "That wind is brutal, wow!",
+      "danish": "Den vind er brutal, hold da op!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246487"
+    },
+    {
+      "english": "Feels like spring, right now?",
+      "danish": "Det føles som forår, lige nu, ikke?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246490"
+    },
+    {
+      "english": "Sun’s out, quick walk?",
+      "danish": "Solen er fremme, skal vi tage en hurtig tur?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246493"
+    },
+    {
+      "english": "Ugh, it’s windy again, seriously?",
+      "danish": "Åh nej, det blæser igen, seriøst?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246499"
+    },
+    {
+      "english": "Do you have a coat for this?",
+      "danish": "Har du en frakke til det her?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246503"
+    },
+    {
+      "english": "It’s warmer than yesterday, nice!",
+      "danish": "Det er varmere end i går, skønt!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246507"
+    },
+    {
+      "english": "Clouds look heavy, I bet it rains.",
+      "danish": "Skyerne ser tunge ud, jeg tror det regner.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246509"
+    },
+    {
+      "english": "Are you dressed for the weather?",
+      "danish": "Er du klædt til vejret?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246512"
+    },
+    {
+      "english": "I love this kind of mild weather.",
+      "danish": "Jeg elsker sådan noget mildt vejr.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246516"
+    },
+    {
+      "english": "It’s not too hot, thankfully.",
+      "danish": "Det er ikke for varmt, heldigvis.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246520"
+    },
+    {
+      "english": "Rain stopped, should we head out?",
+      "danish": "Regnen holdt op, skal vi gå ud?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246522"
+    },
+    {
+      "english": "How bad is the storm right now?",
+      "danish": "Hvor slemt er stormen lige nu?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246525"
+    },
+    {
+      "english": "The air feels fresh, doesn’t it?",
+      "danish": "Luften føles frisk, gør den ikke?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246528"
+    },
+    {
+      "english": "It’s surprisingly sunny today, huh?",
+      "danish": "Det er overraskende solrigt i dag, hva’ så?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246532"
+    },
+    {
+      "english": "Let’s check the forecast, just in case.",
+      "danish": "Lad os lige tjekke vejrudsigten, for en sikkerheds skyld.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246535"
+    },
+    {
+      "english": "My phone says it’ll pour later.",
+      "danish": "Min telefon siger, det regner om lidt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246538"
+    },
+    {
+      "english": "When does it cool down again?",
+      "danish": "Hvornår køler det ned igen?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246541"
+    },
+    {
+      "english": "Looks cold out there, be careful!",
+      "danish": "Det ser koldt ud derude, pas på!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246543"
+    },
+    {
+      "english": "No rain for hours, we’re lucky!",
+      "danish": "Ingen regn i flere timer, vi er heldige!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246546"
+    },
+    {
+      "english": "This drizzle is so annoying, honestly.",
+      "danish": "Den her regnslæt er så irriterende, ærligt talt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246549"
+    },
+    {
+      "english": "Is the weather always this changeable?",
+      "danish": "Er vejret altid så omskifteligt?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246551"
+    },
+    {
+      "english": "I’ll wait, it’s about to clear.",
+      "danish": "Jeg venter, det er ved at klare op.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246557"
+    },
+    {
+      "english": "You can’t trust the sky here.",
+      "danish": "Man kan ikke stole på himlen her.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246560"
+    },
+    {
+      "english": "It’s perfect for a walk, seriously.",
+      "danish": "Det er perfekt til en gåtur, helt ærligt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246563"
+    },
+    {
+      "english": "Should I bring sunglasses or not?",
+      "danish": "Skal jeg tage solbriller med, eller hvad?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246565"
+    },
+    {
+      "english": "What’s the temperature right now?",
+      "danish": "Hvad er temperaturen lige nu?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246568"
+    },
+    {
+      "english": "How’s the weather treating you today?",
+      "danish": "Hvordan er vejret for dig i dag?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246572"
+    },
+    {
+      "english": "Do you think it’ll rain later?",
+      "danish": "Tror du, det regner senere?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246575"
+    },
+    {
+      "english": "Will it get warmer this afternoon?",
+      "danish": "Bliver det varmere i eftermiddag?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246578"
+    },
+    {
+      "english": "Is it breezy near the water?",
+      "danish": "Er der blæst nede ved vandet?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246582"
+    },
+    {
+      "english": "What do you recommend for today?",
+      "danish": "Hvad anbefaler du til i dag?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246585"
+    },
+    {
+      "english": "Should we bring a rain jacket?",
+      "danish": "Skal vi tage en regnjakke med?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246588"
+    },
+    {
+      "english": "Is the sky clearing up soon?",
+      "danish": "Letter himlen snart?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246590"
+    },
+    {
+      "english": "How’s it looking for the evening?",
+      "danish": "Hvordan ser aftenen ud til at blive?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246593"
+    },
+    {
+      "english": "Do you have a spare umbrella?",
+      "danish": "Har du en ekstra paraply?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246596"
+    },
+    {
+      "english": "Is it dry right now, or not?",
+      "danish": "Er det tørt lige nu, eller hvad?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246598"
+    },
+    {
+      "english": "What’s the wind like outside?",
+      "danish": "Hvordan er vinden udenfor?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246601"
+    },
+    {
+      "english": "Do you think it’ll snow at all?",
+      "danish": "Tror du, der kommer sne?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246604"
+    },
+    {
+      "english": "Are we safe to walk for now?",
+      "danish": "Er vi sikre på at gå lidt nu?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246607"
+    },
+    {
+      "english": "What’s your go-to weather app?",
+      "danish": "Hvilken vejr-app bruger du mest?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246610"
+    },
+    {
+      "english": "Do locals expect rain later?",
+      "danish": "Hører man ofte om regn senere?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246613"
+    },
+    {
+      "english": "Should I wear jeans, or shorts?",
+      "danish": "Skal jeg tage jeans, eller shorts?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246615"
+    },
+    {
+      "english": "Is it humid today, or just cool?",
+      "danish": "Er det fugtigt i dag, eller bare køligt?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246618"
+    },
+    {
+      "english": "Do you know if it clears by five?",
+      "danish": "Ved du, om det bliver klar ved fem?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246620"
+    },
+    {
+      "english": "Any chance of thunderstorms today?",
+      "danish": "Er der risiko for torden i dag?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246623"
+    },
+    {
+      "english": "Is it slippery on the sidewalks now?",
+      "danish": "Er der glat på fortovene lige nu?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246625"
+    },
+    {
+      "english": "What time should we avoid the rain?",
+      "danish": "Hvornår bør vi undgå regnen?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246627"
+    },
+    {
+      "english": "Do you think it’ll stay overcast?",
+      "danish": "Tror du, det forbliver overskyet?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246630"
+    },
+    {
+      "english": "How’s the visibility right now, roughly?",
+      "danish": "Hvordan er sigtbarheden lige nu?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246634"
+    },
+    {
+      "english": "Is fog around, or did it lift?",
+      "danish": "Er der tåge, eller er det lettet?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246636"
+    },
+    {
+      "english": "What should I expect, wind or sun?",
+      "danish": "Hvad skal jeg regne med, vind eller sol?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246639"
+    },
+    {
+      "english": "Can you give me a quick weather check?",
+      "danish": "Kan du tjekke vejret hurtigt?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246641"
+    },
+    {
+      "english": "Is it safe to bike today?",
+      "danish": "Er det ok at cykle i dag?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246643"
+    },
+    {
+      "english": "Where do you usually look for forecasts?",
+      "danish": "Hvor kigger du typisk på vejret?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246648"
+    },
+    {
+      "english": "Do you think the cold will ease soon?",
+      "danish": "Tror du, kulden snart letter?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246650"
+    },
+    {
+      "english": "If it rains, where should we meet?",
+      "danish": "Hvis det regner, hvor mødes vi så?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246653"
+    },
+    {
+      "english": "Looks like the weather’s teasing us again, huh?",
+      "danish": "Det ligner, at vejret driller os igen, hva’?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246657"
+    },
+    {
+      "english": "It’s giving April weather, all over the place.",
+      "danish": "Det er ren april-agtigt vejr, det hele svinger.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246661"
+    },
+    {
+      "english": "A little drizzle, and then suddenly nothing.",
+      "danish": "Lidt småregn, og så pludselig ingenting.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246663"
+    },
+    {
+      "english": "The clouds are rolling in, it feels.",
+      "danish": "Skydækket vælter ind, man kan mærke det.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246666"
+    },
+    {
+      "english": "Hold onto your hat, it’s windy today.",
+      "danish": "Hold fast i hatten, det blæser i dag.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246672"
+    },
+    {
+      "english": "It’s one of those days, changing fast.",
+      "danish": "Det er sådan en dag, der skifter hurtigt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246675"
+    },
+    {
+      "english": "The sun’s out, don’t jinx it.",
+      "danish": "Solen er fremme, lad nu være med at jinx’e.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246678"
+    },
+    {
+      "english": "Let’s enjoy it while it lasts, yeah?",
+      "danish": "Lad os nyde det, mens det varer, ikke?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246682"
+    },
+    {
+      "english": "A cold front’s coming, you’ll feel it soon.",
+      "danish": "Der kommer en kold front, du mærker det snart.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246685"
+    },
+    {
+      "english": "Traffic hates this wind, me too.",
+      "danish": "Vinden gør alt besværligt, det kan jeg mærke.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246690"
+    },
+    {
+      "english": "It’s not raining now, so we take it.",
+      "danish": "Det regner ikke lige nu, så griber vi den.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246693"
+    },
+    {
+      "english": "Cold but nice, like a brisk morning.",
+      "danish": "Koldt, men dejligt, sådan en frisk morgen.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246696"
+    },
+    {
+      "english": "The air feels sharp, bundle up.",
+      "danish": "Luften er bidende, tag noget ekstra på.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246699"
+    },
+    {
+      "english": "It’s pretty muggy, I feel it already.",
+      "danish": "Det er ret klamt, det kan man mærke.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246702"
+    },
+    {
+      "english": "Thunder rumble in the distance, just wait.",
+      "danish": "Torden brummer ude i det fjerne, vent og se.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246705"
+    },
+    {
+      "english": "If it starts, it won’t last long, usually.",
+      "danish": "Starter det, så varer det som regel ikke længe.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246709"
+    },
+    {
+      "english": "We’ve got gray skies, nothing too dramatic.",
+      "danish": "Grå himmel, men det er ikke noget vildt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246712"
+    },
+    {
+      "english": "It’s mild today, feels almost spring-like.",
+      "danish": "Det er mildt i dag, det føles næsten forårsagtigt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246716"
+    },
+    {
+      "english": "Snow rumors again, but we’ll see.",
+      "danish": "Snesnakken kører igen, men vi ser tiden an.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246719"
+    },
+    {
+      "english": "The ground’s damp, so watch your step.",
+      "danish": "Der er fugtigt på jorden, pas på fødderne.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246722"
+    },
+    {
+      "english": "Rain or shine, we’ll manage somehow.",
+      "danish": "Regn eller sol, det skal nok gå.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246725"
+    },
+    {
+      "english": "It’s calm now, for once, lucky us.",
+      "danish": "Det er stille nu, for en gangs skyld, heldige os.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246728"
+    },
+    {
+      "english": "The wind cut through my jacket today.",
+      "danish": "Vinden sneg sig ind i jakken på mig.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246731"
+    },
+    {
+      "english": "That sunset is gorgeous, for now.",
+      "danish": "Den solnedgang er flot, indtil videre.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246734"
+    },
+    {
+      "english": "It’s bright, then it clouds over again.",
+      "danish": "Det er lyst et øjeblik, og så kommer skyerne igen.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246737"
+    },
+    {
+      "english": "I’ll check again later, the sky changes fast.",
+      "danish": "Jeg tjekker lige igen senere, himlen skifter hurtigt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246740"
+    },
+    {
+      "english": "Right now it’s fine, no drama.",
+      "danish": "Lige nu er det fint, ingen dramatik.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246743"
+    },
+    {
+      "english": "We’re between showers, take a quick run.",
+      "danish": "Vi er lige mellem bygerne, smut nu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246746"
+    },
+    {
+      "english": "Looks like clear weather is on its way.",
+      "danish": "Det ligner, at det klarer op snart.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246751"
+    },
+    {
+      "english": "Danish weather, unpredictable but kind sometimes.",
+      "danish": "Dansk vejr, uforudsigeligt, men nogle gange venligt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246754"
+    },
+    {
+      "english": "Honestly, this sky makes me restless.",
+      "danish": "Ærligt, det her himmel gør mig urolig.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246756"
+    },
+    {
+      "english": "I’m staying hopeful, even with dark clouds.",
+      "danish": "Jeg bliver ved med at håbe, selvom der er mørke skyer.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246760"
+    },
+    {
+      "english": "The rain sounds soft, so I breathe slower.",
+      "danish": "Regnen lyder blidt, så jeg trækker vejret roligere.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246764"
+    },
+    {
+      "english": "I hate sudden wind, but I adapt fast.",
+      "danish": "Jeg hader pludselig vind, men jeg tilpasser mig hurtigt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246767"
+    },
+    {
+      "english": "When it clears, I feel lighter inside.",
+      "danish": "Når det letter, føles jeg lettere indeni.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246770"
+    },
+    {
+      "english": "It’s not perfect, but it’s good enough.",
+      "danish": "Det er ikke perfekt, men det er godt nok.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246773"
+    },
+    {
+      "english": "I’m patient with weather, it always moves.",
+      "danish": "Jeg har tålmodighed med vejret, det flytter sig.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246776"
+    },
+    {
+      "english": "Clouds make me think, even during small talk.",
+      "danish": "Skyer får mig til at tænke, også i småsnak.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246779"
+    },
+    {
+      "english": "Honestly, this drizzle feels personal today.",
+      "danish": "Ærligt, den her skvulpe-regn føles nærmest personlig.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246782"
+    },
+    {
+      "english": "I’ll take layers, I don’t trust the forecast.",
+      "danish": "Jeg tager lag, jeg stoler ikke rigtig på vejrudsigten.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246785"
+    },
+    {
+      "english": "The sun breaks through, and I smile.",
+      "danish": "Solen bryder igennem, og jeg smiler.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246788"
+    },
+    {
+      "english": "I don’t mind clouds, they’re kind of calm.",
+      "danish": "Jeg har det fint med skyer, de er lidt rolige.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246791"
+    },
+    {
+      "english": "This humid air makes my thoughts slow down.",
+      "danish": "Den der fugtige luft gør, at mine tanker går langsomt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246794"
+    },
+    {
+      "english": "I can feel spring in my shoulders today.",
+      "danish": "Jeg kan mærke foråret i skuldrene i dag.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246796"
+    },
+    {
+      "english": "If it rains again, I won’t panic.",
+      "danish": "Hvis det regner igen, så går jeg ikke i panik.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246799"
+    },
+    {
+      "english": "Honestly, I miss crisp mornings like these.",
+      "danish": "Ærligt, jeg savner de skarpe morgener sådan her.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246802"
+    },
+    {
+      "english": "The sky is moody, but I’m trying.",
+      "danish": "Himlen er humørsyg, men jeg prøver.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246805"
+    },
+    {
+      "english": "I’m choosing calm, even if it gets windy.",
+      "danish": "Jeg vælger ro, også hvis det blæser.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246808"
+    },
+    {
+      "english": "Today’s weather matches my mood somehow.",
+      "danish": "Dagens vejr passer på min stemning, på en eller anden måde.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246811"
+    },
+    {
+      "english": "I’m not chasing sunshine, I’ll adapt.",
+      "danish": "Jeg jager ikke solen, jeg tilpasser mig.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246814"
+    },
+    {
+      "english": "A steady drizzle can be oddly comforting.",
+      "danish": "En jævn skånsom regn kan være overraskende tryg.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246817"
+    },
+    {
+      "english": "The wind knocks loose my worries, weirdly.",
+      "danish": "Vinden blæser mine bekymringer væk, mærkeligt nok.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246821"
+    },
+    {
+      "english": "I’m taking breaks, the cold slows me down.",
+      "danish": "Jeg tager pauser, kulden gør mig langsommere.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246824"
+    },
+    {
+      "english": "This kind of gray makes me reflect.",
+      "danish": "Den her gråhed får mig til at reflektere.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246828"
+    },
+    {
+      "english": "I’m grateful it’s just rain, not storms.",
+      "danish": "Jeg er taknemmelig for det bare regn, ikke storme.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246831"
+    },
+    {
+      "english": "When the clouds linger, I go inside early.",
+      "danish": "Når skyerne bliver hængende, går jeg tidligt ind.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246834"
+    },
+    {
+      "english": "I’m learning patience, even when it changes.",
+      "danish": "Jeg øver tålmodighed, også når det skifter.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246837"
+    },
+    {
+      "english": "The air feels heavy, so I slow down.",
+      "danish": "Luften føles tung, så jeg sænker tempoet.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246840"
+    },
+    {
+      "english": "It’s okay, weather doesn’t control me.",
+      "danish": "Det er okay, vejret styrer ikke mig.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246843"
+    },
+    {
+      "english": "Let’s just talk, while the storm passes.",
+      "danish": "Lad os bare snakke, mens stormen passerer.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:40:49.246846"
     }
   ],
-  "last_updated": "2026-11-04T10:45:24.505255"
+  "last_updated": "2026-11-05T10:40:49.246850"
 }
