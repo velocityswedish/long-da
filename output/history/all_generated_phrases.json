@@ -13679,7 +13679,727 @@
       "danish": "Lad os bare snakke, mens stormen passerer.",
       "category": "Weather & Small Talk",
       "generated_at": "2026-11-05T10:40:49.246846"
+    },
+    {
+      "english": "Hey, you up for coffee later?",
+      "danish": "Hey, er du frisk på kaffe senere?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.015958"
+    },
+    {
+      "english": "Nice, that sounds great, let's do it.",
+      "danish": "Fedt, det lyder godt, lad os gøre det.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.015972"
+    },
+    {
+      "english": "Oh wow, I didn't see that coming.",
+      "danish": "Hold da op, det havde jeg ikke set komme.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.015975"
+    },
+    {
+      "english": "Okay then, what's the plan for today?",
+      "danish": "Okay så, hvad er planen for i dag?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.015979"
+    },
+    {
+      "english": "Really?, that's awesome, tell me everything.",
+      "danish": "Virkelig?, det er jo super, fortæl alt.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.015982"
+    },
+    {
+      "english": "Wait, let me think, give me a sec.",
+      "danish": "Vent, lad mig lige tænke, giv mig et øjeblik.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.015985"
+    },
+    {
+      "english": "Good point, you're totally right.",
+      "danish": "Godt sagt, du har helt ret.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.015988"
+    },
+    {
+      "english": "Sorry, I got confused for a moment.",
+      "danish": "Undskyld, jeg blev lidt forvirret.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.015994"
+    },
+    {
+      "english": "Hold on, can you repeat that?",
+      "danish": "Hov, kan du gentage det?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.015997"
+    },
+    {
+      "english": "Perfect, I'll be there in ten minutes.",
+      "danish": "Perfekt, jeg er der om ti minutter.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016003"
+    },
+    {
+      "english": "Just a second, I'm on my way.",
+      "danish": "Lige et øjeblik, jeg er på vej.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016008"
+    },
+    {
+      "english": "Not really, but thanks for asking.",
+      "danish": "Næsten ikke, men tak fordi du spurgte.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016011"
+    },
+    {
+      "english": "Okay, let's start with the basics.",
+      "danish": "Okay, lad os starte med det basale.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016014"
+    },
+    {
+      "english": "Wow, that's a relief, finally!",
+      "danish": "Hold op, det var en lettelse, endelig!",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016017"
+    },
+    {
+      "english": "I'm hungry, let's grab something to eat.",
+      "danish": "Jeg er sulten, lad os tage noget at spise.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016020"
+    },
+    {
+      "english": "I'm tired, let's keep it simple tonight.",
+      "danish": "Jeg er træt, lad os gøre det enkelt i aften.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016023"
+    },
+    {
+      "english": "That's new, tell me how it works.",
+      "danish": "Det er nyt, fortæl mig hvordan det virker.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016026"
+    },
+    {
+      "english": "Maybe later, I'm busy right now.",
+      "danish": "Måske senere, jeg har travlt lige nu.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016029"
+    },
+    {
+      "english": "Thanks, that really helped me.",
+      "danish": "Tak, det hjalp mig virkelig.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016031"
+    },
+    {
+      "english": "Good morning, how's your day going?",
+      "danish": "Godmorgen, hvordan går din dag?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016034"
+    },
+    {
+      "english": "Wait, are you sure about that?",
+      "danish": "Vent, er du sikker på det?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016037"
+    },
+    {
+      "english": "I hear you, but let's talk about options.",
+      "danish": "Jeg forstår, men lad os snakke om muligheder.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016040"
+    },
+    {
+      "english": "That's kind, I really appreciate it.",
+      "danish": "Det var sødt, jeg værdsætter det virkelig.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016042"
+    },
+    {
+      "english": "All good, let's move on to the next.",
+      "danish": "Alt i orden, lad os gå videre.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016045"
+    },
+    {
+      "english": "Seriously?, that's hilarious, where'd you hear?",
+      "danish": "Seriøst?, det er jo for sjovt, hvor hørte du det?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016048"
+    },
+    {
+      "english": "Let's do it, I'm in!",
+      "danish": "Lad os gøre det, jeg er med!",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016051"
+    },
+    {
+      "english": "No, thanks, I’ll pass this time.",
+      "danish": "Nej, tak, jeg springer den over i dag.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016055"
+    },
+    {
+      "english": "You got it, I'll handle the rest.",
+      "danish": "Det ordner jeg, jeg tager resten.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016058"
+    },
+    {
+      "english": "Can you help me pick a goal?",
+      "danish": "Kan du hjælpe mig med at vælge et mål?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016061"
+    },
+    {
+      "english": "How do you keep momentum when it’s hard?",
+      "danish": "Hvordan holder du momentum, når det er svært?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016064"
+    },
+    {
+      "english": "Could you explain it again, slower, please?",
+      "danish": "Kan du forklare det igen, langsommere, tak?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016067"
+    },
+    {
+      "english": "Do you have a quick template for this?",
+      "danish": "Har du en hurtig skabelon til det her?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016070"
+    },
+    {
+      "english": "When should I ask for feedback?",
+      "danish": "Hvornår skal jeg bede om feedback?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016073"
+    },
+    {
+      "english": "Can I ask, what’s your biggest challenge?",
+      "danish": "Må jeg spørge, hvad din største udfordring er?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016077"
+    },
+    {
+      "english": "How did you get over that stuck point?",
+      "danish": "Hvordan kom du videre fra det dér fastlåste punkt?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016079"
+    },
+    {
+      "english": "Is it okay if I change my approach?",
+      "danish": "Er det okay, hvis jeg ændrer tilgang?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016082"
+    },
+    {
+      "english": "What’s your go-to trick for focus?",
+      "danish": "Hvad er dit bedste trick til at fokusere?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016085"
+    },
+    {
+      "english": "Can we break this into smaller steps?",
+      "danish": "Kan vi dele det op i mindre skridt?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016090"
+    },
+    {
+      "english": "Where do you find ideas when you're stuck?",
+      "danish": "Hvor finder du idéer, når du går i stå?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016093"
+    },
+    {
+      "english": "What should I track, daily or weekly?",
+      "danish": "Hvad skal jeg måle, dagligt eller ugentligt?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016096"
+    },
+    {
+      "english": "Do you prefer planning first, or action first?",
+      "danish": "Foretrækker du at planlægge først, eller handle først?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016099"
+    },
+    {
+      "english": "Can you give me one example for clarity?",
+      "danish": "Kan du give mig ét eksempel, så jeg forstår?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016103"
+    },
+    {
+      "english": "How do you handle setbacks without quitting?",
+      "danish": "Hvordan håndterer du nederlag uden at give op?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016106"
+    },
+    {
+      "english": "What’s the smallest step I can take?",
+      "danish": "Hvad er det mindste skridt, jeg kan tage?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016109"
+    },
+    {
+      "english": "Would you mind reviewing my rough draft?",
+      "danish": "Vil du have noget imod at gennemgå mit udkast?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016112"
+    },
+    {
+      "english": "Can you point me to a good resource?",
+      "danish": "Kan du pege mig i retning af en god ressource?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016114"
+    },
+    {
+      "english": "What do you think, is this realistic?",
+      "danish": "Hvad synes du, er det realistisk?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016117"
+    },
+    {
+      "english": "How do you stay consistent, even on busy days?",
+      "danish": "Hvordan holder du det stabilt, selv på travle dage?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016122"
+    },
+    {
+      "english": "Could you ask me the hard question?",
+      "danish": "Kan du stille mig det svære spørgsmål?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016125"
+    },
+    {
+      "english": "What’s the one habit that changed everything for you?",
+      "danish": "Hvilken vane ændrede alt for dig?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016128"
+    },
+    {
+      "english": "Should I set boundaries, or just work smarter?",
+      "danish": "Skal jeg sætte grænser, eller arbejde klogere?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016131"
+    },
+    {
+      "english": "How do we measure progress without overthinking?",
+      "danish": "Hvordan måler vi fremskridt uden at overanalysere?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016134"
+    },
+    {
+      "english": "Can you help me turn this into action?",
+      "danish": "Kan du hjælpe mig med at omsætte det til handling?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016136"
+    },
+    {
+      "english": "What’s your advice for a fresh start?",
+      "danish": "Hvad er dit råd til en frisk start?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016139"
+    },
+    {
+      "english": "If you were me, what would you change?",
+      "danish": "Hvis du var mig, hvad ville du ændre?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016142"
+    },
+    {
+      "english": "How can I make this simpler, not bigger?",
+      "danish": "Hvordan kan jeg gøre det enklere, ikke større?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016145"
+    },
+    {
+      "english": "You’ve got this, one try at a time",
+      "danish": "Du kan godt, én ting ad gangen",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016148"
+    },
+    {
+      "english": "Tell your brain, we’re learning, not proving",
+      "danish": "Sig til din hjerne, vi øver, ikke beviser",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016154"
+    },
+    {
+      "english": "Small win, big energy, keep going",
+      "danish": "Lille sejr, stor energi, bliv ved",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016157"
+    },
+    {
+      "english": "I love your effort, it shows",
+      "danish": "Jeg elsker din indsats, det kan man se",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016160"
+    },
+    {
+      "english": "You’re improving, even when it feels slow",
+      "danish": "Du bliver bedre, selv når det føles langsomt",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016163"
+    },
+    {
+      "english": "Reset, breathe, then try again",
+      "danish": "Nulstil, træk vejret, og prøv igen",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016166"
+    },
+    {
+      "english": "Let’s make today lighter, not louder",
+      "danish": "Lad os gøre i dag lettere, ikke højere",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016169"
+    },
+    {
+      "english": "Focus on what works, drop the rest",
+      "danish": "Fokuser på det, der virker, slip resten",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016172"
+    },
+    {
+      "english": "Your progress counts, even in minutes",
+      "danish": "Din fremgang tæller, også i minutter",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016175"
+    },
+    {
+      "english": "Be brave, ask for help, then move",
+      "danish": "Vær modig, spørg om hjælp, så videre",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016178"
+    },
+    {
+      "english": "That’s a good start, keep the rhythm",
+      "danish": "Det er en god start, hold rytmen",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016181"
+    },
+    {
+      "english": "Turn mistakes into clues, not shame",
+      "danish": "Gør fejl til spor, ikke skam",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016183"
+    },
+    {
+      "english": "I’m proud of you, you keep showing up",
+      "danish": "Jeg er stolt af dig, du møder op",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016186"
+    },
+    {
+      "english": "Say it out loud, you can learn this",
+      "danish": "Sig det højt, du kan lære det her",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016189"
+    },
+    {
+      "english": "Make room for joy, it fuels learning",
+      "danish": "Giv plads til glæde, det driver læring",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016192"
+    },
+    {
+      "english": "Consistency beats motivation, every time",
+      "danish": "Konsistens slår motivation, hver gang",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016194"
+    },
+    {
+      "english": "You’re not behind, you’re building",
+      "danish": "Du er ikke bagud, du bygger",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016198"
+    },
+    {
+      "english": "Give yourself credit, then aim higher",
+      "danish": "Giv dig selv anerkendelse, og sigt højere",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016203"
+    },
+    {
+      "english": "Today’s task, tomorrow’s confidence",
+      "danish": "Dagens opgave, morgendagens selvtillid",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016206"
+    },
+    {
+      "english": "No drama, just practice, that’s it",
+      "danish": "Ingen drama, bare øv, sådan",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016209"
+    },
+    {
+      "english": "Be curious, not critical, trust the process",
+      "danish": "Vær nysgerrig, ikke kritisk, stol på processen",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016212"
+    },
+    {
+      "english": "If it’s hard, it means you’re growing",
+      "danish": "Hvis det er svært, så betyder det vækst",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016215"
+    },
+    {
+      "english": "Keep it simple, show up, repeat",
+      "danish": "Hold det simpelt, mød op, gentag",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016218"
+    },
+    {
+      "english": "I’m rooting for you, go get it",
+      "danish": "Jeg hepper på dig, af sted",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016221"
+    },
+    {
+      "english": "Celebrate the attempt, not just the result",
+      "danish": "Fejr forsøget, ikke kun resultatet",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016224"
+    },
+    {
+      "english": "You learn faster when you stay kind",
+      "danish": "Du lærer hurtigere, når du er sød ved dig",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016226"
+    },
+    {
+      "english": "Say yes to progress, even imperfect",
+      "danish": "Sig ja til fremgang, selv når den er ujævn",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016229"
+    },
+    {
+      "english": "Let’s turn pressure into focus",
+      "danish": "Lad os gøre pres til fokus",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016232"
+    },
+    {
+      "english": "Stay playful, growth loves good vibes",
+      "danish": "Bliv legende, vækst elsker gode vibber",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016235"
+    },
+    {
+      "english": "I’m letting it be messy, and that’s okay",
+      "danish": "Jeg lader det være rodet, og det er okay",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016238"
+    },
+    {
+      "english": "Right now, I can’t rush, I need space",
+      "danish": "Lige nu kan jeg ikke skynde mig, jeg skal have plads",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016242"
+    },
+    {
+      "english": "I’m feeling it fully, then I move",
+      "danish": "Jeg mærker det hele, og så går jeg videre",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016245"
+    },
+    {
+      "english": "Some days, progress looks like patience",
+      "danish": "Nogle dage ligner fremskridt tålmodighed",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016248"
+    },
+    {
+      "english": "I won’t pretend, I’ll be honest with myself",
+      "danish": "Jeg vil ikke foregive, jeg vil være ærlig overfor mig selv",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016251"
+    },
+    {
+      "english": "Today I’m choosing calm, not constant pushing",
+      "danish": "I dag vælger jeg ro, ikke konstant pres",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016257"
+    },
+    {
+      "english": "I’m noticing my triggers, and I soften",
+      "danish": "Jeg lægger mærke til mine triggere, og jeg blødgør",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016261"
+    },
+    {
+      "english": "It’s okay to slow down, I still learn",
+      "danish": "Det er okay at sænke farten, jeg lærer stadig",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016266"
+    },
+    {
+      "english": "I trust the quiet work, even when nobody sees",
+      "danish": "Jeg stoler på det stille arbejde, selv når ingen ser",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016269"
+    },
+    {
+      "english": "I’m allowed to feel disappointed, then reset",
+      "danish": "Jeg må gerne føle skuffelse, så nulstiller jeg",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016272"
+    },
+    {
+      "english": "I take a breath, my thoughts get clearer",
+      "danish": "Jeg tager et åndedrag, tankerne bliver klarere",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016275"
+    },
+    {
+      "english": "I’m learning to care, without carrying everything",
+      "danish": "Jeg lærer at tage mig af ting, uden at bære alt",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016278"
+    },
+    {
+      "english": "I don’t need motivation, I need a plan",
+      "danish": "Jeg behøver ikke motivation, jeg har brug for en plan",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016281"
+    },
+    {
+      "english": "If I slip, I come back gently",
+      "danish": "Hvis jeg falder, så kommer jeg tilbage, blidt",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016284"
+    },
+    {
+      "english": "I’m grateful for effort, not just outcomes",
+      "danish": "Jeg er taknemmelig for indsatsen, ikke kun for resultater",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016288"
+    },
+    {
+      "english": "My feelings are data, not a verdict",
+      "danish": "Mine følelser er data, ikke en dom",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016290"
+    },
+    {
+      "english": "I can hold grief, and still go forward",
+      "danish": "Jeg kan rumme sorg, og stadig gå videre",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016293"
+    },
+    {
+      "english": "I’m choosing growth, even when it hurts",
+      "danish": "Jeg vælger udvikling, selv når det gør ondt",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016296"
+    },
+    {
+      "english": "I forgive myself, then I pick the next step",
+      "danish": "Jeg tilgiver mig selv, og så vælger jeg næste skridt",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016299"
+    },
+    {
+      "english": "I don’t compare, I reflect and adjust",
+      "danish": "Jeg sammenligner ikke, jeg reflekterer og justerer",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016302"
+    },
+    {
+      "english": "I let my pace match my energy",
+      "danish": "Jeg lader mit tempo passe til min energi",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016310"
+    },
+    {
+      "english": "I’m proud of the restart, not the streak",
+      "danish": "Jeg er stolt af genstarten, ikke kun streaken",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016313"
+    },
+    {
+      "english": "I’m listening to myself, not my inner critic",
+      "danish": "Jeg lytter til mig selv, ikke den indre kritiker",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016317"
+    },
+    {
+      "english": "Even small doubts, I can work with them",
+      "danish": "Selv små tvivl kan jeg arbejde med",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016320"
+    },
+    {
+      "english": "I name the fear, and it gets smaller",
+      "danish": "Jeg sætter ord på frygten, og den bliver mindre",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016322"
+    },
+    {
+      "english": "I’m allowed to be new at this",
+      "danish": "Jeg har lov til at være ny i det her",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016325"
+    },
+    {
+      "english": "I keep my promises to me, daily",
+      "danish": "Jeg holder mine løfter til mig, hver dag",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016328"
+    },
+    {
+      "english": "When I’m tense, I choose softer next",
+      "danish": "Når jeg er spændt, vælger jeg noget blidere næste",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016331"
+    },
+    {
+      "english": "I’m building trust with my future self",
+      "danish": "Jeg bygger tillid til mit fremtidige jeg",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016334"
+    },
+    {
+      "english": "I reflect tonight, so tomorrow feels lighter",
+      "danish": "Jeg reflekterer i aften, så føles morgendagen lettere",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016337"
+    },
+    {
+      "english": "Ask, smile, then try again tomorrow.",
+      "danish": "Spørg, smil, så prøv igen i morgen.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016340"
+    },
+    {
+      "english": "When plans change, keep it light, okay?",
+      "danish": "Når planerne ændrer sig, så hold det let, okay?",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016343"
+    },
+    {
+      "english": "Send the message, even if it’s short.",
+      "danish": "Send beskeden, også selvom den er kort.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016346"
+    },
+    {
+      "english": "Practice small talk, then move on kindly.",
+      "danish": "Træn small talk, så gå videre på en sød måde.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016349"
+    },
+    {
+      "english": "If you freeze, breathe, and answer anyway.",
+      "danish": "Hvis du fryser, træk vejret, og svar så.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T10:41:29.016352"
     }
   ],
-  "last_updated": "2026-11-05T10:40:49.246850"
+  "last_updated": "2026-11-06T10:41:29.016354"
 }
