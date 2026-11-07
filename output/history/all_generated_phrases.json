@@ -14399,7 +14399,727 @@
       "danish": "Hvis du fryser, træk vejret, og svar så.",
       "category": "Growth",
       "generated_at": "2026-11-06T10:41:29.016352"
+    },
+    {
+      "english": "Here you go, I’ve got you.",
+      "danish": "Værsgo, jeg har dig.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662661"
+    },
+    {
+      "english": "No worries, it’s completely okay.",
+      "danish": "Bare rolig, det er helt okay.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662676"
+    },
+    {
+      "english": "Do you need help, I can stay?",
+      "danish": "Har du brug for hjælp, kan jeg blive?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662678"
+    },
+    {
+      "english": "It’s alright, take your time.",
+      "danish": "Det er i orden, tag den tid du skal.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662680"
+    },
+    {
+      "english": "Thanks for checking on me.",
+      "danish": "Tak fordi du tjekkede på mig.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662682"
+    },
+    {
+      "english": "I’m listening, tell me what’s going on.",
+      "danish": "Jeg lytter, fortæl mig, hvad der sker.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662684"
+    },
+    {
+      "english": "That was kind of you, really.",
+      "danish": "Det var pænt af dig, virkelig.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662688"
+    },
+    {
+      "english": "I appreciate you, that means a lot.",
+      "danish": "Jeg værdsætter dig, det betyder meget.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662692"
+    },
+    {
+      "english": "Sorry, I didn’t mean to bother.",
+      "danish": "Undskyld, jeg mente ikke at genere.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662694"
+    },
+    {
+      "english": "You look good today, I noticed.",
+      "danish": "Du ser godt ud i dag, jeg lagde mærke til.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662696"
+    },
+    {
+      "english": "Go ahead, I’ll wait right here.",
+      "danish": "Værsgo, jeg venter lige her.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662698"
+    },
+    {
+      "english": "Are you okay, do you want to talk?",
+      "danish": "Er du okay, vil du snakke?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662700"
+    },
+    {
+      "english": "That’s a great idea, let’s do it.",
+      "danish": "Det er en god idé, lad os gøre det.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662702"
+    },
+    {
+      "english": "I’m proud of you, keep going.",
+      "danish": "Jeg er stolt af dig, bliv ved.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662704"
+    },
+    {
+      "english": "That’s enough, you’re doing great.",
+      "danish": "Det er nok, du gør det rigtig godt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662706"
+    },
+    {
+      "english": "Next time, I’ve got the plan.",
+      "danish": "Næste gang, jeg har styr på det.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662708"
+    },
+    {
+      "english": "Thank you, that was super helpful.",
+      "danish": "Tak, det var virkelig hjælpsomt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662709"
+    },
+    {
+      "english": "No, you go first, please.",
+      "danish": "Nej, du går først, værsgo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662711"
+    },
+    {
+      "english": "I’m here, take a deep breath.",
+      "danish": "Jeg er her, tag lige en dyb indånding.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662713"
+    },
+    {
+      "english": "That sounds tough, I believe you.",
+      "danish": "Det lyder hårdt, jeg tror på dig.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662714"
+    },
+    {
+      "english": "Want some water, it helps a bit.",
+      "danish": "Vil du have noget vand, det hjælper lidt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662716"
+    },
+    {
+      "english": "I’ll handle it, you can relax now.",
+      "danish": "Jeg klarer det, du kan slappe af nu.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662719"
+    },
+    {
+      "english": "You matter, don’t forget that.",
+      "danish": "Du betyder noget, glem det ikke.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662721"
+    },
+    {
+      "english": "Let me know, I care about you.",
+      "danish": "Sig til, jeg holder af dig.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662722"
+    },
+    {
+      "english": "I’m sorry, are you hurt anywhere?",
+      "danish": "Undskyld, er du kommet til skade?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662724"
+    },
+    {
+      "english": "We’ve got time, don’t rush.",
+      "danish": "Vi har tid, du behøver ikke skynde dig.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662726"
+    },
+    {
+      "english": "Let’s be gentle, okay?",
+      "danish": "Lad os være blide, okay?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662727"
+    },
+    {
+      "english": "I’m rooting for you, you’ll be fine.",
+      "danish": "Jeg hepper på dig, det skal nok gå.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662729"
+    },
+    {
+      "english": "Have a good one, take care!",
+      "danish": "Ha’ en god dag, pas på dig!",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662731"
+    },
+    {
+      "english": "That’s okay, we’ll figure it out.",
+      "danish": "Det er okay, vi finder en løsning.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662733"
+    },
+    {
+      "english": "How can I help you today, friend?",
+      "danish": "Hvordan kan jeg hjælpe dig i dag, ven?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662734"
+    },
+    {
+      "english": "What do you need most right now?",
+      "danish": "Hvad har du mest brug for lige nu?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662736"
+    },
+    {
+      "english": "Can I ask, what’s on your mind?",
+      "danish": "Må jeg spørge, hvad fylder dit hoved?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662738"
+    },
+    {
+      "english": "Would you like my advice on this?",
+      "danish": "Vil du have mit råd om det her?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662740"
+    },
+    {
+      "english": "Should we talk about it, when you’re ready?",
+      "danish": "Skal vi tale om det, når du er klar?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662743"
+    },
+    {
+      "english": "Is there anything I should know?",
+      "danish": "Er der noget, jeg bør vide?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662745"
+    },
+    {
+      "english": "Do you want me to listen, or help?",
+      "danish": "Vil du have, at jeg lytter, eller hjælper?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662748"
+    },
+    {
+      "english": "What would make your day a bit easier?",
+      "danish": "Hvad ville gøre din dag lidt lettere?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662751"
+    },
+    {
+      "english": "Can we check in, just for a minute?",
+      "danish": "Kan vi lige tjekke ind, kun et minut?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662752"
+    },
+    {
+      "english": "Where do you want to start, honestly?",
+      "danish": "Hvor vil du starte, helt ærligt?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662754"
+    },
+    {
+      "english": "Do you have a plan, or need ideas?",
+      "danish": "Har du en plan, eller har du brug for idéer?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662756"
+    },
+    {
+      "english": "I noticed something, can I ask you?",
+      "danish": "Jeg lagde mærke til noget, må jeg spørge?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662758"
+    },
+    {
+      "english": "What’s the smallest thing we can do?",
+      "danish": "Hvad er den mindste ting, vi kan gøre?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662760"
+    },
+    {
+      "english": "Do you want feedback, or just comfort?",
+      "danish": "Vil du have feedback, eller bare trøst?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662761"
+    },
+    {
+      "english": "How’s it going, really, with you?",
+      "danish": "Hvordan går det, ærligt talt, med dig?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662763"
+    },
+    {
+      "english": "Can I help you figure out the next step?",
+      "danish": "Kan jeg hjælpe dig med næste skridt?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662764"
+    },
+    {
+      "english": "What’s one thing I can do right now?",
+      "danish": "Hvad er én ting, jeg kan gøre nu?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662766"
+    },
+    {
+      "english": "Do you feel comfortable sharing that?",
+      "danish": "Føles det okay for dig at fortælle det?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662767"
+    },
+    {
+      "english": "Should we go slower, so you feel safe?",
+      "danish": "Skal vi gå langsommere, så du føler dig tryg?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662769"
+    },
+    {
+      "english": "What’s your biggest concern lately, if I may?",
+      "danish": "Hvad bekymrer dig mest for tiden, hvis jeg må spørge?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662771"
+    },
+    {
+      "english": "Can I ask how you’re doing at work?",
+      "danish": "Må jeg spørge, hvordan går det på arbejdet?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662773"
+    },
+    {
+      "english": "Do you want company, or quiet time?",
+      "danish": "Vil du have selskab, eller ro og fred?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662775"
+    },
+    {
+      "english": "How can I support you, step by step?",
+      "danish": "Hvordan kan jeg støtte dig, trin for trin?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662776"
+    },
+    {
+      "english": "What helps you calm down the fastest?",
+      "danish": "Hvad hjælper dig med at falde til ro?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662778"
+    },
+    {
+      "english": "Can we brainstorm together, no pressure?",
+      "danish": "Kan vi brainstorme sammen, uden pres?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662779"
+    },
+    {
+      "english": "Do you want to talk by text later?",
+      "danish": "Vil du snakke senere, via sms?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662781"
+    },
+    {
+      "english": "What’s one small win you had today?",
+      "danish": "Hvad er én lille sejr, du har haft i dag?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662783"
+    },
+    {
+      "english": "Can I check, did I get it right?",
+      "danish": "Må jeg lige tjekke, fik jeg det rigtigt?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662784"
+    },
+    {
+      "english": "Would you like me to call you?",
+      "danish": "Vil du have, at jeg ringer til dig?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662786"
+    },
+    {
+      "english": "What’s the kindest thing you need from me?",
+      "danish": "Hvad er den mest omsorgsfulde ting, du har brug for?",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662788"
+    },
+    {
+      "english": "Kindness, det går langt, selv i små ting.",
+      "danish": "Godhed, det går langt, selv i små ting.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662790"
+    },
+    {
+      "english": "Help where you can, spare dig for stress.",
+      "danish": "Hjælp der, hvor du kan, spar dig for stress.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662792"
+    },
+    {
+      "english": "Small manners first, that feels good for everyone.",
+      "danish": "Små hensyn først, det føles godt for alle.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662794"
+    },
+    {
+      "english": "You go first, jeg siger tak bagefter.",
+      "danish": "Du går først, jeg siger tak bagefter.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662796"
+    },
+    {
+      "english": "No need to rush, tag det stille.",
+      "danish": "Der er ingen grund til at skynde, tag det stille.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662797"
+    },
+    {
+      "english": "We’ve all been there, det ved du nok.",
+      "danish": "Vi har alle prøvet det, det ved du nok.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662800"
+    },
+    {
+      "english": "Give a hand, et lille skub hjælper.",
+      "danish": "Giv en hånd, et lille skub hjælper.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662802"
+    },
+    {
+      "english": "Be like a good neighbor, vis omsorg.",
+      "danish": "Vær som en god nabo, vis omsorg.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662803"
+    },
+    {
+      "english": "Don’t make a fuss, bare vær rar.",
+      "danish": "Lav ikke ballade, bare vær rar.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662807"
+    },
+    {
+      "english": "Share a bit, så bliver dagen bedre.",
+      "danish": "Del lidt, så bliver dagen bedre.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662808"
+    },
+    {
+      "english": "Speak softly, det tæller virkelig.",
+      "danish": "Tal stille, det tæller virkelig.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662810"
+    },
+    {
+      "english": "Gentle words, det kan vende alt.",
+      "danish": "Bløde ord, det kan vende alt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662812"
+    },
+    {
+      "english": "Mind your tone, det gør en forskel.",
+      "danish": "Pas på tonen, det gør en forskel.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662814"
+    },
+    {
+      "english": "Offer a smile, det åbner døre.",
+      "danish": "Giv et smil, det åbner døre.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662816"
+    },
+    {
+      "english": "We’re in the same boat, vi hjælper hinanden.",
+      "danish": "Vi er i samme båd, vi hjælper hinanden.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662818"
+    },
+    {
+      "english": "Say thanks, det er gratis og stort.",
+      "danish": "Sig tak, det er gratis og stort.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662820"
+    },
+    {
+      "english": "Respect first, det er rarest sådan.",
+      "danish": "Respekt først, det er rarest sådan.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662826"
+    },
+    {
+      "english": "Try your best, så rækker du ud.",
+      "danish": "Gør dit bedste, så rækker du ud.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662828"
+    },
+    {
+      "english": "Be warm, det smitter hurtigt.",
+      "danish": "Vær varm, det smitter hurtigt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662830"
+    },
+    {
+      "english": "Give space, lad folk være.",
+      "danish": "Giv plads, lad folk være.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662832"
+    },
+    {
+      "english": "It costs nothing, men gør meget.",
+      "danish": "Det koster ingenting, men gør meget.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662833"
+    },
+    {
+      "english": "Do it quietly, uden at gøre det stort.",
+      "danish": "Gør det stille, uden at gøre det stort.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662835"
+    },
+    {
+      "english": "Turn back, hvis du kan gøre en forskel.",
+      "danish": "Vend om, hvis du kan gøre en forskel.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662837"
+    },
+    {
+      "english": "We look out for each other, sådan er vi.",
+      "danish": "Vi tager os af hinanden, sådan er vi.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662839"
+    },
+    {
+      "english": "Care shows, det ses i små ting.",
+      "danish": "Omsorg ses, det ses i små ting.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662843"
+    },
+    {
+      "english": "Don’t underestimate support, det kan redde.",
+      "danish": "Undervurder ikke støtte, det kan redde.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662845"
+    },
+    {
+      "english": "Take it easy, vi ta’r den stille.",
+      "danish": "Tag det roligt, vi ta’r den stille.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662847"
+    },
+    {
+      "english": "Be the light, du gør en forskel.",
+      "danish": "Vær et lys, du gør en forskel.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662849"
+    },
+    {
+      "english": "Call it out kindly, uden at være hård.",
+      "danish": "Sig det pænt, uden at være hård.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662851"
+    },
+    {
+      "english": "Leave space for feelings, alle har en dag.",
+      "danish": "Lad der være plads til følelser, alle har en dag.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662853"
+    },
+    {
+      "english": "I notice you, and I mean it.",
+      "danish": "Jeg lægger mærke til dig, og jeg mener det.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662855"
+    },
+    {
+      "english": "Right now, I just want to be honest.",
+      "danish": "Lige nu vil jeg bare være ærlig.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662856"
+    },
+    {
+      "english": "Sometimes I’m unsure, so I slow down.",
+      "danish": "Nogle gange er jeg i tvivl, så jeg sænker farten.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662859"
+    },
+    {
+      "english": "I’m trying, not perfect, and that counts.",
+      "danish": "Jeg prøver, ikke perfekt, og det tæller.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662861"
+    },
+    {
+      "english": "It’s okay to need time, I get it.",
+      "danish": "Det er okay at have brug for tid, jeg forstår.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662863"
+    },
+    {
+      "english": "I can hold the pause, if you need.",
+      "danish": "Jeg kan holde pausen, hvis du har brug.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662865"
+    },
+    {
+      "english": "Thank you, I felt it, in a good way.",
+      "danish": "Tak, jeg mærkede det, på en god måde.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662867"
+    },
+    {
+      "english": "Your feelings make sense, even to me.",
+      "danish": "Dine følelser giver mening, også for mig.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662870"
+    },
+    {
+      "english": "I don’t rush you, I’m right here.",
+      "danish": "Jeg presser dig ikke, jeg er lige her.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662872"
+    },
+    {
+      "english": "Let’s be kind, even when it’s hard.",
+      "danish": "Lad os være søde, selv når det er svært.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662875"
+    },
+    {
+      "english": "I’ll listen first, my advice can wait.",
+      "danish": "Jeg lytter først, mine råd kan vente.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662877"
+    },
+    {
+      "english": "You don’t have to carry it alone.",
+      "danish": "Du behøver ikke bære det alene.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662879"
+    },
+    {
+      "english": "I’m proud of you, for trying today.",
+      "danish": "Jeg er stolt af dig, for at du prøver i dag.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662881"
+    },
+    {
+      "english": "I respect your pace, really, no drama.",
+      "danish": "Jeg respekterer dit tempo, virkelig, ingen drama.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662883"
+    },
+    {
+      "english": "If you’re overwhelmed, we can breathe.",
+      "danish": "Hvis du er overvældet, kan vi bare trække vejret.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662885"
+    },
+    {
+      "english": "I won’t assume, I’ll ask gently.",
+      "danish": "Jeg antager ikke, jeg spørger stille og roligt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662887"
+    },
+    {
+      "english": "Your boundaries are okay, I get it.",
+      "danish": "Dine grænser er okay, det forstår jeg.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662889"
+    },
+    {
+      "english": "Even small care can change my day.",
+      "danish": "Selv små tegn på omsorg kan ændre min dag.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662891"
+    },
+    {
+      "english": "I’m here, and I won’t judge your mood.",
+      "danish": "Jeg er her, og jeg dømmer ikke din stemning.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662893"
+    },
+    {
+      "english": "Let me say this clearly, I care.",
+      "danish": "Jeg siger det ligeud, jeg holder af dig.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662894"
+    },
+    {
+      "english": "You can vent, I’ll keep it safe.",
+      "danish": "Du må gerne lufte ud, jeg holder det sikkert.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662896"
+    },
+    {
+      "english": "I’m learning, and that makes me gentler.",
+      "danish": "Jeg lærer, og det gør mig blidere.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662898"
+    },
+    {
+      "english": "If I’m wrong, tell me, kindly.",
+      "danish": "Hvis jeg tager fejl, så sig det, venligt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662901"
+    },
+    {
+      "english": "Your effort matters, even if it’s small.",
+      "danish": "Din indsats betyder noget, selv når den er lille.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662903"
+    },
+    {
+      "english": "I’ll take the blame if it’s my part.",
+      "danish": "Jeg tager skylden, hvis det er min del.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662905"
+    },
+    {
+      "english": "I’m not perfect, but I’m sincere with you.",
+      "danish": "Jeg er ikke perfekt, men jeg er oprigtig med dig.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662907"
+    },
+    {
+      "english": "Let’s check in, not to fix, just to care.",
+      "danish": "Lad os lige tjekke ind, ikke for at fikse, bare for at vise omsorg.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662909"
+    },
+    {
+      "english": "I see your struggle, and I stay close.",
+      "danish": "Jeg ser din kamp, og jeg bliver tæt på.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662911"
+    },
+    {
+      "english": "We can try again, without shame.",
+      "danish": "Vi kan prøve igen, uden skam.",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662912"
+    },
+    {
+      "english": "Quick smile, it helps more than you think",
+      "danish": "Et hurtigt smil, det hjælper mere end du tror",
+      "category": "Kindness",
+      "generated_at": "2026-11-07T09:52:44.662914"
     }
   ],
-  "last_updated": "2026-11-06T10:41:29.016354"
+  "last_updated": "2026-11-07T09:52:44.662915"
 }
