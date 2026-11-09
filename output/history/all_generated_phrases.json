@@ -15839,7 +15839,727 @@
       "danish": "Byt perfektion ud med fremdrift, kun i tyve minutter.",
       "category": "Creativity",
       "generated_at": "2026-11-08T10:06:03.674023"
+    },
+    {
+      "english": "Thanks a lot, that really helps me,",
+      "danish": "Tusind tak, det hjælper mig virkelig,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905818"
+    },
+    {
+      "english": "I really appreciate it, seriously,",
+      "danish": "Jeg sætter virkelig pris på det, virkelig,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905833"
+    },
+    {
+      "english": "That’s so kind, thanks,",
+      "danish": "Det er så sødt, tak,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905836"
+    },
+    {
+      "english": "Thanks for checking in,",
+      "danish": "Tak fordi du lige tjekker ind,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905839"
+    },
+    {
+      "english": "Thanks, I owe you one,",
+      "danish": "Tak, jeg skylder dig en,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905841"
+    },
+    {
+      "english": "Thanks for your help, it means a lot,",
+      "danish": "Tak for din hjælp, det betyder meget,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905844"
+    },
+    {
+      "english": "I’m grateful, you saved my day,",
+      "danish": "Jeg er taknemmelig, du reddede min dag,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905847"
+    },
+    {
+      "english": "Thank you, that was perfect,",
+      "danish": "Tak, det var helt perfekt,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905851"
+    },
+    {
+      "english": "Cheers, thanks for everything today,",
+      "danish": "Tak for alt i dag,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905855"
+    },
+    {
+      "english": "Thanks for listening, I needed that,",
+      "danish": "Tak fordi du lyttede, jeg havde brug for det,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905858"
+    },
+    {
+      "english": "You’re the best, thanks!",
+      "danish": "Du er den bedste, tak!",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905863"
+    },
+    {
+      "english": "Thanks, I’ll remember that,",
+      "danish": "Tak, jeg husker det,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905866"
+    },
+    {
+      "english": "Thanks for the tip, it worked,",
+      "danish": "Tak for tippet, det virkede,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905868"
+    },
+    {
+      "english": "I appreciate you, for real,",
+      "danish": "Jeg værdsætter dig, for real,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905870"
+    },
+    {
+      "english": "Thanks, I feel better now,",
+      "danish": "Tak, jeg føler mig bedre nu,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905872"
+    },
+    {
+      "english": "Thank you, I don’t take it for granted,",
+      "danish": "Tak, jeg tager det ikke for givet,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905875"
+    },
+    {
+      "english": "Thanks for being there,",
+      "danish": "Tak fordi du var der,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905877"
+    },
+    {
+      "english": "I’m grateful, you made it easier,",
+      "danish": "Jeg er taknemmelig, du gjorde det nemmere,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905880"
+    },
+    {
+      "english": "Thanks, that’s exactly what I needed,",
+      "danish": "Tak, det er præcis det, jeg manglede,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905882"
+    },
+    {
+      "english": "Thank you, I really mean it,",
+      "danish": "Tak, jeg mener det virkelig,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905886"
+    },
+    {
+      "english": "Thanks, I appreciate the gesture,",
+      "danish": "Tak, jeg sætter pris på gestussen,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905888"
+    },
+    {
+      "english": "Thanks, you’re so helpful,",
+      "danish": "Tak, du er så hjælpsom,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905891"
+    },
+    {
+      "english": "I’m thankful, that was thoughtful,",
+      "danish": "Jeg er taknemmelig, det var omtanke,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905893"
+    },
+    {
+      "english": "Thanks, that cleared things up,",
+      "danish": "Tak, det gjorde tingene klare,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905895"
+    },
+    {
+      "english": "Thank you, I’ve got you,",
+      "danish": "Tak, jeg har dig,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905898"
+    },
+    {
+      "english": "Thanks, I’m lucky to have you,",
+      "danish": "Tak, jeg er heldig at have dig,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905900"
+    },
+    {
+      "english": "Thanks, I’ll keep that in mind,",
+      "danish": "Tak, jeg tager det med i tankerne,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905903"
+    },
+    {
+      "english": "Appreciate it, you’re a lifesaver,",
+      "danish": "Tak, du er en redningsmand,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905905"
+    },
+    {
+      "english": "Thanks for today, I needed it,",
+      "danish": "Tak for i dag, jeg havde brug for det,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905907"
+    },
+    {
+      "english": "Thank you, you made my day,",
+      "danish": "Tak, du gjorde min dag,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905909"
+    },
+    {
+      "english": "Thanks, I’ll pay you back,",
+      "danish": "Tak, jeg betaler dig tilbage,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905912"
+    },
+    {
+      "english": "Seriously, can I ask you something?",
+      "danish": "Seriøst, må jeg spørge dig om noget?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905914"
+    },
+    {
+      "english": "Quick question, where do I start?",
+      "danish": "Hurtigt spørgsmål, hvor begynder jeg?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905916"
+    },
+    {
+      "english": "What would you do here, honestly?",
+      "danish": "Hvad ville du gøre her, ærligt?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905919"
+    },
+    {
+      "english": "Do you mind sharing that tip again?",
+      "danish": "Har du lyst til at dele tipset igen?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905921"
+    },
+    {
+      "english": "I’m thankful, how did you know?",
+      "danish": "Jeg er taknemmelig, hvordan vidste du det?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905923"
+    },
+    {
+      "english": "Thanks, what’s your best suggestion?",
+      "danish": "Tak, hvad er din bedste anbefaling?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905926"
+    },
+    {
+      "english": "Can you help me, like for real?",
+      "danish": "Kan du hjælpe mig, helt ærligt?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905928"
+    },
+    {
+      "english": "How come that worked so well?",
+      "danish": "Hvordan kunne det virke så godt?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905930"
+    },
+    {
+      "english": "Before I mess it up, your advice?",
+      "danish": "Før jeg ødelægger det, hvad siger du?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905934"
+    },
+    {
+      "english": "Do you have a quick workaround?",
+      "danish": "Har du en hurtig løsning?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905936"
+    },
+    {
+      "english": "I owe you one, what next step?",
+      "danish": "Jeg skylder dig én, hvad er næste skridt?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905938"
+    },
+    {
+      "english": "I appreciate it, what should I avoid?",
+      "danish": "Jeg sætter pris på det, hvad skal jeg undgå?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905940"
+    },
+    {
+      "english": "Can I borrow your brain for a sec?",
+      "danish": "Må jeg låne din hjerne et øjeblik?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905942"
+    },
+    {
+      "english": "Could you clarify that, please?",
+      "danish": "Kan du forklare det, tak?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905944"
+    },
+    {
+      "english": "How did you handle that situation?",
+      "danish": "Hvordan håndterede du den situation?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905946"
+    },
+    {
+      "english": "Thanks, do you have a second to chat?",
+      "danish": "Tak, har du et øjeblik at snakke?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905949"
+    },
+    {
+      "english": "I’m grateful, what’s the safest option?",
+      "danish": "Jeg er taknemmelig, hvad er den sikreste løsning?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905952"
+    },
+    {
+      "english": "Quick favor, can you check this for me?",
+      "danish": "Lille favor, kan du tjekke det for mig?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905954"
+    },
+    {
+      "english": "What do you think, should I go for it?",
+      "danish": "Hvad synes du, skal jeg bare gøre det?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905958"
+    },
+    {
+      "english": "Thanks for your patience, what’s the plan?",
+      "danish": "Tak for tålmodigheden, hvad er planen?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905961"
+    },
+    {
+      "english": "Can I get your honest take on this?",
+      "danish": "Må jeg få din ærlige vurdering?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905965"
+    },
+    {
+      "english": "I’m grateful, how do you stay so calm?",
+      "danish": "Jeg er taknemmelig, hvordan holder du hovedet koldt?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905967"
+    },
+    {
+      "english": "Can we workshop it together, please?",
+      "danish": "Kan vi arbejde på det sammen?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905970"
+    },
+    {
+      "english": "What’s your best way to explain it?",
+      "danish": "Hvad er din bedste måde at forklare det på?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905972"
+    },
+    {
+      "english": "Thank you, any last advice before I go?",
+      "danish": "Tak, har du et sidste råd til mig?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905974"
+    },
+    {
+      "english": "I really mean it, can you guide me?",
+      "danish": "Jeg mener det, kan du guide mig?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905976"
+    },
+    {
+      "english": "If I get stuck, can I message you?",
+      "danish": "Hvis jeg går i stå, må jeg skrive til dig?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905978"
+    },
+    {
+      "english": "I’m grateful for small wins, keep going.",
+      "danish": "Jeg er taknemmelig for små sejre, fortsæt.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905981"
+    },
+    {
+      "english": "Today, I choose gratitude, it changes everything.",
+      "danish": "I dag vælger jeg taknemmelighed, det ændrer alt.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905984"
+    },
+    {
+      "english": "I notice the good, even in busy days.",
+      "danish": "Jeg lægger mærke til det gode, også i travle dage.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905986"
+    },
+    {
+      "english": "Count your blessings, feel it right now.",
+      "danish": "Tæl dine velsignelser, mærk det nu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905988"
+    },
+    {
+      "english": "You’re appreciated, and I won’t forget it.",
+      "danish": "Du bliver værdsat, og jeg glemmer det ikke.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905991"
+    },
+    {
+      "english": "I’m proud of me, for showing up.",
+      "danish": "Jeg er stolt af mig, for jeg dukkede op.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905994"
+    },
+    {
+      "english": "Let gratitude be your daily habit.",
+      "danish": "Lad taknemmelighed blive din daglige vane.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905996"
+    },
+    {
+      "english": "I give myself credit, I’m doing fine.",
+      "danish": "Jeg giver mig selv ros, jeg klarer det.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.905998"
+    },
+    {
+      "english": "Keep your head up, good things are coming.",
+      "danish": "Hold hovedet højt, gode ting er på vej.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906001"
+    },
+    {
+      "english": "This moment is a gift, I see it.",
+      "danish": "Det her øjeblik er en gave, jeg ser det.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906003"
+    },
+    {
+      "english": "I’m grateful for honest effort, thank you.",
+      "danish": "Jeg er taknemmelig for ærlig indsats, tak.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906005"
+    },
+    {
+      "english": "Say it out loud, I’m thankful for you.",
+      "danish": "Sig det højt, jeg er taknemmelig for dig.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906008"
+    },
+    {
+      "english": "Good energy in, grateful vibes out.",
+      "danish": "God energi ind, taknemmelige vibes ud.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906010"
+    },
+    {
+      "english": "I appreciate you, you make things lighter.",
+      "danish": "Jeg værdsætter dig, du gør det lettere.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906014"
+    },
+    {
+      "english": "When I pause, gratitude hits me.",
+      "danish": "Når jeg stopper op, rammer taknemmeligheden mig.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906016"
+    },
+    {
+      "english": "I trust the process, and I’m thankful.",
+      "danish": "Jeg stoler på processen, og jeg er taknemmelig.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906021"
+    },
+    {
+      "english": "Let gratitude fuel your next step.",
+      "danish": "Brug taknemmelighed som brændstof til næste skridt.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906023"
+    },
+    {
+      "english": "I’m grateful for your honesty, it helps.",
+      "danish": "Jeg er taknemmelig for din ærlighed, det hjælper.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906025"
+    },
+    {
+      "english": "You handled it well, I’m impressed, truly.",
+      "danish": "Du klarede det godt, jeg er imponeret, virkelig.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906028"
+    },
+    {
+      "english": "Be proud, you’re growing, I see it.",
+      "danish": "Vær stolt, du vokser, jeg ser det.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906031"
+    },
+    {
+      "english": "I’m thankful for peace, even in small ways.",
+      "danish": "Jeg er taknemmelig for ro, selv i små ting.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906033"
+    },
+    {
+      "english": "Gratitude makes my mind feel lighter, instantly.",
+      "danish": "Taknemmelighed gør mit hoved lettere, med det samme.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906035"
+    },
+    {
+      "english": "I’m building a grateful mindset, day by day.",
+      "danish": "Jeg bygger en taknemmelig tankegang, dag for dag.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906038"
+    },
+    {
+      "english": "Give praise, it spreads, and it feels good.",
+      "danish": "Giv ros, den smitter, og det føles godt.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906040"
+    },
+    {
+      "english": "I’m grateful for lessons, not just results.",
+      "danish": "Jeg er taknemmelig for læring, ikke kun resultater.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906043"
+    },
+    {
+      "english": "Your support matters, I notice it every time.",
+      "danish": "Din støtte betyder noget, jeg lægger mærke til det.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906045"
+    },
+    {
+      "english": "I’m grateful, because effort counts, always.",
+      "danish": "Jeg er taknemmelig, fordi indsats tæller, altid.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906048"
+    },
+    {
+      "english": "Keep the good, release the stress, right now.",
+      "danish": "Behold det gode, slip stresset, lige nu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906050"
+    },
+    {
+      "english": "I’ll be kind first, gratitude follows naturally.",
+      "danish": "Jeg vælger at være sød først, taknemmelighed følger efter.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906053"
+    },
+    {
+      "english": "Thanks in my heart, I mean it.",
+      "danish": "Tak i mit hjerte, jeg mener det.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906055"
+    },
+    {
+      "english": "I’m grateful, for the honesty I can feel.",
+      "danish": "Jeg er taknemmelig, for den ærlighed jeg kan mærke.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906057"
+    },
+    {
+      "english": "I take a breath, and I notice good.",
+      "danish": "Jeg tager en pause, og jeg lægger mærke til det gode.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906059"
+    },
+    {
+      "english": "Some days are heavy, I still look ahead.",
+      "danish": "Nogle dage er tunge, men jeg kigger fremad.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906062"
+    },
+    {
+      "english": "I’m thankful, even when progress is slow.",
+      "danish": "Jeg er taknemmelig, selv når det går langsomt.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906064"
+    },
+    {
+      "english": "I’m learning to be patient, and grateful.",
+      "danish": "Jeg lærer at være tålmodig, og taknemmelig.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906066"
+    },
+    {
+      "english": "I let gratitude soften my worries, a little.",
+      "danish": "Jeg lader taknemmeligheden mildne mine bekymringer, en smule.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906069"
+    },
+    {
+      "english": "My heart opens, because I feel cared for.",
+      "danish": "Mit hjerte åbner sig, fordi jeg føler mig passet godt.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906071"
+    },
+    {
+      "english": "I don’t rush feelings, I appreciate them.",
+      "danish": "Jeg skynder mig ikke, jeg værdsætter dem.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906079"
+    },
+    {
+      "english": "I’m thankful for the reset, when I stumble.",
+      "danish": "Jeg er taknemmelig for genstarten, når jeg snubler.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906081"
+    },
+    {
+      "english": "Quiet moments, bring my gratitude back.",
+      "danish": "Stille øjeblikke, bringer min taknemmelighed tilbage.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906083"
+    },
+    {
+      "english": "I’m grateful, for lessons that change me.",
+      "danish": "Jeg er taknemmelig, for lærdom der ændrer mig.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906085"
+    },
+    {
+      "english": "I value small kindness, it means a lot.",
+      "danish": "Jeg værdsætter små venligheder, de betyder meget.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906089"
+    },
+    {
+      "english": "When I’m honest, gratitude comes more easily.",
+      "danish": "Når jeg er ærlig, kommer taknemmeligheden lettere.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906092"
+    },
+    {
+      "english": "I notice effort, not perfection, and I’m grateful.",
+      "danish": "Jeg ser indsatsen, ikke perfektion, og jeg er taknemmelig.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906095"
+    },
+    {
+      "english": "I’m grateful, I can handle another day.",
+      "danish": "Jeg er taknemmelig, jeg kan klare en dag til.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906097"
+    },
+    {
+      "english": "I let gratitude sit with me, longer.",
+      "danish": "Jeg lader taknemmeligheden blive hos mig, lidt længere.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906101"
+    },
+    {
+      "english": "Even doubts, I’m thankful for the growth.",
+      "danish": "Selv tvivl, jeg er taknemmelig for udviklingen.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906103"
+    },
+    {
+      "english": "I’m grateful for calm, when life gets loud.",
+      "danish": "Jeg er taknemmelig for ro, når livet larmer.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906106"
+    },
+    {
+      "english": "I’m not perfect, but I’m grateful I try.",
+      "danish": "Jeg er ikke perfekt, men jeg er taknemmelig for mit forsøg.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906108"
+    },
+    {
+      "english": "I appreciate support, when I need space too.",
+      "danish": "Jeg værdsætter støtte, også når jeg har brug for plads.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906110"
+    },
+    {
+      "english": "I’m grateful for timing, even if it’s delayed.",
+      "danish": "Jeg er taknemmelig for timingen, selv når den er forsinket.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906113"
+    },
+    {
+      "english": "I choose honesty, and I feel thankful.",
+      "danish": "Jeg vælger ærlighed, og så føler jeg mig taknemmelig.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906115"
+    },
+    {
+      "english": "I’m grateful for boundaries, they protect my peace.",
+      "danish": "Jeg er taknemmelig for grænser, de beskytter min ro.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906118"
+    },
+    {
+      "english": "I remember kindness, and it steadies me.",
+      "danish": "Jeg husker venlighed, og det gør mig rolig.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906120"
+    },
+    {
+      "english": "I’m grateful, for the courage to start again.",
+      "danish": "Jeg er taknemmelig, for modet til at starte igen.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906123"
+    },
+    {
+      "english": "I don’t ignore pain, I honor it.",
+      "danish": "Jeg ignorerer ikke smerten, jeg anerkender den.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906125"
+    },
+    {
+      "english": "With patience, gratitude feels real, not forced.",
+      "danish": "Med tålmodighed føles taknemmeligheden ægte, ikke tvunget.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906128"
+    },
+    {
+      "english": "I’m grateful for today’s small progress, truly.",
+      "danish": "Jeg er taknemmelig for dagens små fremskridt, virkelig.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906130"
+    },
+    {
+      "english": "I trust myself, and I’m grateful I’m here.",
+      "danish": "Jeg stoler på mig selv, og jeg er taknemmelig for at være her.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906133"
+    },
+    {
+      "english": "Thanks for showing up, even late.",
+      "danish": "Tak fordi du kom, selvom du er sen.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906135"
+    },
+    {
+      "english": "Before I speak, I say thanks first.",
+      "danish": "Før jeg taler, siger jeg tak først.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906137"
+    },
+    {
+      "english": "I’m grateful, coffee helps, seriously.",
+      "danish": "Jeg er taknemmelig, kaffe hjælper, seriøst.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-09T11:15:58.906140"
     }
   ],
-  "last_updated": "2026-11-08T10:06:03.674024"
+  "last_updated": "2026-11-09T11:15:58.906142"
 }
