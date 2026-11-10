@@ -16559,7 +16559,727 @@
       "danish": "Jeg er taknemmelig, kaffe hjælper, seriøst.",
       "category": "Gratitude",
       "generated_at": "2026-11-09T11:15:58.906140"
+    },
+    {
+      "english": "Hi, can I get a latte to-go?",
+      "danish": "Hej, kan jeg få en latte med hjem?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810074"
+    },
+    {
+      "english": "One coffee, please, and no sugar today.",
+      "danish": "En kaffe, tak, og ingen sukker i dag.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810090"
+    },
+    {
+      "english": "What pastries are fresh right now?",
+      "danish": "Hvilke kager er friske lige nu?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810093"
+    },
+    {
+      "english": "Do you have oat milk, by any chance?",
+      "danish": "Har I havremælk, hvis ikke det er et problem?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810095"
+    },
+    {
+      "english": "Great, I’ll take that one then.",
+      "danish": "Fedt, så tager jeg den her.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810097"
+    },
+    {
+      "english": "Wait, how much is the cinnamon roll?",
+      "danish": "Vent, hvad koster kanelsneglen?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810099"
+    },
+    {
+      "english": "Yes please, make it extra hot.",
+      "danish": "Ja tak, gør den ekstra varm.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810101"
+    },
+    {
+      "english": "Sorry, I’m just browsing, thanks.",
+      "danish": "Undskyld, jeg kigger bare, tak.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810105"
+    },
+    {
+      "english": "That smells amazing, wow!",
+      "danish": "Det dufter helt vildt, wow!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810108"
+    },
+    {
+      "english": "Can I sit here for a bit?",
+      "danish": "Må jeg sidde her et øjeblik?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810109"
+    },
+    {
+      "english": "Just a quick question, is it vegan?",
+      "danish": "Kun lige et spørgsmål, er den vegansk?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810111"
+    },
+    {
+      "english": "I’ll try the special of the day.",
+      "danish": "Jeg prøver dagens special.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810114"
+    },
+    {
+      "english": "Can I get a refill on coffee?",
+      "danish": "Kan jeg få påfyldning af kaffe?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810116"
+    },
+    {
+      "english": "No worries, I’ll order in a minute.",
+      "danish": "Bare rolig, jeg bestiller om et øjeblik.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810120"
+    },
+    {
+      "english": "Nice, that’s exactly what I wanted.",
+      "danish": "Fedt, det er præcis det, jeg ville have.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810123"
+    },
+    {
+      "english": "Do you take card, or cash only?",
+      "danish": "Tager I kort, eller kun kontanter?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810124"
+    },
+    {
+      "english": "One minute, please, I’m choosing.",
+      "danish": "Bare et minut, tak, jeg vælger.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810127"
+    },
+    {
+      "english": "Oof, that’s hot, let me wait.",
+      "danish": "Av, den er varm, jeg venter lige.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810129"
+    },
+    {
+      "english": "Can I get it less sweet, please?",
+      "danish": "Kan jeg få den mindre sød, tak?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810131"
+    },
+    {
+      "english": "Is the cake homemade, like, today?",
+      "danish": "Er kagen hjemmelavet, i dag?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810133"
+    },
+    {
+      "english": "Oh wow, this is so fluffy!",
+      "danish": "Åh, hold da op, den er så luftig!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810134"
+    },
+    {
+      "english": "Do you have anything fresh without eggs?",
+      "danish": "Har I noget frisk uden æg?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810136"
+    },
+    {
+      "english": "Thanks, I’ll take it, sounds perfect.",
+      "danish": "Tak, jeg tager den, det lyder perfekt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810138"
+    },
+    {
+      "english": "Where’s the menu, it’s my first time.",
+      "danish": "Hvor er menukortet, det er første gang.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810140"
+    },
+    {
+      "english": "Quick, what’s the most popular pastry?",
+      "danish": "Hvad er den mest populære kage?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810142"
+    },
+    {
+      "english": "Sorry, I changed my mind, actually.",
+      "danish": "Undskyld, jeg ombestemmer mig lige nu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810143"
+    },
+    {
+      "english": "Can I get the receipt, please?",
+      "danish": "Kan jeg få en kvittering, tak?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810146"
+    },
+    {
+      "english": "That was fast, thanks for the service.",
+      "danish": "Det gik hurtigt, tak for hjælpen.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810148"
+    },
+    {
+      "english": "I’ll eat here, the smell is too good.",
+      "danish": "Jeg spiser her, det dufter for godt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810150"
+    },
+    {
+      "english": "Which pastry is best with coffee here?",
+      "danish": "Hvilken kage er bedst til kaffe her?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810152"
+    },
+    {
+      "english": "Is it possible to make it mild?",
+      "danish": "Kan man få den mildere, hvis jeg vil?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810213"
+    },
+    {
+      "english": "What do you recommend for a sweet tooth?",
+      "danish": "Hvad anbefaler du til en sød tand?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810215"
+    },
+    {
+      "english": "Is the bread warm, or just baked?",
+      "danish": "Er brødet varmt, eller lige bagt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810218"
+    },
+    {
+      "english": "Do you sell gift boxes, by any chance?",
+      "danish": "Sælger I gaveæsker, måske?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810219"
+    },
+    {
+      "english": "Can I ask what’s in the filling?",
+      "danish": "Må jeg spørge, hvad der er i fyldet?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810222"
+    },
+    {
+      "english": "Do you have anything lactose-free?",
+      "danish": "Har I noget laktosefrit?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810225"
+    },
+    {
+      "english": "How long do the pastries stay fresh?",
+      "danish": "Hvor længe holder de her bagværk frisk?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810227"
+    },
+    {
+      "english": "Could you suggest something not too sweet?",
+      "danish": "Kan du foreslå noget ikke for sødt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810228"
+    },
+    {
+      "english": "Is there a seasonal drink you’d pick?",
+      "danish": "Er der en sæsondrik, du ville vælge?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810230"
+    },
+    {
+      "english": "What’s the signature bun here, exactly?",
+      "danish": "Hvad er jeres signaturbolle, helt præcist?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810233"
+    },
+    {
+      "english": "Do you have decaf coffee available?",
+      "danish": "Har I koffeinfri kaffe?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810234"
+    },
+    {
+      "english": "Can I swap the topping for almonds?",
+      "danish": "Kan jeg bytte topping til mandler?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810236"
+    },
+    {
+      "english": "Is the jam made in-house, today?",
+      "danish": "Er syltetøjet lavet her, i dag?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810238"
+    },
+    {
+      "english": "What time do you restock the croissants?",
+      "danish": "Hvornår fylder I croissanter på igen?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810239"
+    },
+    {
+      "english": "Do you have a kids’ option, not too strong?",
+      "danish": "Har I noget til børn, ikke så stærkt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810241"
+    },
+    {
+      "english": "Can I get it with extra cinnamon?",
+      "danish": "Kan jeg få den med ekstra kanel?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810243"
+    },
+    {
+      "english": "Which cake sells out the fastest?",
+      "danish": "Hvilken kage ryger hurtigst?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810245"
+    },
+    {
+      "english": "Are your pastries served cold or warm?",
+      "danish": "Serverer I jeres kager kolde eller varme?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810246"
+    },
+    {
+      "english": "Do you have coffee flights, like tasting?",
+      "danish": "Har I smagsprøver på kaffe?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810248"
+    },
+    {
+      "english": "What’s the wait time for fresh bakes?",
+      "danish": "Hvor lang er ventetiden for frisk bagning?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810250"
+    },
+    {
+      "english": "If I’m allergic, who can I ask?",
+      "danish": "Hvis jeg er allergisk, hvem kan jeg spørge?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810252"
+    },
+    {
+      "english": "Do you have a take-away breakfast set?",
+      "danish": "Sælger I morgenmad som take-away?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810254"
+    },
+    {
+      "english": "Could I see the ingredients list, please?",
+      "danish": "Kan jeg få ingredienslisten, tak?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810255"
+    },
+    {
+      "english": "Is there something vegan you truly like?",
+      "danish": "Er der noget vegansk, du selv kan lide?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810257"
+    },
+    {
+      "english": "What’s the best drink for chocolate cravings?",
+      "danish": "Hvad er bedst at drikke til chokolade-længsel?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810259"
+    },
+    {
+      "english": "Do you mind if I taste a small bite?",
+      "danish": "Må jeg smage en lille bid, hvis det er okay?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810261"
+    },
+    {
+      "english": "Can I preorder pastries for tomorrow morning?",
+      "danish": "Kan jeg forudbestille wienerbrød til i morgen?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810267"
+    },
+    {
+      "english": "Nice choice, that smell is amazing here.",
+      "danish": "Godt valg, den duft er helt fantastisk her.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810269"
+    },
+    {
+      "english": "Relax, you’re doing great, enjoy your day.",
+      "danish": "Slap af, du gør det rigtig godt, nyd din dag.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810272"
+    },
+    {
+      "english": "Try it first, then decide, okay?",
+      "danish": "Prøv den først, så bestemmer du bagefter, okay?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810274"
+    },
+    {
+      "english": "Keep it simple, warm pastry, good coffee.",
+      "danish": "Hold det enkelt, varm bolle, god kaffe.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810276"
+    },
+    {
+      "english": "You’re not late, the fresh batch is coming.",
+      "danish": "Du er ikke for sent, den friske portion kommer snart.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810278"
+    },
+    {
+      "english": "Small treat, big mood, you deserve it.",
+      "danish": "Lille forkælelse, stor stemning, det fortjener du.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810280"
+    },
+    {
+      "english": "It’s okay to be picky, you’ll find it.",
+      "danish": "Det er helt okay at være kræsen, du finder noget.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810283"
+    },
+    {
+      "english": "Nice and warm, that’s exactly what I needed.",
+      "danish": "Dejligt varmt, det var præcis det, jeg manglede.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810285"
+    },
+    {
+      "english": "Remember, slow sips taste better, trust me.",
+      "danish": "Husk, langsomme slurke smager bedre, stol på mig.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810287"
+    },
+    {
+      "english": "Good energy, great bakery days, let’s go.",
+      "danish": "God energi, gode bagedage, så kører vi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810289"
+    },
+    {
+      "english": "You’ll love it, it’s fresh and balanced.",
+      "danish": "Du kommer til at elske den, frisk og balanceret.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810293"
+    },
+    {
+      "english": "No pressure, just pick what looks good.",
+      "danish": "Ingen stress, vælg bare det, der ser godt ud.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810295"
+    },
+    {
+      "english": "Great job, you chose something new today.",
+      "danish": "Super, du valgte noget nyt i dag.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810297"
+    },
+    {
+      "english": "Stay positive, your coffee moment matters.",
+      "danish": "Bliv positiv, din kaffe-moments betyder noget.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810299"
+    },
+    {
+      "english": "You’re learning fast, that’s a real win.",
+      "danish": "Du lærer hurtigt, det er virkelig en sejr.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810301"
+    },
+    {
+      "english": "Don’t worry, we’ll get it sorted for you.",
+      "danish": "Bare rolig, vi finder ud af det for dig.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810305"
+    },
+    {
+      "english": "That looks so good, go ahead and smile.",
+      "danish": "Det ser så lækkert ud, gå du bare og smil.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810307"
+    },
+    {
+      "english": "Keep going, you’ve got taste, trust yourself.",
+      "danish": "Bliv ved, du har god smag, stol på dig selv.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810311"
+    },
+    {
+      "english": "Awesome, thanks for explaining it clearly.",
+      "danish": "Fedt, tak fordi du forklarede det så klart.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810313"
+    },
+    {
+      "english": "Every bite counts, enjoy the little moments.",
+      "danish": "Hver bid tæller, nyd de små øjeblikke.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810315"
+    },
+    {
+      "english": "It’s okay to start with the classic, really.",
+      "danish": "Det er helt okay at starte med det klassiske, virkelig.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810317"
+    },
+    {
+      "english": "You’re making progress, Danish words are sticking.",
+      "danish": "Du rykker dig, danske ord sidder fast.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810319"
+    },
+    {
+      "english": "Nice suggestion, I’ll try that next time.",
+      "danish": "Godt forslag, jeg prøver den næste gang.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810322"
+    },
+    {
+      "english": "Today’s your day, enjoy the bakery vibe.",
+      "danish": "Det er din dag i dag, nyd bagerstemningen.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810324"
+    },
+    {
+      "english": "No need to rush, take your time.",
+      "danish": "Du behøver ikke skynde dig, tag den med ro.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810325"
+    },
+    {
+      "english": "Good call, that pairing feels perfectly balanced.",
+      "danish": "Godt valg, den kombi sidder helt perfekt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810327"
+    },
+    {
+      "english": "You’re doing better than you think, keep going.",
+      "danish": "Du gør det bedre end du tror, bliv ved.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810329"
+    },
+    {
+      "english": "Cheers to you, enjoy your coffee break.",
+      "danish": "Skål for dig, nyd din kaffe-pause.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810331"
+    },
+    {
+      "english": "Honestly, I needed quiet today, a warm cup helps.",
+      "danish": "Ærligt talt, jeg trængte til ro i dag, en varm kop hjælper.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810333"
+    },
+    {
+      "english": "I like to pause here, even between meetings.",
+      "danish": "Jeg kan godt lide at holde pause her, selv mellem møder.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810335"
+    },
+    {
+      "english": "Some days, sweet is my way to breathe.",
+      "danish": "Nogle dage er det sødt, der får mig til at trække vejret.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810337"
+    },
+    {
+      "english": "I’m not rushing, I just want comfort and coffee.",
+      "danish": "Jeg har ikke travlt, jeg vil bare have tryghed og kaffe.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810339"
+    },
+    {
+      "english": "To be real, I’m having a rough morning.",
+      "danish": "For at være ærlig, jeg har en hård morgen.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810341"
+    },
+    {
+      "english": "Could I take my time, I’m overthinking today?",
+      "danish": "Må jeg tage mig tid, jeg overtænker i dag?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810343"
+    },
+    {
+      "english": "I love how pastries feel, like a small promise.",
+      "danish": "Jeg elsker, hvordan dejen føles, som et lille løfte.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810345"
+    },
+    {
+      "english": "I’m choosing slow today, one sip at a time.",
+      "danish": "Jeg vælger roligt i dag, ét kys ad gangen.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810347"
+    },
+    {
+      "english": "I don’t need perfect, just something sincere.",
+      "danish": "Jeg behøver ikke perfekt, bare noget oprigtigt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810349"
+    },
+    {
+      "english": "Honestly, I’m chasing cozy, not caffeine.",
+      "danish": "Ærligt, jeg jagter bare hygge, ikke bare koffein.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810352"
+    },
+    {
+      "english": "Can I sit a bit longer, if it’s quiet?",
+      "danish": "Kan jeg blive lidt længere, hvis der er ro?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810354"
+    },
+    {
+      "english": "I want my drink to match my mood today.",
+      "danish": "Jeg vil have min drik til at passe til mit humør i dag.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810356"
+    },
+    {
+      "english": "Sometimes I come in tired, leave lighter.",
+      "danish": "Nogle gange kommer jeg ind træt, går ud lettere.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810358"
+    },
+    {
+      "english": "I’m learning to be patient, even with cravings.",
+      "danish": "Jeg lærer at være tålmodig, også med cravings.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810361"
+    },
+    {
+      "english": "That smell calms me down, it’s strange but true.",
+      "danish": "Den duft gør mig rolig, det er mærkeligt, men sandt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810363"
+    },
+    {
+      "english": "If I’m honest, I’m proud I’m showing up.",
+      "danish": "Hvis jeg skal være ærlig, er jeg stolt af at møde op.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810366"
+    },
+    {
+      "english": "I don’t want to rush, I want to enjoy.",
+      "danish": "Jeg vil ikke skynde mig, jeg vil bare nyde.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810368"
+    },
+    {
+      "english": "I’m okay with waiting, I trust fresh bakes.",
+      "danish": "Jeg har det fint med at vente, jeg stoler på friske bagerier.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810370"
+    },
+    {
+      "english": "Today I need warmth, not big talk.",
+      "danish": "I dag har jeg brug for varme, ikke store snakke.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810373"
+    },
+    {
+      "english": "I’m taking one bite, then I’ll breathe again.",
+      "danish": "Jeg tager én bid, så trækker jeg vejret igen.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810375"
+    },
+    {
+      "english": "This place feels safe, like a soft reset button.",
+      "danish": "Her føler jeg mig tryg, som en blød nulstillingsknap.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810377"
+    },
+    {
+      "english": "I’m trying to slow down, one pastry at once.",
+      "danish": "Jeg prøver at sænke farten, én kage ad gangen.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810379"
+    },
+    {
+      "english": "It’s fine if I choose wrong, no big deal.",
+      "danish": "Det er okay, hvis jeg vælger forkert, det gør ingenting.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810381"
+    },
+    {
+      "english": "I want something simple, but emotionally comforting.",
+      "danish": "Jeg vil gerne have noget enkelt, men følelsesmæssigt trygt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810383"
+    },
+    {
+      "english": "Honestly, your bakery feels like a hug.",
+      "danish": "Ærligt, dit bageri føles som et kram.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810385"
+    },
+    {
+      "english": "I’m grateful, even for small, daily treats.",
+      "danish": "Jeg er taknemmelig, også for små daglige lækkerier.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810387"
+    },
+    {
+      "english": "I’ll be patient, good things taste better.",
+      "danish": "Jeg venter gerne, gode ting smager bedre.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810389"
+    },
+    {
+      "english": "Right now, I just need a steady moment.",
+      "danish": "Lige nu har jeg bare brug for et roligt øjeblik.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810390"
+    },
+    {
+      "english": "I’m listening to my body, it wants cozy.",
+      "danish": "Jeg lytter til min krop, den vil have hygge.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810392"
+    },
+    {
+      "english": "Let’s keep it real, I’m celebrating being here.",
+      "danish": "Lad os holde det ægte, jeg fejrer, at jeg er her.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810395"
+    },
+    {
+      "english": "Can I get it to go, please?",
+      "danish": "Kan jeg få det med hjem, tak?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810396"
+    },
+    {
+      "english": "Just a small latte, not too sweet.",
+      "danish": "Bare en lille latte, ikke for sød.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810398"
+    },
+    {
+      "english": "Is the cinnamon roll fresh, today?",
+      "danish": "Er kanelrullen frisk i dag?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810400"
+    },
+    {
+      "english": "I’ll wait, I don’t mind the line.",
+      "danish": "Jeg venter gerne, jeg har ikke travlt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810402"
+    },
+    {
+      "english": "Where do I pay, at the counter?",
+      "danish": "Hvor betaler jeg, ved kassen?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:57:53.810404"
     }
   ],
-  "last_updated": "2026-11-09T11:15:58.906142"
+  "last_updated": "2026-11-10T10:57:53.810407"
 }
