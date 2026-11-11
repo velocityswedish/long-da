@@ -17279,7 +17279,727 @@
       "danish": "Hvor betaler jeg, ved kassen?",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-10T10:57:53.810404"
+    },
+    {
+      "english": "Awesome, are we meeting now?",
+      "danish": "Fedt, mødes vi nu?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868762"
+    },
+    {
+      "english": "Hey, what’s the plan for tonight?",
+      "danish": "Hey, hvad er planen i aften?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868778"
+    },
+    {
+      "english": "Nice, thanks for inviting me!",
+      "danish": "Super, tak fordi du inviterer mig!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868782"
+    },
+    {
+      "english": "Cool, I’ll bring snacks, okay?",
+      "danish": "Fedt, jeg tager snacks med, okay?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868786"
+    },
+    {
+      "english": "Great, I’m already on my way!",
+      "danish": "Super, jeg er allerede på vej!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868789"
+    },
+    {
+      "english": "Wait, are we starting in ten minutes?",
+      "danish": "Vent, starter vi om ti minutter?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868793"
+    },
+    {
+      "english": "Oh wow, that looks amazing!",
+      "danish": "Åh, hvor ser det vildt ud!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868796"
+    },
+    {
+      "english": "Sweet, let’s celebrate right now!",
+      "danish": "Skarpt, lad os fejre nu!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868802"
+    },
+    {
+      "english": "Sorry I’m late, traffic was bad.",
+      "danish": "Undskyld, jeg er forsinket, trafikken var hård.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868806"
+    },
+    {
+      "english": "No problem, come in, we’re ready!",
+      "danish": "Ingen problemer, kom ind, vi er klar!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868809"
+    },
+    {
+      "english": "Quick question, where’s the bathroom?",
+      "danish": "Hurtigt spørgsmål, hvor er toilettet?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868813"
+    },
+    {
+      "english": "Are drinks included, or should I bring?",
+      "danish": "Er der drikkevarer med, eller skal jeg tage?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868816"
+    },
+    {
+      "english": "Wow, this music is so good!",
+      "danish": "Wauw, den musik er virkelig fed!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868819"
+    },
+    {
+      "english": "Cheers, have a great party!",
+      "danish": "Skål, hav en rigtig god fest!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868822"
+    },
+    {
+      "english": "Sounds perfect, I’m in!",
+      "danish": "Det lyder perfekt, jeg er med!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868825"
+    },
+    {
+      "english": "How’s it going, is everything okay?",
+      "danish": "Hvordan går det, er alt i orden?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868828"
+    },
+    {
+      "english": "I’m so excited for this!",
+      "danish": "Jeg glæder mig helt vildt!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868833"
+    },
+    {
+      "english": "Can I help with anything?",
+      "danish": "Kan jeg hjælpe med noget?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868836"
+    },
+    {
+      "english": "Sure, grab a drink, make yourself at home.",
+      "danish": "Selvfølgelig, tag en drik, gør dig hjemme.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868839"
+    },
+    {
+      "english": "Oh no, did we miss something?",
+      "danish": "Åh nej, nåede vi det ikke?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868842"
+    },
+    {
+      "english": "Should I wear something fancy?",
+      "danish": "Skal jeg have noget pænt på?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868844"
+    },
+    {
+      "english": "That was a great moment, wow!",
+      "danish": "Det der var et virkelig flot øjeblik!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868848"
+    },
+    {
+      "english": "Stay safe, call me when you get home.",
+      "danish": "Pas på, ring til mig når du er hjemme.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868851"
+    },
+    {
+      "english": "I’ll text you the address, okay?",
+      "danish": "Jeg sender dig adressen, okay?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868854"
+    },
+    {
+      "english": "Can we get going, I’m hungry!",
+      "danish": "Kan vi komme i gang, jeg er sulten!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868857"
+    },
+    {
+      "english": "Let’s take a photo, quick!",
+      "danish": "Lad os tage et billede, hurtigt!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868861"
+    },
+    {
+      "english": "I’m gonna toast, everyone listen!",
+      "danish": "Jeg holder en skål, alle lytter!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868864"
+    },
+    {
+      "english": "Wait, what time do we leave?",
+      "danish": "Vent, hvornår skal vi gå?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868866"
+    },
+    {
+      "english": "Thanks for everything, we had fun!",
+      "danish": "Tak for det hele, vi hyggede os!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868869"
+    },
+    {
+      "english": "What time should we arrive, roughly?",
+      "danish": "Hvad tid skal vi ankomme, cirka?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868872"
+    },
+    {
+      "english": "Do we need tickets, or is it free?",
+      "danish": "Skal vi have billetter, eller er det gratis?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868875"
+    },
+    {
+      "english": "Can you recommend something to bring?",
+      "danish": "Kan du anbefale noget, jeg kan tage med?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868878"
+    },
+    {
+      "english": "Which food do you want me to handle?",
+      "danish": "Hvad vil du helst have, at jeg tager mig af?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868880"
+    },
+    {
+      "english": "Are kids welcome, is there a cutoff age?",
+      "danish": "Må børnene komme, og er der en aldersgrænse?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868883"
+    },
+    {
+      "english": "What’s the dress code for tonight?",
+      "danish": "Hvad er dresscoden til i aften?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868886"
+    },
+    {
+      "english": "Do you want a gift, or just good vibes?",
+      "danish": "Vil du have en gave, eller er det nok med os?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868889"
+    },
+    {
+      "english": "Should I bring a bottle, or not?",
+      "danish": "Skal jeg tage en flaske med, eller ikke?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868892"
+    },
+    {
+      "english": "How long will the party last, roughly?",
+      "danish": "Hvor længe varer festen, cirka?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868894"
+    },
+    {
+      "english": "Where do we put coats and bags?",
+      "danish": "Hvor kan vi hænge jakker og lægge tasker?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868897"
+    },
+    {
+      "english": "Is there parking nearby, or should we walk?",
+      "danish": "Er der parkering i nærheden, eller skal vi gå?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868900"
+    },
+    {
+      "english": "What time do people usually arrive?",
+      "danish": "Hvornår plejer folk at komme?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868902"
+    },
+    {
+      "english": "Do you prefer a quiet corner, or mingle?",
+      "danish": "Vil du helst have en stille krog, eller snakke?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868905"
+    },
+    {
+      "english": "Can I bring a plus one, by the way?",
+      "danish": "Må jeg tage en ekstra med, hvis det er okay?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868907"
+    },
+    {
+      "english": "Should we bring our own drinks, just in case?",
+      "danish": "Skal vi tage vores egne drikke med, bare for en sikkerheds skyld?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868910"
+    },
+    {
+      "english": "What’s the best way to congratulate you?",
+      "danish": "Hvad er den bedste måde at sige tillykke på?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868913"
+    },
+    {
+      "english": "Who’s in charge of the music playlist?",
+      "danish": "Hvem har ansvaret for musik-playlisten?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868916"
+    },
+    {
+      "english": "Is there a schedule, or is it relaxed?",
+      "danish": "Er der en plan, eller er det mere afslappet?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868919"
+    },
+    {
+      "english": "Can we do a quick toast, at what time?",
+      "danish": "Hvornår kan vi tage en hurtig skål?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868922"
+    },
+    {
+      "english": "Do you want help setting up, right now?",
+      "danish": "Har du brug for hjælp til at sætte op lige nu?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868924"
+    },
+    {
+      "english": "What do you prefer, sweet or salty snacks?",
+      "danish": "Hvad foretrækker du, sødt eller salt snacks?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868929"
+    },
+    {
+      "english": "Is it okay if I arrive a bit late?",
+      "danish": "Er det okay, hvis jeg kommer lidt senere?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868932"
+    },
+    {
+      "english": "Should I RSVP today, or later?",
+      "danish": "Skal jeg RSVP’e i dag, eller senere?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868934"
+    },
+    {
+      "english": "Where can I sit, if I need a break?",
+      "danish": "Hvor kan jeg sætte mig, hvis jeg skal puste ud?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868937"
+    },
+    {
+      "english": "Do you have any allergies we should know?",
+      "danish": "Har I nogen allergier, vi skal tage højde for?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868939"
+    },
+    {
+      "english": "What’s the main theme for the night?",
+      "danish": "Hvad er temaet for aftenen?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868942"
+    },
+    {
+      "english": "Can we switch to calmer music later?",
+      "danish": "Kan vi skifte til roligere musik senere?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868945"
+    },
+    {
+      "english": "Who should I thank, once we’re done?",
+      "danish": "Hvem skal jeg takke, når vi er færdige?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868950"
+    },
+    {
+      "english": "Is there cake, or do we do something else?",
+      "danish": "Er der kage, eller laver vi noget andet?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868953"
+    },
+    {
+      "english": "What’s the plan if it rains tomorrow?",
+      "danish": "Hvad er planen, hvis det regner i morgen?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868955"
+    },
+    {
+      "english": "You’re doing great, keep the good energy.",
+      "danish": "Du gør det rigtig godt, fortsæt med den energi.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868961"
+    },
+    {
+      "english": "Tonight, let’s celebrate small wins too.",
+      "danish": "I aften fejrer vi også små sejre.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868964"
+    },
+    {
+      "english": "Take a breath, it’ll feel easy soon.",
+      "danish": "Tag en dyb indånding, det føles snart nemt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868967"
+    },
+    {
+      "english": "Be proud, you made this happen.",
+      "danish": "Vær stolt, du fik det til at ske.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868971"
+    },
+    {
+      "english": "Good vibes only, we’ve got this.",
+      "danish": "Kun gode vibes, vi klare den.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868976"
+    },
+    {
+      "english": "Say it out loud, you deserve the cheers.",
+      "danish": "Sig det højt, du fortjener bifald.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868979"
+    },
+    {
+      "english": "Relax, enjoy the moment, that’s the point.",
+      "danish": "Slap af, nyd øjeblikket, det er meningen.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868993"
+    },
+    {
+      "english": "You bring the warmth, it shows.",
+      "danish": "Du bringer varmen, det kan ses.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.868996"
+    },
+    {
+      "english": "Let’s make it fun, no overthinking.",
+      "danish": "Lad os gøre det sjovt, lad være at tænke for meget.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869000"
+    },
+    {
+      "english": "Today you shine, keep going, you’ve got it.",
+      "danish": "I dag stråler du, bliv ved, du kan godt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869004"
+    },
+    {
+      "english": "Celebrate anyway, even if it’s messy.",
+      "danish": "Fejr alligevel, også selvom det er lidt rodet.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869007"
+    },
+    {
+      "english": "Your smile changes the whole room.",
+      "danish": "Dit smil ændrer hele rummet.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869009"
+    },
+    {
+      "english": "We’re here now, that’s enough for tonight.",
+      "danish": "Vi er her nu, det er nok for i aften.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869013"
+    },
+    {
+      "english": "Make it count, each laugh is a win.",
+      "danish": "Gør det til noget, hvert grin er en sejr.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869016"
+    },
+    {
+      "english": "Trust yourself, you’ll find the right words.",
+      "danish": "Tro på dig selv, du finder de rigtige ord.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869019"
+    },
+    {
+      "english": "We’ve already got the best part going.",
+      "danish": "Vi har allerede den bedste del i gang.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869022"
+    },
+    {
+      "english": "Don’t wait for perfect, start with what you have.",
+      "danish": "Vent ikke på det perfekte, start med det du har.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869026"
+    },
+    {
+      "english": "You’re safe with your people, just be you.",
+      "danish": "Du er tryg med dine, bare vær dig selv.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869029"
+    },
+    {
+      "english": "Give yourself credit, you’ve worked for this.",
+      "danish": "Giv dig selv ros, du har gjort arbejdet.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869033"
+    },
+    {
+      "english": "Let’s cheers to progress, not perfection.",
+      "danish": "Lad os skåle for fremskridt, ikke perfektion.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869036"
+    },
+    {
+      "english": "Good job, this party feels like home.",
+      "danish": "Godt gået, det føles som hjemme.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869039"
+    },
+    {
+      "english": "Keep it light, kind words go far.",
+      "danish": "Hold det let, venlige ord rækker langt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869041"
+    },
+    {
+      "english": "Your presence matters, thank you for showing up.",
+      "danish": "Din tilstedeværelse betyder noget, tak fordi du kom.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869047"
+    },
+    {
+      "english": "Today’s goal, make someone’s day better.",
+      "danish": "Dagens mål, gør nogen en lille smule bedre.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869050"
+    },
+    {
+      "english": "Small compliment, big effect, go for it.",
+      "danish": "En lille kompliment, stor effekt, gør det.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869053"
+    },
+    {
+      "english": "Be brave, join in, no one will judge you.",
+      "danish": "Vær modig, vær med, ingen dømmer dig.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869057"
+    },
+    {
+      "english": "You’ve earned this, enjoy every second.",
+      "danish": "Du har fortjent det her, nyd hvert sekund.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869060"
+    },
+    {
+      "english": "Stay positive, we’ll laugh through it.",
+      "danish": "Hold hovedet koldt, vi griner os igennem.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869063"
+    },
+    {
+      "english": "Let’s be thankful, good people, good times.",
+      "danish": "Lad os være taknemmelige, gode mennesker, gode tider.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869066"
+    },
+    {
+      "english": "You’re amazing, and you deserve this celebration.",
+      "danish": "Du er fantastisk, og du fortjener den her fejring.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869069"
+    },
+    {
+      "english": "Honestly, I’m feeling a little nervous today, but excited.",
+      "danish": "Ærligt talt, jeg er lidt nervøs i dag, men glad.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869073"
+    },
+    {
+      "english": "Take your time, we don’t have to rush.",
+      "danish": "Tag dig tid, vi behøver ikke at skynde os.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869077"
+    },
+    {
+      "english": "I’m grateful you came, it means a lot to me.",
+      "danish": "Jeg er taknemmelig for, at du kom, det betyder meget.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869080"
+    },
+    {
+      "english": "This matters to me, so please be patient.",
+      "danish": "Det her betyder noget for mig, så vær tålmodig.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869083"
+    },
+    {
+      "english": "I just want it to feel real, not forced.",
+      "danish": "Jeg vil bare have, det føles ægte, ikke tvunget.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869086"
+    },
+    {
+      "english": "Let’s check in, how are you feeling right now?",
+      "danish": "Lad os lige høre, hvordan har du det lige nu?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869089"
+    },
+    {
+      "english": "I’m proud of us, we made room for joy.",
+      "danish": "Jeg er stolt af os, vi skabte plads til glæde.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869092"
+    },
+    {
+      "english": "Sometimes I need a quiet moment, and that’s okay.",
+      "danish": "Nogle gange har jeg brug for et stille øjeblik, og det er ok.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869095"
+    },
+    {
+      "english": "I’m trying to stay present, even with everything going on.",
+      "danish": "Jeg prøver at være til stede, selvom der sker meget.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869099"
+    },
+    {
+      "english": "No pressure, we can keep it simple tonight.",
+      "danish": "Ingen pres, vi kan holde det enkelt i aften.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869102"
+    },
+    {
+      "english": "I hope you feel seen, not just included.",
+      "danish": "Jeg håber, du føler dig set, ikke kun inviteret.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869104"
+    },
+    {
+      "english": "I mean it, your effort really shows.",
+      "danish": "Jeg mener det, din indsats kan ses tydeligt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869107"
+    },
+    {
+      "english": "If we miss a detail, we’ll laugh anyway.",
+      "danish": "Hvis vi glemmer en detalje, så griner vi bare.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869110"
+    },
+    {
+      "english": "I’m letting go of perfection, and it feels freeing.",
+      "danish": "Jeg slipper perfektionen, og det føles befriende.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869114"
+    },
+    {
+      "english": "Today I want kindness to lead the way.",
+      "danish": "I dag vil jeg have, at venlighed styrer.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869116"
+    },
+    {
+      "english": "We can talk feelings, this party is for that too.",
+      "danish": "Vi kan tale om følelser, det er også en del af festen.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869119"
+    },
+    {
+      "english": "I’m not fine pretending, so I’ll be honest.",
+      "danish": "Jeg gider ikke at spille, så jeg siger det ærligt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869122"
+    },
+    {
+      "english": "Let’s slow down, enjoy the people, not the rush.",
+      "danish": "Lad os sænke tempoet, nyd folkene, ikke jagtet.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869125"
+    },
+    {
+      "english": "I’m grateful for the calm moments between laughs.",
+      "danish": "Jeg er taknemmelig for de rolige øjeblikke imellem grin.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869129"
+    },
+    {
+      "english": "If something’s off, we’ll handle it together.",
+      "danish": "Hvis noget er skævt, så ordner vi det sammen.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869132"
+    },
+    {
+      "english": "I’ll be right here, if you need a moment.",
+      "danish": "Jeg er lige her, hvis du har brug for et øjeblik.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869137"
+    },
+    {
+      "english": "I came to celebrate, but also to reflect.",
+      "danish": "Jeg kom for at fejre, men også for at tænke tilbage.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869141"
+    },
+    {
+      "english": "Let’s keep it heartfelt, not just loud.",
+      "danish": "Lad os holde det oprigtigt, ikke kun højt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869144"
+    },
+    {
+      "english": "I’m learning to ask for help, and that’s progress.",
+      "danish": "Jeg lærer at bede om hjælp, og det er fremskridt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869150"
+    },
+    {
+      "english": "We don’t have to pretend everything is perfect.",
+      "danish": "Vi behøver ikke at foregive, at alt er perfekt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869155"
+    },
+    {
+      "english": "Thank you for listening, I really needed that.",
+      "danish": "Tak fordi du lyttede, det havde jeg virkelig brug for.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869158"
+    },
+    {
+      "english": "I’m choosing gratitude, even if today’s messy.",
+      "danish": "Jeg vælger taknemmelighed, selv hvis i dag er rodet.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869161"
+    },
+    {
+      "english": "Let’s make space for different moods, always.",
+      "danish": "Lad os gøre plads til forskellige stemninger, altid.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869164"
+    },
+    {
+      "english": "I want to say it clearly, you matter to me.",
+      "danish": "Jeg vil sige det klart, du betyder noget for mig.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869167"
+    },
+    {
+      "english": "If emotions show, that’s human, and it’s welcome.",
+      "danish": "Hvis følelserne kommer frem, så er det menneskeligt, og det er ok.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869172"
+    },
+    {
+      "english": "Bring one small snack, share it if you can",
+      "danish": "Tag en lille snack med, del den gerne",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:41:42.869175"
     }
   ],
-  "last_updated": "2026-11-10T10:57:53.810407"
+  "last_updated": "2026-11-11T10:41:42.869177"
 }
