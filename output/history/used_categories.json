@@ -99,7 +99,39 @@
     {
       "category": "Celebrations & Parties",
       "date": "2020-01-25"
+    },
+    {
+      "category": "Success",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Positive Life",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Friendship",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Mindfulness",
+      "date": "2026-11-12"
     }
   ],
-  "last_updated": "2026-11-12T11:15:14.876732"
+  "last_updated": "2026-11-12T10:52:32.805209"
 }
