@@ -19567,7 +19567,399 @@
       "transliteration": "HvaD er Je res HUSets SPEciALITET?",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-11-15T10:39:17.015953"
+    },
+    {
+      "english": "Can you talk right now?",
+      "danish": "Kan du tale lige nu, tak.",
+      "transliteration": "KAn du TALE LIge NU, TAK.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I’m calling about the booking.",
+      "danish": "Jeg ringer om bookingen.",
+      "transliteration": "JEG RINGER OM BOOKINgen.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Please call me when free.",
+      "danish": "Ring venligst til mig, når du er ledig.",
+      "transliteration": "RING VENligst TIL MIG, NÅR DU ER LEdig.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Sorry, I’m on another call.",
+      "danish": "Undskyld, jeg er i gang med et andet opkald.",
+      "transliteration": "UNDskyld, JEG er i GANG med ET ANdet OPKALD.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I left a voicemail, just now.",
+      "danish": "Jeg lagde en telefonsvarerbesked, lige nu.",
+      "transliteration": "JEG LAGde en TELEfonsvarERbesked, LIGE NU.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "No worries, thanks for calling.",
+      "danish": "Ingen problemer, tak for opkaldet.",
+      "transliteration": "INgen PROblemer, TAK for OPkaldeT.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Can you speak a little slower?",
+      "danish": "Kan du tale lidt langsommere, tak?",
+      "transliteration": "KAn du TALE lidt LANGsomMERE, TAK?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Small joys, big difference.",
+      "danish": "Små glæder, stor forskel.",
+      "transliteration": "SMÅ GLAEDer, STOR FO Rskel",
+      "category": "Happiness",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I feel light, even on busy days.",
+      "danish": "Jeg føler mig let, selv på travle dage.",
+      "transliteration": "JEG FEELer MIG LET, SELV PÅ TRAVLe dage",
+      "category": "Happiness",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Gratitude shows up in my actions.",
+      "danish": "Taknemmelighed viser sig i det, jeg gør.",
+      "transliteration": "TAKnemmelIGHED VIser SIG i det, JEG GO R",
+      "category": "Happiness",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I choose kindness, and it returns.",
+      "danish": "Jeg vælger venlighed, og den kommer tilbage.",
+      "transliteration": "JEG VÆLGER VENLIGHed, OG DEN KOMmer TILbage",
+      "category": "Happiness",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "My home feels warm and safe.",
+      "danish": "Mit hjem føles varmt og trygt.",
+      "transliteration": "MIT HJEM FØles VARMt og TRYGT",
+      "category": "Happiness",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I stop rushing, I start enjoying.",
+      "danish": "Jeg stopper med at skynde mig, og jeg nyder det.",
+      "transliteration": "JEG STOPper MED at SKYndE MIG, OG JEG NYder det",
+      "category": "Happiness",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "A good talk can heal me.",
+      "danish": "En god snak kan hele mig.",
+      "transliteration": "EN GOD SNAK kan HELe MIG",
+      "category": "Happiness",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Breathe, then take one next step",
+      "danish": "Træk vejret, og tag næste skridt",
+      "transliteration": "TRÆK vejret, og TAG næste SKRIDT",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Make a plan, then do it",
+      "danish": "Lav en plan, og følg den i dag",
+      "transliteration": "LAV en PLAN, og FØLG den i DAG",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Start before you feel ready",
+      "danish": "Begynd, selv når du ikke føler dig klar",
+      "transliteration": "BEgynd, SELV når du IKKE føler dig KLAR",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Turn anxiety into focused practice",
+      "danish": "Gør nervøsitet til målrettet træning",
+      "transliteration": "GØR NERVØSITET til MÅLRETTET TRÆNING",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Progress loves consistency",
+      "danish": "Fremskridt elsker regelmæssighed",
+      "transliteration": "FREMSKRIDT elSKER REGELMÆSSIGHED",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Reward yourself after each session",
+      "danish": "Giv dig selv en belønning efter hver træning",
+      "transliteration": "GIV dig SELV en BELØNNING efteR HVER TRÆNING",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Message that fear, not the blocker",
+      "danish": "Sig til frygten, at du går videre",
+      "transliteration": "SIG til F RYGTEN, at du GÅR VI DERE",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Do you shake hands or not?",
+      "danish": "Håndhilser man, eller hvad plejer man?",
+      "transliteration": "HÅNDHILSER man, eller hvad pleJER man?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Is there a blessing or prayer?",
+      "danish": "Er der en bøn eller en velsignelse?",
+      "transliteration": "ER der en BØN eller en VELsignelse?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "When should I say thank you?",
+      "danish": "Hvornår skal jeg sige tak?",
+      "transliteration": "HVORNÅR skal jeg sige TAK?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Who is in charge of the meal?",
+      "danish": "Hvem har ansvaret for maden?",
+      "transliteration": "HVEM har ANsvaret for MADen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Can I help with the setup?",
+      "danish": "Kan jeg hjælpe med at gøre klar?",
+      "transliteration": "KAN jeg HJÆLPE med at gøre KLAR?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "What is the song everyone knows?",
+      "danish": "Hvilken sang synger man typisk?",
+      "transliteration": "HVILken SANG synger man TYpisk?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Is it okay to bring a small gift?",
+      "danish": "Er det i orden at bringe en lille gave?",
+      "transliteration": "ER det i ORDEN at BRINGE en LILLE gave?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I’ll wait, it’s worth it.",
+      "danish": "Jeg venter, det er det værd.",
+      "transliteration": "Jeg VENTER, det er det VÆRD.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Give me a moment, please.",
+      "danish": "Giv mig et øjeblik, tak.",
+      "transliteration": "Giv mig et ØJEBLIK, TAK.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Slow answers beat rushed ones.",
+      "danish": "Langsomme svar slår forhastede svar.",
+      "transliteration": "LANGSOMME svar slår FORHASTEDE svar.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Let’s pause before we decide.",
+      "danish": "Lad os lige holde pause, før vi beslutter det.",
+      "transliteration": "Lad os LIGE holde PAUSE, før vi BESLUTTER det.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I can handle this, step by step.",
+      "danish": "Jeg kan sagtens klare det, trin for trin.",
+      "transliteration": "Jeg KAN sagtens KLARE det, TRIN for TRIN.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "It won’t change overnight, okay?",
+      "danish": "Det ændrer sig ikke fra den ene dag til den anden, okay?",
+      "transliteration": "Det ÆNDRER sig ikke fra den ENE dag til den ANDEN, okay?",
+      "category": "Patience",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Keep going, but at your pace.",
+      "danish": "Bliv ved, men i dit tempo.",
+      "transliteration": "Bliv ved, men i dit TEMPO.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I agree, that sounds right to me.",
+      "danish": "Jeg er enig, det lyder rigtigt for mig.",
+      "transliteration": "JEG ER ENIG, DET LYDER rigtigt FOR MIG.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I think so too, honestly.",
+      "danish": "Jeg tror det samme, ærligt talt.",
+      "transliteration": "JEG TROR DET SAMME, ÆRLIGT TAL.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "That’s convincing, I’m on board.",
+      "danish": "Det er overbevisende, jeg er med.",
+      "transliteration": "DET ER o VERbe VI SENde, JEG ER MED.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I like that idea, let's go.",
+      "danish": "Jeg kan lide den idé, lad os gøre det.",
+      "transliteration": "JEG KAN LIDE DEN IDÉ, LAD OS GØRE DET.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I disagree, but I respect it.",
+      "danish": "Jeg er uenig, men jeg respekterer det.",
+      "transliteration": "JEG ER UNEIG, MEN JEG RESPEKTERER DET.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I don’t think that will work.",
+      "danish": "Jeg tror ikke, det kommer til at fungere.",
+      "transliteration": "JEG TROR IKKE, DET KOMMER TIL at FUNGE re.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I’m not sure, what makes you think so?",
+      "danish": "Jeg er ikke sikker, hvad får dig til at tro det?",
+      "transliteration": "JEG ER IKKE SIKKER, HVA FÅR DIG TIL at TRO DET?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I want to forgive, but slowly.",
+      "danish": "Jeg vil gerne tilgive, men langsomt.",
+      "transliteration": "Jeg vil GERNE tilGIVE, men LANgsomt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Please give me time to breathe.",
+      "danish": "Giv mig venligst tid til at trække vejret.",
+      "transliteration": "Giv MIG VENligst tid til at TRÆKke VEJret.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I’m ready to stop the blame.",
+      "danish": "Jeg er klar til at stoppe med at bebrejde.",
+      "transliteration": "Jeg ER KLA R til at STOPpe med at BEbrejde.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Let’s talk, and leave the past.",
+      "danish": "Lad os tale, og lægge fortiden bag os.",
+      "transliteration": "LAD os TALE, og LÆgge FORtiden BAG os.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Your actions hurt me, I know.",
+      "danish": "Dine handlinger gjorde ondt på mig, jeg ved det.",
+      "transliteration": "DIne HANDlinger gjor DE ondt på mig, jeg VE D.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I can listen without needing payback.",
+      "danish": "Jeg kan lytte, uden at kræve hævn.",
+      "transliteration": "Jeg KAN LYTte, Uden at KRÆVE HÆVN.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I’ll choose calm, even if it’s hard.",
+      "danish": "Jeg vælger ro, selv når det er svært.",
+      "transliteration": "Jeg VÆLger RO, SELV når det ER S VÆRT.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Can we meet somewhere cozy tonight?",
+      "danish": "Kan vi mødes et hyggeligt sted i aften?",
+      "transliteration": "Kan vi MØD-es et HYGG-e-ligt sted i AF-ten?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I like your laugh, seriously.",
+      "danish": "Jeg kan virkelig godt lide dit grin.",
+      "transliteration": "Jeg kan VIR-ke-lig godt LI-de dit GRIN",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "No pressure, but I want you close.",
+      "danish": "Ingen pres, men jeg vil gerne være tæt på dig.",
+      "transliteration": "IN-gen pres, men jeg vil ger-ne VÆ-re TÆT på dig",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Tell me what you’re excited about.",
+      "danish": "Fortæl mig, hvad du glæder dig til.",
+      "transliteration": "For-tæl mig, hvad du GLÆ-der dig til",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Let’s take it slow, but real.",
+      "danish": "Lad os tage den stille, men det skal være ægte.",
+      "transliteration": "Lad os TA-ge den STIL-le, men det skal VÆ-re ÆG-te",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "I trust your vibe, it feels safe.",
+      "danish": "Jeg mærker, du er tryg, og det føles rart.",
+      "transliteration": "Jeg MÆRK-er, du er TRYg, og det FØ-les rart",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T10:56:44.424791"
+    },
+    {
+      "english": "Your eyes make me nervous—in a good way.",
+      "danish": "Dine øjne gør mig lidt nervøs, på den gode måde.",
+      "transliteration": "DI-ne ØJ-ne gør mig lidt NER-vøs, på den GO-de må-de",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T10:56:44.424791"
     }
   ],
-  "last_updated": "2026-11-15T10:39:17.015953"
+  "last_updated": "2026-11-16T10:56:44.424791"
 }
