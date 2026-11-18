@@ -20351,7 +20351,399 @@
       "transliteration": "tak foR at LYtte Uden at ORDne deT",
       "category": "Gratitude",
       "generated_at": "2026-11-17T11:40:31.098919"
+    },
+    {
+      "english": "Can I get oat milk, please?",
+      "danish": "Kan jeg få havremælk, tak?",
+      "transliteration": "KAn jeg fÅ havremælk, TAK?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "What fresh pastries do you recommend?",
+      "danish": "Hvilke friske bagerier anbefaler du?",
+      "transliteration": "HViLKe FRISKe BAgerier ANbefaler du?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I’m craving something buttery and warm.",
+      "danish": "Jeg har lyst til noget smørret og varmt.",
+      "transliteration": "JEg HAR LYST til NOGet SMØrret og VArmt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Do you have gluten-free options today?",
+      "danish": "Har I noget glutenfrit i dag?",
+      "transliteration": "HAR I NOGet gluTENfrit i DAG?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "This smell makes my shoulders drop.",
+      "danish": "Den duft får mine skuldre til at sænke sig.",
+      "transliteration": "DEN DUFT fÅr MIne SKULdre til AT SÆnke sig.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I’ll take a small cinnamon bun.",
+      "danish": "Jeg tager en lille kanelbolle, tak.",
+      "transliteration": "JEg TAGer en LILle kaNELbolle, TAK.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Could I taste one before I choose?",
+      "danish": "Kan jeg smage en lille bid først?",
+      "transliteration": "KAn JEg SMAge en LILle BID FØrst?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Cheers to us, tonight we celebrate.",
+      "danish": "Skål for os, i aften fejrer vi.",
+      "transliteration": "Skaal for os, i aften FÆJRer vi.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Welcome! Let’s make tonight unforgettable.",
+      "danish": "Velkommen! Lad os gøre i aften uforglemmelig.",
+      "transliteration": "VELkom-men, LAD os GØRE i AF-ten uforGLEM-melig.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Thank you for bringing good energy.",
+      "danish": "Tak, fordi du bringer god energi.",
+      "transliteration": "Tak, fordi du BRIN-ger GOD ENER-gi.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Dance if you feel it, just do.",
+      "danish": "Dans, hvis du har lyst, så gør det.",
+      "transliteration": "DANS, hvis du har LYST, saa GØR det.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I saved you a seat, come sit.",
+      "danish": "Jeg har sat dig et sted, kom og sæt dig.",
+      "transliteration": "JEG har SAT dig et STE-d, KOM og SÆT dig.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Let’s toast, then we’ll laugh more.",
+      "danish": "Lad os skåle, så griner vi mere bagefter.",
+      "transliteration": "LAD os SKÅ-le, SAA GRIN-er vi mere BA-gefter.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "What’s your favorite part of today?",
+      "danish": "Hvad er din yndlingsdel af dagen?",
+      "transliteration": "Hvad er din YN-dlings-del af DA-gen?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I talk to myself with kindness.",
+      "danish": "Jeg taler til mig selv med venlighed.",
+      "transliteration": "Jeg TALer til mig SELV med VE N-lighed.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I choose hope, even in small ways.",
+      "danish": "Jeg vælger håb, også i de små ting.",
+      "transliteration": "Jeg Vælger HAab, OGsaa i de SMaa ting.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "One deep breath, then I soften.",
+      "danish": "Et dybt åndedrag, så blødner jeg.",
+      "transliteration": "ET dybt AANdedrag, saa BLOEdner jeg.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I turn problems into next steps.",
+      "danish": "Jeg vender problemer til næste skridt.",
+      "transliteration": "Jeg Vender PRO bLEmer til NÆSTE SKRIDT.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "My body deserves rest tonight.",
+      "danish": "Min krop fortjener hvile i aften.",
+      "transliteration": "Min KROP fortJENER HVIle i AF ten.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I let the day pass through me.",
+      "danish": "Jeg lader dagen glide igennem mig.",
+      "transliteration": "Jeg LA der DA gen GLIDE i gen nem mig.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I reach out, not just inward.",
+      "danish": "Jeg rækker ud, ikke kun indad.",
+      "transliteration": "Jeg RÆkker UD, ikke KU n INDad.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I feel the air at my nose",
+      "danish": "Jeg mærker luften ved min næse",
+      "transliteration": "jeg MÆRker LUf-ten ved min NÆ-se",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I watch thoughts like clouds drift",
+      "danish": "Jeg ser tanker drive forbi som skyer",
+      "transliteration": "jeg SER TAN-ker DRIFte for BI som SKY-er",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I relax my jaw, softly now",
+      "danish": "Jeg løsner min kæbe, blidt lige nu",
+      "transliteration": "jeg LØS-ner min KÆ-be, blidT LI-ge NU",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I slow down my next breath",
+      "danish": "Jeg sænker tempoet i mit næste åndedrag",
+      "transliteration": "jeg SÆN-ker tem-po-et i mit NÆ-ste ÅN-de-drag",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I feel my back lengthen",
+      "danish": "Jeg mærker min ryg blive længere",
+      "transliteration": "jeg MÆR-ker min RYG bli-ve LÆN-gre",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I notice what my hands are doing",
+      "danish": "Jeg lægger mærke til, hvad mine hænder laver",
+      "transliteration": "jeg LÆG-ger MÆR-ke til, H VAD mi-ne HÆn-der LA-ver",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I let my eyes rest on something",
+      "danish": "Jeg lader mine øjne hvile på noget",
+      "transliteration": "jeg LA-der mi-ne ØJ-ne HVI-le på NOG-et",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Call an ambulance, I’m having stroke symptoms",
+      "danish": "Ring efter en ambulance, jeg tror jeg har et apopleksianfald",
+      "transliteration": "RING EFTER EN AMBULANCE, JEG TROR JEG HAR ET APo-LEKSI-ANFALD",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "My arm is numb, please help me now",
+      "danish": "Min arm er følelsesløs, hjælp mig venligst nu",
+      "transliteration": "MIN ARM ER FØLELSESLØS, HJÆLP MIG VENLIGST NU",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I can’t walk straight, call for help",
+      "danish": "Jeg kan ikke gå lige, ring efter hjælp",
+      "transliteration": "JEG KAN IKKE GÅ LIge, RING EFTER HJÆLP",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "My speech is slurred, please call 112",
+      "danish": "Mit sprog lyder uklart, ring 112 nu",
+      "transliteration": "MIT SPROG LYDER UKLART, RING ONE TWO NU",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I think I hit my head, I’m dizzy",
+      "danish": "Jeg tror jeg slog hovedet, jeg er svimmel",
+      "transliteration": "JEG TROR JEG SLAG-HO-VEDET, JEG ER SVIM-MEL",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I have a bad burn on my hand",
+      "danish": "Jeg har en grim forbrænding på min hånd",
+      "transliteration": "JEG HAR EN GRIM FOR-BRÆN-DING PÅ MIN HÅND",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Cool it now, my skin is burning",
+      "danish": "Køl det nu, det brænder i min hud",
+      "transliteration": "KØL DET NU, DET BRÆNDER I MIN HUD",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I feel calm, like exhaling.",
+      "danish": "Jeg føler mig rolig, som at ånde ud.",
+      "transliteration": "Jeg føler MIG roLIG, som at ÅNDE ud.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I’m on top of the world today.",
+      "danish": "Jeg er helt på toppen i dag.",
+      "transliteration": "Jeg ER HELT på TOPpen i DAG.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "That text made me smile instantly.",
+      "danish": "Den besked fik mig til at smile med det samme.",
+      "transliteration": "Den BEsked FIK mig til at SMILE med det SAMME.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I’m feeling lonely, even around people.",
+      "danish": "Jeg føler mig ensom, selv når der er andre.",
+      "transliteration": "Jeg føler mig E Nsom, SELV når der ER anDRE.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I’m worried something will go wrong.",
+      "danish": "Jeg er bange for, at noget går galt.",
+      "transliteration": "Jeg ER BANge for, at NOget går GALt.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I’m frustrated, I tried my best.",
+      "danish": "Jeg er frustreret, jeg har virkelig prøvet.",
+      "transliteration": "Jeg ER frustraRET, jeg HAR virKElig PROvet.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I feel thankful for this quiet moment.",
+      "danish": "Jeg er taknemmelig for dette stille øjeblik.",
+      "transliteration": "Jeg er TAKnemMELig for det TE stille ØJeblik.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Could you wake me at seven, please?",
+      "danish": "Kan De vække mig klokken syv, tak?",
+      "transliteration": "Kan DE VEK-keh me KLOk-ken SYOO, TAHK?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Do you have a room with a sea view?",
+      "danish": "Har De et værelse med havudsigt?",
+      "transliteration": "Har DE et VE-rel-seh med HOW-oos-vigt?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I need an extra pillow for my bed.",
+      "danish": "Jeg skal bruge en ekstra pude til min seng.",
+      "transliteration": "Yaih skal BROO-eh en EX-trah POO-deh til min SENG.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "What's the Wi-Fi password, please?",
+      "danish": "Hvad er Wi-Fi kodeordet, tak?",
+      "transliteration": "Vat er WY-FY KOO-deh-o-reh, TAHK?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Could I have a room on a quiet floor?",
+      "danish": "Må jeg bede om et værelse på en stille etage?",
+      "transliteration": "Moh yaih BEH-om et VE-rel-seh poh en STI-leh eh-TAH-sheh?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Is there a gym or a pool here?",
+      "danish": "Er der et fitnesscenter eller en pool her?",
+      "transliteration": "Er der et FIT-ness-sen-ter EHL-leh en POOL hair?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "My room is a bit cold.",
+      "danish": "Mit værelse er en smule koldt.",
+      "transliteration": "Mit VE-rel-seh er en SMOO-leh KOLT.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "You show up, and it matters.",
+      "danish": "Du dukker op, og det betyder noget.",
+      "transliteration": "du DUKKER op, og det BETHYDER noget",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Thanks for always checking in.",
+      "danish": "Tak fordi du altid lige tjekker ind.",
+      "transliteration": "tak forDI fordI du ALTID lige TJekker IND",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "We laugh, then we make it work.",
+      "danish": "Vi griner, og så får vi det til at fungere.",
+      "transliteration": "vi GRIner, og SAA fær vi det TIL at FUNgere",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "Call me, I’ll be there too.",
+      "danish": "Ring til mig, jeg er der også.",
+      "transliteration": "RING til mig, jeg ER der ogsaa",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "You get me, without trying.",
+      "danish": "Du forstår mig, uden at gøre noget særligt.",
+      "transliteration": "du FORstaar mig, uden at GØRE noget SÆRLIGT",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "You make tough days lighter.",
+      "danish": "Du gør de svære dage lettere.",
+      "transliteration": "du GØR de SÆRE da'ger LETtere",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I can be myself with you.",
+      "danish": "Jeg kan være mig selv med dig.",
+      "transliteration": "jEG ka' VÆRE mig SELV med dig",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T11:28:27.336125"
     }
   ],
-  "last_updated": "2026-11-17T11:40:31.098919"
+  "last_updated": "2026-11-18T11:28:27.336125"
 }
