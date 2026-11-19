@@ -323,7 +323,39 @@
     {
       "category": "Friendship",
       "date": "2026-11-18"
+    },
+    {
+      "category": "Success",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Inspiration",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Hope",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Daily Routine",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Purpose",
+      "date": "2026-11-19"
     }
   ],
-  "last_updated": "2026-11-18T11:28:27.353984"
+  "last_updated": "2026-11-19T11:32:45.855865"
 }

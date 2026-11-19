@@ -20743,7 +20743,399 @@
       "transliteration": "jEG ka' VÆRE mig SELV med dig",
       "category": "Friendship",
       "generated_at": "2026-11-18T11:28:27.336125"
+    },
+    {
+      "english": "I did it, even with nerves",
+      "danish": "Jeg gjorde det, selv med nervøsitet",
+      "transliteration": "Jeg GIorde det, SELV med ner-VOe-sit-et",
+      "category": "Success",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Today I showed up and followed through",
+      "danish": "I dag mødte jeg op, og jeg fulgte op",
+      "transliteration": "I dag MOed-te jeg OP, og jeg FULG-te op",
+      "category": "Success",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "That email finally sent, wow",
+      "danish": "Den mail blev endelig sendt, hold da op",
+      "transliteration": "Den MAIL blev en-DELIG sent, HOLD da op",
+      "category": "Success",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I sorted it out, on my own",
+      "danish": "Jeg fik det ordnet, helt på egen hånd",
+      "transliteration": "Jeg FIK det ORDnet, HELT pa EN gen haanD",
+      "category": "Success",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I kept going when it got hard",
+      "danish": "Jeg fortsatte, selv da det blev svært",
+      "transliteration": "Jeg FORt-sat-te, SELV da det blev SVÆRT",
+      "category": "Success",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "My plan worked, just like I thought",
+      "danish": "Min plan virkede, lige som jeg troede",
+      "transliteration": "Min plan VIR-ke-de, LI-ge som jeg TRO-e-de",
+      "category": "Success",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I took the risk, and it paid off",
+      "danish": "Jeg tog chancen, og det betalte sig",
+      "transliteration": "Jeg TOG chan-sen, og det BE-talte sig",
+      "category": "Success",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I need help with this prescription.",
+      "danish": "Jeg har brug for hjælp til denne recept.",
+      "transliteration": "yeh har brug for HJÆLP til denne RE-CEPT",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Can a pharmacist answer a quick question?",
+      "danish": "Kan jeg spørge apoteket om et hurtigt spørgsmål?",
+      "transliteration": "kan yeG SPØRGE apoh-TEK-et OM et HUR-tigt SPØRGS-mål",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Is this medicine available in Denmark?",
+      "danish": "Er denne medicin tilgængelig her i Danmark?",
+      "transliteration": "er DEN-ne MED-i-cin til-GÆN-ge-lig HER i DAN-mark",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Do I need to bring my ID?",
+      "danish": "Skal jeg medbringe mit ID?",
+      "transliteration": "skal yeG med-BRING-e mit I-DI",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I have side effects, what should I do?",
+      "danish": "Jeg får bivirkninger, hvad skal jeg gøre?",
+      "transliteration": "yeh FÅR BI-virk-ninger, hvad skal yeG GØ-re",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I think I’m allergic to this drug.",
+      "danish": "Jeg tror, jeg er allergisk over for dette lægemiddel.",
+      "transliteration": "yeh TRO-r, yeh er al-LEHR-gisk o-ver for DET-te LÆ-ge-middel",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Can you check if it’s safe for me?",
+      "danish": "Kan I tjekke, om det er sikkert for mig?",
+      "transliteration": "kan I TEK-ke, om det er SI-kkert for mig",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I need inspiration for my next meeting",
+      "danish": "Jeg mangler inspiration til mit næste møde",
+      "transliteration": "JeG MANGLer INspiRAtion tIL mit NÆste MØde",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "This morning walk gave me ideas",
+      "danish": "Min morgenlunte gav mig masser af idéer",
+      "transliteration": "MIN MORgenLUNte gav mig MASser af IDeer",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Show me something new and useful",
+      "danish": "Vis mig noget nyt og brugbart",
+      "transliteration": "VIS mig NOget NYt og BRUGbart",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Your story made me rethink everything",
+      "danish": "Din historie fik mig til at tænke anderledes",
+      "transliteration": "DIN HIstoRIE fik mig til at TÆnke anDERleDES",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I’m collecting small sparks for later",
+      "danish": "Jeg samler små gnister til senere",
+      "transliteration": "jeG SAMler SMÅ GNIster til SENere",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Where do you get your best inspiration?",
+      "danish": "Hvor får du din bedste inspiration fra?",
+      "transliteration": "Hvor FÅr du DIN BEDste INspiRAtion fra",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I want a fresh angle on this",
+      "danish": "Jeg vil have en frisk vinkel på det her",
+      "transliteration": "jeG VI L haVe en FRIsk VINkel på det her",
+      "category": "Inspiration",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "How far is it from here?",
+      "danish": "Hvor langt er der herfra?",
+      "transliteration": "VOR langt er der HEFRA?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Is it walking distance?",
+      "danish": "Er det gåafstand herfra?",
+      "transliteration": "ER det GÅaFSTAND herFRA?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Which street should I take?",
+      "danish": "Hvilken gade skal jeg tage?",
+      "transliteration": "HVILken GADe skal jeg TAge?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Can I get there by tram?",
+      "danish": "Kan jeg komme derhen med sporvogn?",
+      "transliteration": "KAN jeg KOMme derHEN med SPOrvogn?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "What stop is closest to it?",
+      "danish": "Hvilket stop ligger tættest på?",
+      "transliteration": "HVILket STOP liGger TÆTtest på?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Do I need to cross the bridge?",
+      "danish": "Skal jeg krydse broen?",
+      "transliteration": "SKAL jeg kryDse BROen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Which way is the harbor from here?",
+      "danish": "Hvilken vej går man til havnen herfra?",
+      "transliteration": "HVILken VEJ går MAN til HAVnen herFRA?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I keep hoping, even when it hurts.",
+      "danish": "Jeg håber videre, selv når det gør ondt.",
+      "transliteration": "Jeg HÅBER videre, SELV når det gør ONDT.",
+      "category": "Hope",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Somewhere, hope is waiting for me.",
+      "danish": "Et sted venter håbet på mig.",
+      "transliteration": "Et STED VENter HÅbet på mig.",
+      "category": "Hope",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I refuse to give up hope.",
+      "danish": "Jeg nægter at give håbet op.",
+      "transliteration": "Jeg NÆGter at GIVE HÅbet OP.",
+      "category": "Hope",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Tonight, I choose small hope.",
+      "danish": "I aften vælger jeg et lille håb.",
+      "transliteration": "I AFten VÆlger jeg et LILle HÅb.",
+      "category": "Hope",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I let hope sit with me.",
+      "danish": "Jeg lader håbet sidde hos mig.",
+      "transliteration": "Jeg LAd er håbet SIDde hos mig.",
+      "category": "Hope",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "My heart still believes in hope.",
+      "danish": "Mit hjerte tror stadig på håb.",
+      "transliteration": "MIT hjerte TROR stadig på HÅb.",
+      "category": "Hope",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I’m not done, hope isn’t either.",
+      "danish": "Jeg er ikke færdig, håbet er heller ikke.",
+      "transliteration": "Jeg ER ikke FÆrdig, HÅbet er helLER ikke.",
+      "category": "Hope",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I make my bed right away.",
+      "danish": "Jeg redder sengen med det samme.",
+      "transliteration": "je RED-er SEN-gen med DET SAM-me",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I grab water before coffee.",
+      "danish": "Jeg tager et glas vand, før kaffen.",
+      "transliteration": "je TA-ger et GLAS VAN, før KAF-fen",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I open the curtains for light.",
+      "danish": "Jeg åbner gardinerne for at få lys ind.",
+      "transliteration": "je ÅB-ner GAR-di-ner-ne for AT få LYD ind",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I take a quick shower, then dry off.",
+      "danish": "Jeg tager et hurtigt bad, og tørrer mig bagefter.",
+      "transliteration": "je TA-ger et HUR-tigt BAD, og TØR-rer mig BA-gefter",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I choose clothes the night before work.",
+      "danish": "Jeg vælger mit tøj aftenen før arbejde.",
+      "transliteration": "je VÆL-ger MIT TØJ AF-te-nən før AR-bej-de",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I check the weather on my phone.",
+      "danish": "Jeg tjekker vejret på min telefon.",
+      "transliteration": "je TJEK-ker VEJR-et på min te-le-FON",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I drink coffee while it’s still hot.",
+      "danish": "Jeg drikker kaffen, mens den stadig er varm.",
+      "transliteration": "je DRIK-ker KAF-fen, mens den S TA-dig er VARM",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Is this on clearance right now?",
+      "danish": "Er det på udsalg lige nu?",
+      "transliteration": "Er det på UDSALg lige nu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Do you have it in stock?",
+      "danish": "Har I den på lager?",
+      "transliteration": "Har I den på LAger?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Is it cheaper online?",
+      "danish": "Er den billigere online?",
+      "transliteration": "Er den BILligere onLIne?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "What brand is this?",
+      "danish": "Hvilket mærke er det?",
+      "transliteration": "HVILket mær-ke er det?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Do you have this in another color?",
+      "danish": "Kan jeg få den i en anden farve?",
+      "transliteration": "Kan jeg få den i en ANden FARve?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Can I pay in installments?",
+      "danish": "Kan jeg betale i rater?",
+      "transliteration": "Kan jeg BETale i RAter?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "Is the price per piece or set?",
+      "danish": "Er prisen pr. stk. eller for et sæt?",
+      "transliteration": "Er PRIsen pr stk el-ler for et SÆt?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "This is to help us decide faster.",
+      "danish": "Jeg gør det for at hjælpe os med at beslutte hurtigere.",
+      "transliteration": "JeG GØR diT FOR at HJÆLPE os meD at BESLUTTE hurTIGERE.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I want to clarify the goal first.",
+      "danish": "Jeg vil gerne afklare målet først.",
+      "transliteration": "JEg VIL gerne afKLaRe MÅLet førST.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "We need a clear purpose for this.",
+      "danish": "Vi har brug for et klart formål med det her.",
+      "transliteration": "VI HAR brug for et KLART FORmål med deT HER.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I’m asking, so we can plan better.",
+      "danish": "Jeg spørger, så vi kan planlægge bedre.",
+      "transliteration": "JEg SPØrger, så VI kan PLANlÆgge BEDre.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I’m doing this to save time today.",
+      "danish": "Jeg gør det for at spare tid i dag.",
+      "transliteration": "JEg GØR deT for at SPARE tid i DAG.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "I brought it up for a reason.",
+      "danish": "Jeg nævnte det, fordi der er en grund.",
+      "transliteration": "JEg NÆvnte deT, forDI der ER en GRUND.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "This message is meant to confirm details.",
+      "danish": "Denne besked er ment til at bekræfte detaljer.",
+      "transliteration": "DENne BESKED er ment til at beKRAEFte DEtaljer.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T11:32:45.837242"
     }
   ],
-  "last_updated": "2026-11-18T11:28:27.336125"
+  "last_updated": "2026-11-19T11:32:45.837242"
 }
