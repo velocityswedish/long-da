@@ -21135,7 +21135,399 @@
       "transliteration": "DENne BESKED er ment til at beKRAEFte DEtaljer.",
       "category": "Purpose",
       "generated_at": "2026-11-19T11:32:45.837242"
+    },
+    {
+      "english": "No worries, I got you",
+      "danish": "Bare rolig, jeg klarer den",
+      "transliteration": "BARE RO-lig, jeg KLAR-er den",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "That was a total plot twist",
+      "danish": "Det var et vildt plot twist",
+      "transliteration": "DET var et VILDt plot twist",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Stop it, you’re joking, right?",
+      "danish": "Hold op, du troller, ikke?",
+      "transliteration": "HOLD OP, du TROL-ler, IK-ke?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I’m running late, my bad",
+      "danish": "Jeg er forsinket, min fejl",
+      "transliteration": "jeG er for-SIN-ket, MIN FEJL",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "You always have the tea",
+      "danish": "Du har altid det bedste sladder",
+      "transliteration": "du HAR al-TID det BED-ste SLAD-der",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I’m wiped out, seriously",
+      "danish": "Jeg er helt færdig, ærligt talt",
+      "transliteration": "jeG er HELT FÆR-dig, ÆR-ligt TALT",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "That’s so sus, I’m out",
+      "danish": "Det lugter af fis, jeg smutter",
+      "transliteration": "DET LUG-ter af FIS, jeg SMUT-ter",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I need a spotter for squats.",
+      "danish": "Jeg har brug for en spotter til squats.",
+      "transliteration": "Jeg har BRUG for en SPOTter til squats.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "How do I adjust the seat height?",
+      "danish": "Hvordan justerer jeg sædehøjden?",
+      "transliteration": "HVOdan justerer jeg SEdeHØJden?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Which weights are light enough for me?",
+      "danish": "Hvilke vægte er lette nok for mig?",
+      "transliteration": "HVILke VÆGte er LETte nok for MIG?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Can you show me proper form?",
+      "danish": "Kan du vise mig den rigtige teknik?",
+      "transliteration": "KAN du VIse mig den RIGtige TEKnik?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Do you offer a personal training plan?",
+      "danish": "Har I et personligt træningsprogram?",
+      "transliteration": "Har I et perSONligt TRÆningsproGRAM?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Is there a sauna after the workout?",
+      "danish": "Er der en sauna efter træningen?",
+      "transliteration": "ER der en SAUna EFter TRÆningen?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I want to build core strength, today.",
+      "danish": "Jeg vil gerne træne min core styrke i dag.",
+      "transliteration": "Jeg vil GERne TRÆne min CORE styrke i DAG.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Mind your day, not just your tasks",
+      "danish": "Pas på dagen, ikke kun opgaverne",
+      "transliteration": "Pas på DAGEN, ikke KUN OPGAVERNE",
+      "category": "Balance",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Take a mindful break every few hours",
+      "danish": "Tag en stille pause hver tredje time",
+      "transliteration": "Tag en STIL LE pause hver TREDJE time",
+      "category": "Balance",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I’m learning to pause before I rush",
+      "danish": "Jeg øver mig i at holde pause før jeg skynder mig",
+      "transliteration": "JEg ØVER mig i at HOLDE PAUSE før jeg SKYNDER mig",
+      "category": "Balance",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "How do you balance silence and noise?",
+      "danish": "Hvordan balancerer du stilhed og larm?",
+      "transliteration": "HVOdan BALANcerer du STILhed og LARM",
+      "category": "Balance",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Let lunch be a reset, not a sprint",
+      "danish": "Lad frokosten være en nulstilling, ikke et løb",
+      "transliteration": "Lad FROkosten være en NULstilling, ikke et LØB",
+      "category": "Balance",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I want steady energy, not spikes",
+      "danish": "Jeg vil have jævn energi, ikke toppe og dyk",
+      "transliteration": "JEg vil have JÆVN eNErgi, ikke TOPpe og DYK",
+      "category": "Balance",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I’m building routines that flex, not fight",
+      "danish": "Jeg bygger rutiner, der kan bøje, ikke knække",
+      "transliteration": "JEg BYGger RU ti ner, der kan BØJe, ikke KNÆKke",
+      "category": "Balance",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I finish the hard part first.",
+      "danish": "Jeg gør den svære del færdig først.",
+      "transliteration": "Jeg GØR den SVÆRe del FÆRdig FØRST.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I show up, even if late.",
+      "danish": "Jeg møder op, også selv om jeg er sen.",
+      "transliteration": "Jeg MØDer OP, OGSÅ selv OM jeg ER sen.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Breathe, then I keep moving.",
+      "danish": "Træk vejret, og så bliver jeg ved.",
+      "transliteration": "TRÆK vejret, og SÅ BLIVER jeg VED.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I can do this, one rep.",
+      "danish": "Jeg kan godt klare det, bare én gentagelse.",
+      "transliteration": "Jeg kan GODT KLAre det, baRE én genTAGelse.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I don't quit when it bores me.",
+      "danish": "Jeg stopper ikke, selv når det bliver kedeligt.",
+      "transliteration": "Jeg STOPper ikke, SELV når det BLiVer KEdeLIGt.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I stay calm and stay with it.",
+      "danish": "Jeg holder hovedet koldt og bliver ved.",
+      "transliteration": "Jeg HOLder hoVEDet KOLDt og BLIVER ved.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Small wins, then I go again.",
+      "danish": "Små sejre først, så prøver jeg igen.",
+      "transliteration": "SMÅ SEJre FØRST, så PRØVer jeg IGEN.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I bake fresh bread on Sundays.",
+      "danish": "Jeg bager frisk brød om søndagen.",
+      "transliteration": "JEG BAGER frisk brød OM SØNDAGEN.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I join a book club this month.",
+      "danish": "Jeg er med i en bogklub i denne måned.",
+      "transliteration": "JEG ER MED i EN bogklub i DENNE MÅNED.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I paint small landscapes after work.",
+      "danish": "Jeg maler små landskaber efter arbejde.",
+      "transliteration": "JEG MALER små LANDSKAber efTER ARBEJDE.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I try mindful walks in the evening.",
+      "danish": "Jeg tager rolige ture om aftenen, for at slappe af.",
+      "transliteration": "JEG TAGER ROliGE TURe om AFtenen, FOR at SLAPPE af.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I cook with spices I have never tried.",
+      "danish": "Jeg eksperimenterer med krydderier, jeg aldrig har prøvet.",
+      "transliteration": "JEG eksPERIMENTERER med KRyDDeRIer, JEG ALDRIG har PRØVET.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I go to a pottery class again.",
+      "danish": "Jeg tager til et keramikhold igen i næste uge.",
+      "transliteration": "JEG TAGER til et KEramikHOLD IGEN i NÆSTE UGE.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I play board games with friends.",
+      "danish": "Jeg spiller brætspil med vennerne.",
+      "transliteration": "JEG SPILler BRÆtSPIL med VENnerne.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Where can I change my PIN?",
+      "danish": "Hvor kan jeg ændre min pinkode?",
+      "transliteration": "Hvor kan jeg ÆNDRE min PI NKODE?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I need to block my card today.",
+      "danish": "Jeg skal have spærret mit kort i dag.",
+      "transliteration": "JEg SKAL have SPÆRRET mit KORT i DAG.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Can you check my latest transactions?",
+      "danish": "Kan du tjekke mine seneste transaktioner?",
+      "transliteration": "KAN du TJEKKE mine SENESTE TRANSakTIONer?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Why is my balance showing wrong?",
+      "danish": "Hvorfor viser min saldo et forkert tal?",
+      "transliteration": "Hvorfor VIser min SA LDO et FOR KERT taL?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "How do I add money to my account?",
+      "danish": "Hvordan lægger jeg penge på min konto?",
+      "transliteration": "HvorDAN LÆGger jeg PENGE på min KONto?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "What are your fees for international transfers?",
+      "danish": "Hvad koster en international overførsel hos jer?",
+      "transliteration": "Hvad KOSTer en interNAtional oVErførSEL hos JER?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Is my transfer instant, or delayed?",
+      "danish": "Er overførslen øjeblikkelig, eller tager den tid?",
+      "transliteration": "ER oVErførslen ØJeblikKELIG, elLer TAGer den tid?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I’ll update the status in a sec.",
+      "danish": "Jeg opdaterer status om lidt,",
+      "transliteration": "JeG OPDaTERer STAts om liD T,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Could you handle that request today?",
+      "danish": "Kan du klare den henvendelse i dag,",
+      "transliteration": "Kan du KLARe den henVENdel se i DAG,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I’m booking a meeting for tomorrow.",
+      "danish": "Jeg booker et møde i morgen,",
+      "transliteration": "JeG BUUker et MØde i MO gen,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "The printer jammed, again, sorry.",
+      "danish": "Printeren er gået i stå igen, undskyld,",
+      "transliteration": "PRI NTe ren er GÅet i STO igen, UNdSKYLD,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Can we reschedule after lunch?",
+      "danish": "Kan vi flytte det til efter frokost,",
+      "transliteration": "Kan vi FLYT te det til EFter FRO koST,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I need access to the shared drive.",
+      "danish": "Jeg skal have adgang til den fælles drev,",
+      "transliteration": "JeG skal haVE ADgang til den FÆlles dreV,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "Please put this document in my folder.",
+      "danish": "Læg dokumentet her i min mappe,",
+      "transliteration": "LÆg dokuMEN tet her i min MAP pe,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I’ve got room to improve, calmly.",
+      "danish": "Jeg har plads til at blive bedre, roligt.",
+      "transliteration": "jeg har plads tIL at blIve bedRe, rOligt",
+      "category": "Confidence",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I can start before I feel ready.",
+      "danish": "Jeg kan begynde, før jeg føler mig klar.",
+      "transliteration": "jeg kan begynde, før jeg føLER mig klaR",
+      "category": "Confidence",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I trust myself to find the way.",
+      "danish": "Jeg stoler på mig selv, når jeg skal finde vejen.",
+      "transliteration": "jeg stoler på mig seLV, når jeg skal fINde vejen",
+      "category": "Confidence",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I speak with steadier eyes today.",
+      "danish": "Jeg taler roligt med faste blikke i dag.",
+      "transliteration": "jeg taLER roLigt med fasTe blikke i dAG",
+      "category": "Confidence",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "My voice matters, even softly.",
+      "danish": "Min stemme betyder noget, selv når den er stille.",
+      "transliteration": "min stEMme betYder noget, selv når den er stilLe",
+      "category": "Confidence",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I ask for help when it counts.",
+      "danish": "Jeg beder om hjælp, når det virkelig gælder.",
+      "transliteration": "jeg beder om hjELP, når det virkelig gælder",
+      "category": "Confidence",
+      "generated_at": "2026-11-20T11:15:19.640188"
+    },
+    {
+      "english": "I handle mistakes without shrinking.",
+      "danish": "Jeg laver fejl, uden at jeg krymper.",
+      "transliteration": "jeg laVer fEjl, uden at jeg krymper",
+      "category": "Confidence",
+      "generated_at": "2026-11-20T11:15:19.640188"
     }
   ],
-  "last_updated": "2026-11-19T11:32:45.837242"
+  "last_updated": "2026-11-20T11:15:19.640188"
 }
