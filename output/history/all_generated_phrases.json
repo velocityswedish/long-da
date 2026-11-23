@@ -22311,7 +22311,399 @@
       "transliteration": "JEG ER UENIG, RESPEKTFULDT SAGT, DOG.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-11-22T11:00:44.212327"
+    },
+    {
+      "english": "Hang on, good things take time.",
+      "danish": "Hold ud, gode ting tager tid.",
+      "transliteration": "Hold ud, GODe ting TAGer tid.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Wait, I need a minute to think.",
+      "danish": "Vent, jeg skal bruge et øjeblik til at tænke.",
+      "transliteration": "VE nt, jeg SKAL bruge et ØJeblik til at TÆNK e.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Give it time, then ask again.",
+      "danish": "Giv det tid, og spørg så igen.",
+      "transliteration": "GIV det tid, og SPØRG så IGEN.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "No rush, I can handle it slowly.",
+      "danish": "Ingen hast, jeg kan godt tage den roligt.",
+      "transliteration": "Ingen HAST, jeg KAN godt TAGe den ROligt.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Let’s pause, and come back later.",
+      "danish": "Lad os holde pause, og komme tilbage senere.",
+      "transliteration": "Lad OS HOLde PAU se, og KOMME til bage SE NERE.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Stay calm, answers come when they do.",
+      "danish": "Bliv rolig, svarene kommer, når de kommer.",
+      "transliteration": "BLIV ROlig, SVA rene KOMmer, når de KOMmer.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Keep your expectations realistic today.",
+      "danish": "Hold forventningerne realistiske i dag.",
+      "transliteration": "HOl d FOR ven tnin gerne re aLI sti ske i DAG.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Do people fast for any holidays?",
+      "danish": "Sulter man for bestemte højtider?",
+      "transliteration": "SULTER man for BESTEMTE HØJTIDER?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "What prayers or blessings are common?",
+      "danish": "Hvilke bønner eller velsignelser siger man?",
+      "transliteration": "HVI LKE BØNNER eller VELSIGNELSER SI GER man?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Is there a tradition of ringing bells?",
+      "danish": "Er der en tradition med at ringe med klokker?",
+      "transliteration": "ER der en TRADITION med at RINGE med KLOKKER?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Do you light candles at home?",
+      "danish": "Tænder man lys eller stearinlys derhjemme?",
+      "transliteration": "TÆN DER man LYS eller STEARINLYS der HJEMME?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Can I join the dance, casually?",
+      "danish": "Må jeg være med i dansen, bare sådan?",
+      "transliteration": "MÅ jeg VÆRE med i DANSEN, bare SÅDAN?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "What’s the meaning of the wreath?",
+      "danish": "Hvad betyder kransen helt konkret?",
+      "transliteration": "HVAD BETY DER kran sen HELT KONKRET?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Do families exchange handwritten cards?",
+      "danish": "Sender familier håndskrevne kort til hinanden?",
+      "transliteration": "SEN DER FAMILIER HÅND SKREVNE KORT til HINANDEN?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I exhale, and I feel safer.",
+      "danish": "Jeg puster ud, og jeg føler mig mere sikker.",
+      "transliteration": "Jeg puster UD, og jeg føler MIG mere SIKKER.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "My body deserves a softer moment.",
+      "danish": "Min krop fortjener et blødere øjeblik.",
+      "transliteration": "Min KROP forTJE NER et BLO DERE øJEBLIK.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I let thoughts pass like clouds.",
+      "danish": "Jeg lader tanker glide forbi som skyer.",
+      "transliteration": "Jeg la der TAN ker glide for BI som SKY er.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I choose curiosity over irritation.",
+      "danish": "Jeg vælger nysgerrighed frem for irritation.",
+      "transliteration": "Jeg VÆL ger NØS ger rig hed FREM for ir RIT tion.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I don’t have to respond right now.",
+      "danish": "Jeg behøver ikke at svare lige nu.",
+      "transliteration": "Jeg BEHØ VER ikke at SVARE li GE NU.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Today, I speak to myself kindly.",
+      "danish": "I dag taler jeg til mig selv med venlighed.",
+      "transliteration": "I DAG ta ler jeg til MIG selv med VEVn lig heD.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I notice what I’m carrying, gently.",
+      "danish": "Jeg lægger mærke til, hvad jeg bærer, blidt.",
+      "transliteration": "Jeg LÆgger MAR ke til, hvad jeg BÆR er, BLIDT.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "My bag didn’t arrive, what now?",
+      "danish": "Min taske kom ikke, hvad gør jeg nu?",
+      "transliteration": "min TAS-ke kom IK-ke, hvad GOHR jeg nu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Can you point me to customs?",
+      "danish": "Kan du vise mig hen til tolden?",
+      "transliteration": "kan du VI-se mig hen til TOUL-den?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Is there a lost and found desk?",
+      "danish": "Er der et genstandsopbevaringssted, mistede sager?",
+      "transliteration": "er der et GEN-standsopbevaRingssted, MIS-tede sa-jer?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Do I need to fill out forms?",
+      "danish": "Skal jeg udfylde nogen formularer?",
+      "transliteration": "skal jeg UDFYL-de NO-gen forMU-lah-ner?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Which lane is for EU passports?",
+      "danish": "Hvilken kø er for EU-pas?",
+      "transliteration": "HVIL-ken KØ er for EU-pas?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Is there a place to sit nearby?",
+      "danish": "Er der et sted at sidde her i nærheden?",
+      "transliteration": "er der et sted at SID-de her i NAHR-heden?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "What time does the shuttle leave?",
+      "danish": "Hvornår kører shuttlen herfra?",
+      "transliteration": "HVOR-når KØR-er SHUT-ten her-FRA?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Looks cloudy, but it feels mild.",
+      "danish": "Det ser overskyet ud, men det føles mildt.",
+      "transliteration": "Det SER o-ver-SKU-et ud, men det FØ-les MILT.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I can smell wet pavement again.",
+      "danish": "Jeg kan lugte våd asfalt igen.",
+      "transliteration": "Jeg kan LUG-te VÅD a-SFALT IGEN.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "The air feels fresh after all that rain.",
+      "danish": "Luften føles frisk, efter alt det regn.",
+      "transliteration": "LUAften FØ-les FRESK, EF-ter ALT det REGn.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I love how the sky clears at dusk.",
+      "danish": "Jeg elsker, når himlen letter ved skumring.",
+      "transliteration": "Jeg ELSKer, når HIM-len LET-ter ved SKUM-ring.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "It s still drizzling, but quietly.",
+      "danish": "Det småregner stadig, men stille.",
+      "transliteration": "Det SMÅ-reg-ner STa-dig, men STIL-le.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Are we under a warning today?",
+      "danish": "Er vi under en varsling i dag?",
+      "transliteration": "Er vi UN-der en VARS-ling i DAG?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "My hair is fighting the humidity.",
+      "danish": "Mit hår kæmper mod fugtigheden.",
+      "transliteration": "Mit HÅR KÆm-per mod FUG-tig-HE-den.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I grow by showing up imperfectly.",
+      "danish": "Jeg vokser ved at møde op, selv ufuldkommen.",
+      "transliteration": "Jeg VOKSER ved AT MØDE OP, SELV UFULDKOMMEN",
+      "category": "Growth",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Today I choose one brave action.",
+      "danish": "I dag vælger jeg én modig handling.",
+      "transliteration": "I DAG VÆLGER jeg ÉN MODIG HANDLING",
+      "category": "Growth",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I learn fast when I ask why.",
+      "danish": "Jeg lærer hurtigt, når jeg spørger hvorfor.",
+      "transliteration": "Jeg LÆRER HURTIGT, når jeg SPØRGER HVORFOR",
+      "category": "Growth",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "My standards can be kind, not harsh.",
+      "danish": "Mine standarder kan være venlige, ikke hårde.",
+      "transliteration": "MINe STANDARDer kan VÆRE VENlige, ikke HÅRde",
+      "category": "Growth",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I turn stress into a planning note.",
+      "danish": "Jeg omsætter stress til en planlægningsnote.",
+      "transliteration": "Jeg OMSÆTTER STRESS til EN planLÆGningSNØTE",
+      "category": "Growth",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Small wins lead to bigger confidence.",
+      "danish": "Små sejre fører til større selvtillid.",
+      "transliteration": "SMÅ SEJRE FØRER til STØRRE SELVTILLID",
+      "category": "Growth",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I keep my eyes on progress, not perfection.",
+      "danish": "Jeg holder blikket på fremgang, ikke perfektion.",
+      "transliteration": "Jeg HOLDER BLiKket på FREMGANG, ikke PERFEKTION",
+      "category": "Growth",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I’ll sketch the idea fast, first.",
+      "danish": "Jeg SKITSERER idéen hurtigt først.",
+      "transliteration": "Jeg SKITSERER ideen hurtigt først",
+      "category": "Creativity",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Try weird. It might unlock you.",
+      "danish": "Prøv det mærkelige, det kan låse op.",
+      "transliteration": "Prøv det mærkelige, det kan låse op",
+      "category": "Creativity",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Today I’ll remix one familiar thing.",
+      "danish": "I dag REMIXER jeg én ting, jeg kender.",
+      "transliteration": "I dag REMIXER jeg én ting, jeg kender",
+      "category": "Creativity",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Give yourself permission to be messy.",
+      "danish": "Du må gerne roder, det er okay.",
+      "transliteration": "Du må gerne roder, det er okay",
+      "category": "Creativity",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I’ll change the medium, not the message.",
+      "danish": "Jeg SKIFTER mediet, ikke budskabet.",
+      "transliteration": "Jeg SKIFTER mediet, ikke budskabet",
+      "category": "Creativity",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "One good question beats ten guesses.",
+      "danish": "Ét godt spørgsmål slår ti gæt.",
+      "transliteration": "Ét godt spørgsmål slår ti gæt",
+      "category": "Creativity",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I’ll borrow inspiration, then make it mine.",
+      "danish": "Jeg låner inspiration, og gør den til min.",
+      "transliteration": "Jeg låner inspiration, og gør den til min",
+      "category": "Creativity",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Thank you for the safe feeling.",
+      "danish": "Tak for den trygge følelse.",
+      "transliteration": "tak for den TRYK-ge føl-seLSE",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I’m grateful for your honest feedback.",
+      "danish": "Jeg er taknemmelig for din ærlige feedback.",
+      "transliteration": "jeg er tak-NEM-melig for DIN ÆR-lige FEEED-back",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Thanks for holding space for me.",
+      "danish": "Tak fordi du giver mig plads.",
+      "transliteration": "tak for-di du GIV-er mig PLADS",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I appreciate how you check in.",
+      "danish": "Jeg sætter pris på, at du tjekker ind.",
+      "transliteration": "jeg SÆT-ter pris på, at du TJEK-ker IND",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Grateful for rest, even when it’s messy.",
+      "danish": "Taknemmelig for hvile, også når det er rodet.",
+      "transliteration": "tak-NEM-me-lig for VI-le, æl-TSÅ når det er RO-det",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "Thank you for being patient with me.",
+      "danish": "Tak fordi du har tålmodighed med mig.",
+      "transliteration": "tak for-di du har TÅL-mo-DEE-dighed med MIG",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T12:09:33.088722"
+    },
+    {
+      "english": "I’m thankful for small wins today, seriously.",
+      "danish": "Jeg er taknemmelig for små sejre i dag, helt seriøst.",
+      "transliteration": "jeg er tak-NEM-me-lig for SMÅ SEE-rrer i DAG, HELT se-ree-OST",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T12:09:33.088722"
     }
   ],
-  "last_updated": "2026-11-22T11:00:44.212327"
+  "last_updated": "2026-11-23T12:09:33.088722"
 }
