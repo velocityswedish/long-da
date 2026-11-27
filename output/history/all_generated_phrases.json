@@ -23879,7 +23879,399 @@
       "transliteration": "KAN jeg booKE en MASsaGE tid?",
       "category": "Sports & Fitness",
       "generated_at": "2026-11-26T12:10:24.813272"
+    },
+    {
+      "english": "Find your middle, then breathe.",
+      "danish": "Find din midte, og træk vejret.",
+      "transliteration": "Find din MID-te, og træk VEJ-ret.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I’m choosing steady, not frantic.",
+      "danish": "Jeg vælger rolig fremdrift, ikke panik.",
+      "transliteration": "Jeg VÆL-ger RO-lig frem-drift, IK-ke PA-nik.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Switch tasks, not your whole mood.",
+      "danish": "Skift opgaver, skift ikke hele humøret.",
+      "transliteration": "SKIFT op-VA-ger, SKIFT ikke HE-le HU-mø-ret.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Let meetings end on time.",
+      "danish": "Lad møderne slutte til tiden, ikke senere.",
+      "transliteration": "Lad MØE-der-ne SLUT-te til TI-den, IK-ke se-ne-re.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Keep your phone out during meals.",
+      "danish": "Hold mobilen væk fra måltiderne.",
+      "transliteration": "HOld MO-bilen VÆK fra MÅltids-er-ne.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "A walk breaks the mental loop.",
+      "danish": "En gåtur bryder tankecirklen, og det hjælper.",
+      "transliteration": "En GÅ-tur BRY-der TAN-ke-CIR-klen, og det HJÆL-per.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I need rest that actually restores.",
+      "danish": "Jeg har brug for hvile, der rigtigt genopbygger mig.",
+      "transliteration": "Jeg HAR BRUG for HVI-le, der rig-tigt ge-noP-byg-ger mig.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I need this by end of day",
+      "danish": "Jeg har brug for det inden dagens slutning.",
+      "transliteration": "JEG har brug foR det inden DAgens SLUTning",
+      "category": "Work & Office",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Can we talk in person instead?",
+      "danish": "Kan vi tage den i mødet i stedet?",
+      "transliteration": "KAN vi TA deN i MØdet i STEDet",
+      "category": "Work & Office",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I just joined, quick update please",
+      "danish": "Jeg er lige kommet med, kan du give et hurtigt overblik?",
+      "transliteration": "JEG er LIge KOMmet med, kan DU giV et HURtigT OVErblik",
+      "category": "Work & Office",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Could you call me when ready",
+      "danish": "Kan du ringe til mig, når du er klar?",
+      "transliteration": "KAN du RINge til MIG, NÅR du er KLAR",
+      "category": "Work & Office",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I can’t find the document",
+      "danish": "Jeg kan ikke finde dokumentet.",
+      "transliteration": "JEG kan ikKE finDE dokumentet",
+      "category": "Work & Office",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I’ll draft the reply after lunch",
+      "danish": "Jeg skriver udkast til svaret efter frokost.",
+      "transliteration": "JEG SKRIVer UDkast til SVaRet EFter FROkost",
+      "category": "Work & Office",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Do we have the meeting minutes?",
+      "danish": "Har vi referatet fra mødet?",
+      "transliteration": "HAR vi REfeRAtet fra MØdet",
+      "category": "Work & Office",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I want to plan a trip.",
+      "danish": "Jeg vil gerne planlægge en tur.",
+      "transliteration": "YEG vI gerne plan-LEH-guh en TOUHR.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "What does your calendar look like?",
+      "danish": "Hvordan ser din kalender ud?",
+      "transliteration": "HYOHR-dan ser din KAL-en-der ood?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Let’s decide tonight, not tomorrow.",
+      "danish": "Lad os beslutte det i aften, ikke i morgen.",
+      "transliteration": "Lahd os beh-SLU-tuh det ee AHF-ten, ikke ee MOR-gun.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "We could start with a draft plan.",
+      "danish": "Vi kan starte med et udkast til plan.",
+      "transliteration": "VEE kan STAR-teh meh aht UDH-kast til plan.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Which neighborhood should we meet in?",
+      "danish": "Hvilket kvarter skal vi mødes i?",
+      "transliteration": "HVIlket KVAHR-tar skal VEE MOW-des ee?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Can we make it a low-key day?",
+      "danish": "Kan vi gøre det til en rolig dag?",
+      "transliteration": "KAN VEE JER-uh deT til en ROH-lig DAG?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Do you want to do it indoors?",
+      "danish": "Vil du hellere gøre det indendørs?",
+      "transliteration": "VIL du HEH-lar-uh JER-uh deT in-den-DORs?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I can be gentle and still strong.",
+      "danish": "Jeg kan være blid og stadig stærk.",
+      "transliteration": "JeG kan være BLID og STADIG STÆRK.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I speak up, clearly and calmly.",
+      "danish": "Jeg siger det klart, roligt og tydeligt.",
+      "transliteration": "JeG siger det KLART, ROligt og TYdeligt.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I choose patience over panic today.",
+      "danish": "Jeg vælger tålmodighed frem for panik i dag.",
+      "transliteration": "JeG VÆlger TÅLmodighed frem for PA nik i DAG.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I let go of what I can’t carry.",
+      "danish": "Jeg slipper det, jeg ikke kan bære.",
+      "transliteration": "JeG SLIPper det, jeG ikke kan BÆre.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "My mind rests, my strength stays.",
+      "danish": "Mit hoved får ro, styrken forbliver.",
+      "transliteration": "MIT hoVeD får RO, STYRken forBLIVer.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "One honest step beats perfect plans.",
+      "danish": "Ét ærligt skridt slår perfekte planer.",
+      "transliteration": "ÉT ÆRLigt skridt SLÅr perFEKte PLAner.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I forgive myself, then move forward.",
+      "danish": "Jeg tilgiver mig selv, og går videre.",
+      "transliteration": "JeG tiLGIver mig SELV, og GÅr VIDere.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I fall for you, slowly.",
+      "danish": "Jeg bliver forelsket i dig, langsomt.",
+      "transliteration": "Jeg blIVer forelsket i dIG, langsOMT.",
+      "category": "Love",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Your kindness changes my whole mood.",
+      "danish": "Din venlighed ændrer mit humør helt.",
+      "transliteration": "Din venlIGhed ænDRER mit huMØR HELT.",
+      "category": "Love",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I want your peace, too.",
+      "danish": "Jeg vil også have din ro.",
+      "transliteration": "JEG vil også haVE din RO.",
+      "category": "Love",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Hold me, and breathe with me.",
+      "danish": "Hold mig, og træk vejret med mig.",
+      "transliteration": "Hold MIG, og TRÆK Vejret MED mig.",
+      "category": "Love",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Let’s make today feel lighter.",
+      "danish": "Lad os gøre i dag lidt lettere.",
+      "transliteration": "LA'd os GØR-e i DAG lidt LETtere.",
+      "category": "Love",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I choose you when it’s hard.",
+      "danish": "Jeg vælger dig, når det er svært.",
+      "transliteration": "JEG VÆLger dig, NÅR det æR SVÆRT.",
+      "category": "Love",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Stay close, I’ll keep showing up.",
+      "danish": "Bliv tæt på, jeg bliver ved.",
+      "transliteration": "BLIV TÆT PÅ, jeg blIVer veD.",
+      "category": "Love",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I’d like to start with soup.",
+      "danish": "Jeg vil gerne begynde med en suppe.",
+      "transliteration": "JEG vil gerne BØRYNDE med en SUPPE.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Can I substitute rice for potatoes?",
+      "danish": "Kan jeg få ris i stedet for kartofler?",
+      "transliteration": "KAN jeg få RIS i STEDET for KAR-tof-ler?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Is the chicken grilled or fried?",
+      "danish": "Er kyllingen grillet eller paneret?",
+      "transliteration": "ER KYLLING-en GRIL-let eller pa-NER-et?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Could I get it a bit less salty?",
+      "danish": "Kan jeg få det lidt mindre salt?",
+      "transliteration": "KAN jeg få det lidt MIN-dre SALT?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "What’s the portion size for that?",
+      "danish": "Hvor stor er portionen af den?",
+      "transliteration": "HVOR stor er POR-tio-nen af den?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Is there any gluten in the sauce?",
+      "danish": "Er der gluten i saucen?",
+      "transliteration": "ER der GLU-ten i SAU-sen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I’ll take the vegetarian option, please.",
+      "danish": "Jeg tager gerne den vegetariske mulighed.",
+      "transliteration": "JEG TA-ger gerne den VEGE-ta-riske MU-ligh-ed.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Can we sit together and chat?",
+      "danish": "Kan vi sætte os sammen og snakke?",
+      "transliteration": "Kan vi SÆTte os SAMmen og SNakke?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I’ll put laundry in, you fold.",
+      "danish": "Jeg lægger vasketøjet i, og du folder.",
+      "transliteration": "Jeg LÆgger VAstekøjet i, og du FOLder.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "The kids are finally in bed.",
+      "danish": "Børnene er endelig kommet i seng.",
+      "transliteration": "BØrnene er ENdelig KOMmet i SENG.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Let’s clear the table together now.",
+      "danish": "Lad os rydde bordet sammen nu.",
+      "transliteration": "Lad os RYdde BORdet SAMmen nu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I forgot the milk, I’m sorry.",
+      "danish": "Jeg glemte mælken, jeg er ked af det.",
+      "transliteration": "Jeg GLEMte mælk’en, jeg er KED af DET.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "We can make space for everyone.",
+      "danish": "Vi kan skabe plads til alle.",
+      "transliteration": "Vi kan SKAbe PLAds til ALle.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Who wants to help me bake?",
+      "danish": "Hvem vil være med til at bage?",
+      "transliteration": "HVEM vil VÆre med til at BAge?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Hi, you seem really friendly.",
+      "danish": "Hej, du virker virkelig venlig.",
+      "transliteration": "Hej, du VİRKER virkelig VENLIG.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Nice meeting you, I’m glad we talked.",
+      "danish": "Rart at møde dig, jeg er glad for, at vi snakkede.",
+      "transliteration": "RART at MØDE dig, jeg er GLAD for, at vi SNAKKEDE.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "What do you think about this place?",
+      "danish": "Hvad synes du om stedet her?",
+      "transliteration": "HVAD SYNES du om STEDET her?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I like your calm confidence, by the way.",
+      "danish": "Jeg kan godt lide din rolige selvtillid, i øvrigt.",
+      "transliteration": "JEG kan godt LIDE din RO-lige SELV-TIL-LID, i ØVRIGT.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Thanks for stopping to say hello.",
+      "danish": "Tak fordi du stoppede og sagde hej.",
+      "transliteration": "TAK fordi du STOPPEDE og SAGE hej.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I’m happy we’re sharing this moment.",
+      "danish": "Jeg er glad for, at vi deler det her øjeblik.",
+      "transliteration": "JEG er GLAD for, at vi DELER det her ØJEBLIK.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "Your Danish sounds great, honestly.",
+      "danish": "Din dansk lyder virkelig flot, ærligt talt.",
+      "transliteration": "DIN dansk LYDER virkelig FLOt, ÆRLIGT talt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-27T11:59:17.177152"
     }
   ],
-  "last_updated": "2026-11-26T12:10:24.813272"
+  "last_updated": "2026-11-27T11:59:17.177152"
 }

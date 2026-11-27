@@ -579,7 +579,39 @@
     {
       "category": "Sports & Fitness",
       "date": "2026-11-26"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Strength",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Love",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Meeting People & Greetings",
+      "date": "2026-11-27"
     }
   ],
-  "last_updated": "2026-11-26T12:10:24.833866"
+  "last_updated": "2026-11-27T11:59:17.191072"
 }
