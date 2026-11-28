@@ -24271,7 +24271,399 @@
       "transliteration": "DIN dansk LYDER virkelig FLOt, ÆRLIGT talt.",
       "category": "Meeting People & Greetings",
       "generated_at": "2026-11-27T11:59:17.177152"
+    },
+    {
+      "english": "I love the fresh air on rides.",
+      "danish": "Jeg elsker den friske luft på turen.",
+      "transliteration": "Jeg elsker den FRISKE luft på TUren.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Mind the gap, then step in.",
+      "danish": "Pas på gapet, så træder du ind.",
+      "transliteration": "Pas på GApet, så TRÆder du IND.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Can I bring my bike on?",
+      "danish": "Må jeg tage min cykel med?",
+      "transliteration": "MÅ jeg TAge min CYkel med?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I grab the next train, calmly.",
+      "danish": "Jeg tager bare næste tog, roligt.",
+      "transliteration": "Jeg TAger bare NÆste TOg, ROligt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I stand back for riders getting on.",
+      "danish": "Jeg står lige lidt tilbage, når folk stiger på.",
+      "transliteration": "Jeg STÅr lige lidt TILbage, når FOLk stiger PÅ.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "The ticket app saves me every time.",
+      "danish": "Billetappen redder mig hver eneste gang.",
+      "transliteration": "BILletappen REDder mig HVER eneste gang.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I watch the screens for changes.",
+      "danish": "Jeg kigger på skærmene, hvis der er ændringer.",
+      "transliteration": "Jeg KIGger på SKÆrmenE, hvis der er ÆNdringer.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Today, I loosen perfection's grip.",
+      "danish": "I dag slipper jeg grebet om perfektion,",
+      "transliteration": "I DAG slipper JEG grebet OM perfektion",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I breathe first, then I decide.",
+      "danish": "Jeg trækker vejret først, og så beslutter jeg mig,",
+      "transliteration": "JEG TRÆKKER vejret FØRST, og SÅ BESLUTTER jeg mig",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I practice honest answers with kindness.",
+      "danish": "Jeg øver mig i ærlige svar med venlighed,",
+      "transliteration": "JEG ØVER mig i ÆRLIGE svar med VENLIGHED",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I track my triggers, without judgment.",
+      "danish": "Jeg lægger mærke til mine triggere, uden at dømme,",
+      "transliteration": "JEG LÆGGER mærke TIL mine TRIGGERE, uden at DØMME",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I choose one priority for real life.",
+      "danish": "Jeg vælger én vigtig ting først,",
+      "transliteration": "JEG VÆLGER én VIGTIG ting FØRST",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I ask, what outcome do I want?",
+      "danish": "Jeg spørger mig selv, hvilket resultat jeg ønsker,",
+      "transliteration": "JEG SPØRGER mig SELV, hvilket RESULTAT jeg ØNSKER",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I turn fear into a small action.",
+      "danish": "Jeg vender frygt til en lille handling,",
+      "transliteration": "JEG VENDER FRYGT til en lille HANDLING",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I love how easy this feels.",
+      "danish": "Jeg elsker, hvor let det føles.",
+      "transliteration": "Jeg elsker, hvor let det FOEles.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Can we meet, just us, soon?",
+      "danish": "Kan vi ses, bare os to, snart?",
+      "transliteration": "Kan vi ses, BARe os to, SNART?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Your honesty really turns me on.",
+      "danish": "Din ærlighed tænder mig virkelig.",
+      "transliteration": "Din ÆRlhed TÆnder mig rigTIG.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I keep smiling since we talked.",
+      "danish": "Jeg bliver ved med at smile siden vi snakkede.",
+      "transliteration": "Jeg BLiVer ved med at SMILE siden vi SNAkkede.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Hold my hand, let’s go slow.",
+      "danish": "Hold min hånd, lad os gå roligt.",
+      "transliteration": "Hold min haNDE, LAD os gå ROligt.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I’d like a real date with you.",
+      "danish": "Jeg vil gerne på en rigtig date med dig.",
+      "transliteration": "JeG vil GERne på en rigTIG date MED dig.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "You make me feel seen and calm.",
+      "danish": "Du får mig til at føle mig set og rolig.",
+      "transliteration": "Du FÅr mig til at FOEle mig set og ROlig.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Give yourself permission to practice",
+      "danish": "Giv dig selv lov til at øve",
+      "transliteration": "giv dig SELV lov til at OVE",
+      "category": "Motivation",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Motivation shows up after you start",
+      "danish": "Motivation dukker op, når du starter",
+      "transliteration": "mo-ti-va-TION DUK-ker OP, når du STAR-ter",
+      "category": "Motivation",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Set a timer, then just move",
+      "danish": "Sæt en timer, og bare kom i gang",
+      "transliteration": "sÆT en TI-mer, og ba-re KOM i GANG",
+      "category": "Motivation",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Make Danish the reward today",
+      "danish": "Gør dansk til din belønning i dag",
+      "transliteration": "gør DANSK til din be-LØN-ning i DAG",
+      "category": "Motivation",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Say yes to one small conversation",
+      "danish": "Sig ja til én lille samtale",
+      "transliteration": "sig JA til en LIL-le SAM-ta-le",
+      "category": "Motivation",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Your future self is watching, act",
+      "danish": "Din fremtidige dig kigger med, gør det",
+      "transliteration": "din FRem-ti-di-ge dig KIG-ger med, GØR det",
+      "category": "Motivation",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Choose effort over mood, always",
+      "danish": "Vælg indsats frem for humør, altid",
+      "transliteration": "VÆLG INDSATS frem for HUmør, AL-tid",
+      "category": "Motivation",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Take the first step, quietly",
+      "danish": "Tag første skridt, stille og roligt",
+      "transliteration": "TAK første skridt, SILte og roligt",
+      "category": "Courage",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Practice courage in small moments",
+      "danish": "Træn mod i små øjeblikke",
+      "transliteration": "TRÆn MOD i SMÅ øjeblikke",
+      "category": "Courage",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Tell the truth, even if awkward",
+      "danish": "Sig sandheden, selv når det er akavet",
+      "transliteration": "SIG SANheden, SELV når det er aKAVet",
+      "category": "Courage",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Back down if you must, not out of fear",
+      "danish": "Træk dig tilbage, hvis du skal, ikke af frygt",
+      "transliteration": "TRÆK dig TILbage, hvis du SKAL, IKKE af FRYGT",
+      "category": "Courage",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Apologize without shrinking",
+      "danish": "Undskyld, uden at gøre dig mindre",
+      "transliteration": "UNDskyld, uden at GØre dig MINdre",
+      "category": "Courage",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Ask the question you’re avoiding",
+      "danish": "Stil det spørgsmål, du undgår",
+      "transliteration": "STIL det SPØrgsMÅL, du UNDgår",
+      "category": "Courage",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Choose the harder right over the easier wrong",
+      "danish": "Vælg det svære rigtige frem for det nemme forkerte",
+      "transliteration": "VÆLG det SVÆre RIGtige frem for det NEme FORkerte",
+      "category": "Courage",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Hi, it’s me, quick question",
+      "danish": "Hej, det er mig, har du et øjeblik?",
+      "transliteration": "Hej, det er MIG, har du et ØJEBLIK?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I just called, did it connect?",
+      "danish": "Jeg ringede lige, gik den igennem?",
+      "transliteration": "Jeg RINGEDE lige, gik DEN igenNEM?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Can you send that by SMS?",
+      "danish": "Kan du sende det som en SMS?",
+      "transliteration": "Kan du SENDE det SOM en SMS?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Could you call me tomorrow morning?",
+      "danish": "Kan du ringe til mig i morgen formiddag?",
+      "transliteration": "Kan du RINGE til mig i MORGEN FORMIDDAG?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I’m stepping away, talk later",
+      "danish": "Jeg går lige væk, vi kan tage den senere",
+      "transliteration": "Jeg GÅR lige VÆK, vi kan TA den SE NERE",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Sorry, I missed the earlier call",
+      "danish": "Undskyld, jeg så ikke dit tidligere opkald",
+      "transliteration": "Undskyld, jeg så ikke dit TIDLIGERE OPKALD",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Please text me when you arrive",
+      "danish": "Skriv lige til mig, når du er fremme",
+      "transliteration": "Skriv lige TIL mig, når du er FREMme",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Thanks for apologizing, I can try",
+      "danish": "Tak for din undskyldning, jeg kan godt prøve",
+      "transliteration": "Tak for din UNDSKYLDning, jeg kan godt PRØVE",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I forgive you, and I mean it",
+      "danish": "Jeg tilgiver dig, og jeg mener det",
+      "transliteration": "JEG tilgiver DIG, og jeg MEner det",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Let’s pause, then talk about forgiveness",
+      "danish": "Lad os holde en pause, og så tale om tilgivelse",
+      "transliteration": "LAD os HOLDE en PAUSE, og SÅ tale om tilgivelse",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I’m not excusing it, but I move on",
+      "danish": "Jeg undskylder det ikke, men jeg går videre",
+      "transliteration": "JEG undskylder det IKKE, men jeg GÅR videre",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I’ll stop keeping score, right now",
+      "danish": "Jeg holder op med at tælle fejl, lige nu",
+      "transliteration": "JEG HOLDer op med at TÆLLE fejl, LIge nu",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Your apology helps, I feel safer again",
+      "danish": "Din undskyldning hjælper, jeg føler mig tryg igen",
+      "transliteration": "DIN undskyldning HJÆLper, jeg FØler mig TRYg igen",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I choose mercy, not revenge today",
+      "danish": "Jeg vælger barmhjertighed, ikke hævn i dag",
+      "transliteration": "JEG VÆLger barmHJERTighed, ikke HÆVN i dag",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Joy grows in everyday progress",
+      "danish": "Glæde vokser i små fremskridt hver dag",
+      "transliteration": "Glæde vokser i SMAA fremskridt hver dag",
+      "category": "Happiness",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I celebrate my effort, not just results",
+      "danish": "Jeg fejrer min indsats, ikke kun resultatet",
+      "transliteration": "Jeg FEJRer min INDSATS, ikke KUN resulTATet",
+      "category": "Happiness",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I let gratitude change my mood",
+      "danish": "Jeg lader taknemmelighed ændre mit humør",
+      "transliteration": "Jeg laDER takneMMELighed æNDRe mit HUMør",
+      "category": "Happiness",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "A clean space calms my mind",
+      "danish": "Et ryddeligt hjem beroliger mit hoved",
+      "transliteration": "Et RYDdeligt hjem BEroliger mit HOved",
+      "category": "Happiness",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "Kindness to strangers lifts my day",
+      "danish": "Jeg gør noget venligt for en fremmed, og dagen letter",
+      "transliteration": "Jeg GØR noGET VENligt for en FREMmed, og DAgen LETter",
+      "category": "Happiness",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I take a short walk for me",
+      "danish": "Jeg tager en lille tur udenfor for min egen skyld",
+      "transliteration": "Jeg TAger en LILle tur UDENfor for min EGEN SKYLD",
+      "category": "Happiness",
+      "generated_at": "2026-11-28T11:35:04.337900"
+    },
+    {
+      "english": "I choose comfort over perfection today",
+      "danish": "Jeg vælger komfort frem for perfektion i dag",
+      "transliteration": "Jeg VÆLger KOMfort frem for perFEKtion i DAG",
+      "category": "Happiness",
+      "generated_at": "2026-11-28T11:35:04.337900"
     }
   ],
-  "last_updated": "2026-11-27T11:59:17.177152"
+  "last_updated": "2026-11-28T11:35:04.337900"
 }
